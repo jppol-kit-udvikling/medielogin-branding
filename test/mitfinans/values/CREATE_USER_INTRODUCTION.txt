@@ -1,0 +1,4 @@
+<h1>Opret bruger</h1>
+<p>Indtast din e-mail og en adgangskode.</p>
+<p>Adgangskoden skal bestå af mindst 6 tegn og indeholde både tal og bogstaver.</p>
+

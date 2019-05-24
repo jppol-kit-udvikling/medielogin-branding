@@ -1,0 +1,33 @@
+<table style="border-collapse: collapse; font-family: Arial,Sans-serif; font-size: 12px;">
+<tbody>
+<tr>
+<td style="border: 0px; padding: 0px;" colspan="3"><img style="margin: 0px; border: 0px; border-top: 20px solid transparent; border-bottom: 2px solid transparent; padding: 0px; line-height: 0px;" src="http://abonnement.jyllands-posten.dk/css/images/email-logo-header.gif" alt="Jyllands-Posten" /></td>
+</tr>
+<tr>
+<td style="border: 0px; padding: 0px; line-height: 0px; background: #eeeeee;" colspan="3"><img style="margin: 0px; border: 0px; padding: 0px;" src="http://abonnement.jyllands-posten.dk/css/images/email-divider.gif" alt="" /></td>
+</tr>
+<tr>
+<td style="height: 40px; line-height: 100%;" colspan="3"> </td>
+</tr>
+<tr>
+<td style="width: 40px;" width="40"> </td>
+<td style="text-align: left; font-family: Arial,Sans-serif; font-size: 12px;"><strong>Velkommen til Jyllands-Posten</strong><br />Du er nu ved at oprette din egen personlige, gratis brugerkonto til Jyllands-Posten.<br /><br />Før du kan logge ind, skal du bekræfte oprettelsen ved at klikke her:<br /><a href="$[ACTIVATION_LINK]&nopwd=true&activationcode=$[ACTIVATION_CODE]&redir=@[JPSERVER]/success?activated=true">$[ACTIVATION_LINK]&nopwd=true&activationcode=$[ACTIVATION_CODE]&redir=@[JPSERVER]/success?activated=true</a>. <br /><br />Ønsker du senere at ændre din adgangskode, kan du gøre det her: <a href="@[JPSERVER]/?resetpassword=true">@[JPSERVER]/?resetpassword=true</a><br /><br />Med din brugerkonto får du adgang til Jyllands-Postens webbutik med læserarrangementer, rejser, bøger, vin og meget andet.<br /><br />Indtaster du dit abonnementsnummer på siden <a href="@[JPSERVER]/mine-oplysninger.aspx">Mine oplysninger</a>, kan du bl.a. læse e-avisen, ændre dit abonnement og få rabat på vores gode tilbud.</td>
+<td style="width: 40px;" width="40"> </td>
+</tr>
+<tr>
+<td style="height: 25px; line-height: 0px;" colspan="3"> </td>
+</tr>
+<tr>
+<td style="width: 40px;" width="40"> </td>
+<td style="text-align: left; line-height: 100%;"><strong style="font-family: Arial,Sans-serif; font-size: 12px;">Med venlig hilsen</strong> <br /> <img style="margin: 0px; border: 0px; border-top: 8px solid transparent; padding: 0px;" src="http://abonnement.jyllands-posten.dk/css/images/email-logo-body.gif" alt="Jyllands-Posten" /></td>
+<td style="width: 40px;" width="40"> </td>
+</tr>
+<tr>
+<td style="height: 40px; line-height: 100%;" colspan="3"> </td>
+</tr>
+<tr>
+<td style="border: 0px; padding: 0px; line-height: 0px; background: #eeeeee;" colspan="3"><img style="margin: 0px; border: 0px; padding: 0px;" src="http://abonnement.jyllands-posten.dk/css/images/email-divider.gif" alt="" /></td>
+</tr>
+</tbody>
+</table>
+<p> </p>

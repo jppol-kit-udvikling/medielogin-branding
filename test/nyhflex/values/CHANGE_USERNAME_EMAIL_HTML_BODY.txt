@@ -1,0 +1,19 @@
+<html>
+<head>
+	<style type="text/css">
+		body {font-family: arial; font-size: 13px; }
+		h1 { font-size: 16px; }
+		.grey { color: #666; }
+    small { font-size: 10px }
+	</style>
+</head>
+<body>
+<img src="@[imageUrl]/brandings/nyhflex/nyhedsflex.png" alt="medielogin_logo"></img>
+<p>Du har bedt om at skifte brugernavn til din brugerkonto hos JyllandsPosten, Ekstra Bladet og Politiken. </p>
+<p><a href="$[CHANGE_EMAIL_LINK]&redir=@[medielogin_url]/telmore">Benyt dette link til at skifte brugernavn</a></p>
+<p>Bemærk at du skal benytte din eksisterende email-adresse og brugernvan for at få lov til at skifte brugernavnet.</p>
+<p> </p>
+<p>Med venlig hilsen</p>
+<p>Medielogin</p>
+</body>
+</html>

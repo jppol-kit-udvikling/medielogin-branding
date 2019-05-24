@@ -1,0 +1,33 @@
+<table style="border-collapse: collapse; font-family: Arial,Sans-serif; font-size: 12px;">
+<tbody>
+<tr>
+<td style="border: 0px; padding: 0px;" colspan="3"><img style="margin: 0px; border: 0px; border-top: 20px solid transparent; border-bottom: 2px solid transparent; padding: 0px; line-height: 0px;" src="http://abonnement.jyllands-posten.dk/css/images/email-logo-header.gif" alt="Jyllands-Posten" width="288" height="33" /></td>
+</tr>
+<tr>
+<td style="border: 0px; padding: 0px; line-height: 0px; background: #eeeeee;" colspan="3"><img style="margin: 0px; border: 0px; padding: 0px;" src="http://abonnement.jyllands-posten.dk/css/images/email-divider.gif" alt="" width="817" height="5" /></td>
+</tr>
+<tr>
+<td style="height: 40px; line-height: 100%;" colspan="3">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 40px;" width="40">&nbsp;</td>
+<td style="text-align: left; font-family: Arial,Sans-serif; font-size: 12px;"><strong>Velkommen til Jyllands-Posten</strong> <br />Du har f&aring;et oprettet en adgang til Jyllands-Posten, der giver dig fri adgang til alt indhold p&aring; jp.dk. <br /> <br />Du mangler at aktivere din brugerprofil. Denne skal du bruge til at logge ind og komme i gang. Men f&oslash;r du kan logge ind, skal du klikke p&aring; nedenst&aring;ende link for at aktivere din brugerprofil: <br /><a href="$[ACTIVATION_LINK]&amp;activationcode=$[ACTIVATION_CODE]&amp;brand=mitjp.mit&amp;redir=http:/abonnement.jyllands-posten.dk/success?activated=true">$[ACTIVATION_LINK]&amp;activationcode=$[ACTIVATION_CODE]&amp;brand=mitjp.mit&amp;redir=http://abonnement.jp.dk/success?activated=true</a>. <br /> <br />Vi h&aring;ber, at du bliver glad for din adgang til Jyllands-Postens digitale indhold.</td>
+<td style="width: 40px;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="height: 25px; line-height: 0px;" colspan="3">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 40px;" width="40">&nbsp;</td>
+<td style="text-align: left; line-height: 100%;"><strong style="font-family: Arial,Sans-serif; font-size: 12px;">Med venlig hilsen</strong> <br /> <img style="margin: 0px; border: 0px; border-top: 8px solid transparent; padding: 0px;" src="http://abonnement.jyllands-posten.dk/css/images/email-logo-body.gif" alt="Jyllands-Posten" width="192" height="22" /></td>
+<td style="width: 40px;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="height: 40px; line-height: 100%;" colspan="3">&nbsp;</td>
+</tr>
+<tr>
+<td style="border: 0px; padding: 0px; line-height: 0px; background: #eeeeee;" colspan="3"><img style="margin: 0px; border: 0px; padding: 0px;" src="http://abonnement.jyllands-posten.dk/css/images/email-divider.gif" alt="" width="817" height="5" /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>

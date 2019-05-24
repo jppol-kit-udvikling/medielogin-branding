@@ -1,0 +1,10 @@
+Kære $[FirstName:Kunde] $[LastName:]
+
+Da du allerede har en profil, har vi som en service automatisk tilføjet dit abonnementsnummer til din eksisterende Politiken Profil.
+
+Hvis du har problemer kan du få hjælp på politiken.dk/kundecenter eller ringe til os på 70 15 01 01.
+
+Venlig hilsen 
+
+POLITIKEN
+Erhverv

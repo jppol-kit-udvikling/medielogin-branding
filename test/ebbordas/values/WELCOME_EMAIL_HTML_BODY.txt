@@ -1,0 +1,14 @@
+<div style="font-size: 15px; font-family: Calibri, sans-serif;">
+<p><strong>Kære $[FirstName:abonnent] $[LastName:]</strong></p>
+<p>Velkommen til Ekstra Bladet & Medielogin.</p>
+<p>Vi er glade for at kunne byde dig velkommen med din brugerkonto hos Medielogin og vil gerne bede dig om at aktivere din konto. Så er vi sikre på at den oplyste email er registeret korrekt hos os, og vi kan kontakte dig på email ifm. dit avisabonnement på Ekstra Bladet.</p>
+<p>Med dit login kan du:</p>
+<ul>
+<li>Høre seneste nyt fra redaktionen</li>
+<li>Følge med i hvad der kommer i avisen</li>
+<li>Deltage i vores månedskonkurrence</li>
+<li>Få 1 måneds adgang til Ekstra Bladet+ </li>
+</ul>
+<p><strong>VIGTIGT  aktivér dit Medielogin og vælg kodeord</strong></p>
+<p><strong>Klik på dette link: <a href="$[ACTIVATION_LINK]&&redir=@[permissionsite]">$[ACTIVATION_LINK]&redir=@[permissionsite]</a></strong></p>
+Bemærk at dit Medielogin også kan bruges på andre sites i JP/Politikens Hus. Det gælder fx politiken.dk og jyllands-posten.dk.<br /><br />Rigtig god fornøjelse!<br />Venlig hilsen <br />Ekstra Bladet & Medielogin  </div>

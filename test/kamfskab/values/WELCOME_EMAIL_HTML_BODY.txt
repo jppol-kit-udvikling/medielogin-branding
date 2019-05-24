@@ -1,0 +1,21 @@
+<table style="width: 98%; border-collapse: collapse;" border="0" width="98%" cellspacing="0" cellpadding="10px" align="center">
+<tbody>
+<tr>
+<td style="border-top-style: solid; border-top-width: 5px; border-top-color: #000000; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #000000; font-family: Arial, Helvetica, sans-serif; padding: 20px;" align="center" valign="top">
+<div style="font-size: 20px;"><img style="width: 200px; display: block;" src="http://mit.finans.dk/css/images/logo_finans.gif" alt="Finans" width="200" height="40" /></div>
+</td>
+</tr>
+<tr>
+<td style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; padding: 10px;" align="left" valign="top">
+<p><strong>Velkommen til Finans</strong><br />Du har fået oprettet en adgang til Finans, der giver dig fri adgang til alt indhold på finans.dk på computer, smartphone og tablet.</p>
+<p>Vi har oprettet en brugerprofil til dig. Denne skal du bruge til at logge ind og komme i gang med Finans. Men før du kan logge ind, skal du oprette en personlig adgangskode ved at klikke på nedenstående link:</p>
+<p><a style="color: #a70a2c;" href="@[medielogin_host]@[activation_path]?userid=$[USERID]&activationcode=$[ACTIVATION_CODE]">@[medielogin_host]@[activation_path]?userid=$[USERID]&activationcode=$[ACTIVATION_CODE]</a></p>
+<p>Vi håber, at du bliver glad for din adgang til Finans.</p>
+<p>Med venlig hilsen<br /><strong>Finans</strong></p>
+</td>
+</tr>
+<tr>
+<td style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; border-top-style: solid; border-top-width: 1px; border-top-color: #000000; padding: 10px;" align="left" valign="top"><span style="color: #666666;">Finans - Rådhuspladsen 37 - 1785 København V - Finans@Finans.dk - Tlf.: </span><span style="color: #666666; font-size: 12.222222328186px;">33 30 31 31</span></td>
+</tr>
+</tbody>
+</table>

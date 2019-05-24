@@ -1,0 +1,23 @@
+        Kære $[FirstName:bruger]
+        
+        
+        
+        Velkommen til Skoleliv. Du har nu oprettet et Medielogin og er allerede godt i gang, men du mangler lige at aktivere din profil.
+        
+             
+       http://skoleliv.dk/polid/activate?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]&forwardTo=http://skoleliv.dk/webservice/skoleliv_trial
+        
+                
+        Hvis linket ikke virker, kan du kopiere $[LRANGE]link$[RRANGE] ind i en browser og trykke på enter.
+        
+        Har du spørgsmål, er du velkommen til at kontakte vores kundecenter på tlf. 7174 7673 eller på mail service.skoleliv@pol.dk.
+
+        Rigtig god fornøjelse med Politiken Skoleliv.
+
+Venlig hilsen
+
+Politiken Skoleliv
+
+
+
+På Politiken Skoleliv benytter vi det fælles Medielogin, som også bruges på andre hjemmesider med tilknytning til JP/Politikens hus. Læs mere om Medielogin på http://medielogin.dk

@@ -1,0 +1,14 @@
+<p><img style="width: 200px; height: auto; padding: 20px;" src="https://polid.jppol.dk/brandings/ditpol/pollogo.png" alt="" width="340" height="76" /></p>
+<div style="background-color: #fff; padding: 20px; font-family: Georgia; font-size: 18px;">
+<p style="font-family: Georgia; font-size: 18px;">Kære $[FirstName:bruger]</p>
+<p style="font-family: Georgia; font-size: 18px;">Du har bedt om at skifte din e-mailadresse. Klik på linket nedenfor for at bekræfte.</p>
+<a style="font-family: Georgia; font-size: 18px;" href="@[server]bruger/profil/afslut_ny_email?ssolink=$[CHANGE_EMAIL_LINK]"> @[server]bruger/profil/afslut_ny_email?ssolink=$[CHANGE_EMAIL_LINK] </a>
+<p style="font-family: Georgia; font-size: 18px;">Hvis du har andre aktiviteter på hjemmesider i JP/Politikens Hus gælder din nye e-mailadresse også der.</p>
+<p> </p>
+<p><span style="font-family: Georgia;"><span style="font-size: 18px;">Hvis du oplever problemer i relation til Skoleliv.dk, kan du finde kontaktinformation på <a href="http://skoleliv.dk/om">http://skoleliv.dk/om</a>. </span></span></p>
+<p> </p>
+<p><span style="font-family: Georgia;"><span style="font-size: 18px;">Venlig hilsen</span></span></p>
+<p><span style="font-family: Georgia;"><span style="font-size: 18px;">Skoleliv</span></span></p>
+<p> </p>
+<p><span style="font-family: Georgia;"><span style="font-size: 18px;">På Skoleliv benytter vi det fælles Medielogin, som også bruges på andre hjemmesider med tilknytning til JP/Politikens hus. Læs mere om Medielogin på http://medielogin.dk</span></span></p>
+</div>

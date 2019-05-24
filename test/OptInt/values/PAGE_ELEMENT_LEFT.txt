@@ -1,0 +1,1 @@
+<a href="~Login.aspx">Log ind</a> <br/> <a href="~Account/ResetPassword.aspx">Glemt password</a> <br /> This is located in the left side

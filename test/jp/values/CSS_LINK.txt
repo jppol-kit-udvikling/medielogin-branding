@@ -1,0 +1,1 @@
+$[brandingPath]/ssoWidget.css

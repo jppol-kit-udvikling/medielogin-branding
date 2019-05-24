@@ -1,0 +1,13 @@
+Lige nu vil vi gerne give dig fri adgang til hele Jyllands-Postens digitale univers samt e-avis i 14 dage, hvis du aktiverer din bruger. 
+
+Du får fuld adgang til alt indhold her: $[ACTIVATION_LINK]&nopwd=true&activationcode=$[ACTIVATION_CODE]&redir=@[JPSERVER]/trial?activated=true
+
+Prøv Jyllands-Posten i 14 dage og få: 
+- Jyllands-Postens e-avis – samme gode indhold, som du kender fra printavisen. 
+- Adgang til alle artikler på jyllands-posten.dk
+- Adgang til e-avis-arkiv samt lokalaviser
+- Fordele og rabatter igennem Mit JP.
+
+Det er nemt at komme i gang, og din adgang udløber automatisk. 
+
+Start din 14-dages prøveperiode her: $[ACTIVATION_LINK]&nopwd=true&activationcode=$[ACTIVATION_CODE]&redir=@[JPSERVER]/trial?activated=true

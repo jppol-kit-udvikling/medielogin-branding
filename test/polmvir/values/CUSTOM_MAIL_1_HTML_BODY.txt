@@ -1,0 +1,29 @@
+<html>
+<body>
+<table>
+    <tr>
+        <td><img src="http://multimedia.pol.dk/archive/00386/politiken_dk_sort_s_386662a.jpg"/></td>
+    </tr>
+</table>
+<table style="background-color:#F2F2F2;border-top:5px solid #CC0000;font-family:Helvetica,Arial,sans-serif;font-size:1em;padding:20px;">
+    <tr>
+        <td>
+            <span style="font-weight:bold;font-size:1.5em;">Kære $[FirstName:Kunde] $[LastName:]</span><br/><br/>
+Din arbejdsplads har sørget for at du har fri adgang til politiken.dk<br /><br />
+Vi kan se du allerede har en profil på politiken.dk. Vi har sørget for at du nu har fri adgang til politiken.dk gennem virksomhedsordningen.
+<br />
+<br />
+Vi har samlet dine oplysninger på din Politiken Profil. Hvis du fx skifter mailadresse eller ønsker et nyt kodeord, er det også her du ændrer det. Du vil selvfølgelig stadig have mulighed for, at gå direkte til Kundecenter hvis du foretrækker det. Brug adgangen på politiken.dk/kundecenter eller ring til os på 70 15 01 01.
+<br/>
+<br/>
+Venlig hilsen 
+
+<br/>
+		    <span style="font-weight:bold;font-size:1.5em;">POLITIKEN</span><br/>
+            <span style="font-weight:bold;font-size:1.17em;">Erhverv</span><br/><br/>
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>

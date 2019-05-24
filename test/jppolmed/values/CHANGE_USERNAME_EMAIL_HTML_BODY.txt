@@ -1,0 +1,6 @@
+<p>Du har bedt om at skifte brugernavn til din brugerkonto hos JyllandsPosten, Ekstra Bladet og Politiken.&nbsp;</p>
+<p>Benyt f&oslash;lgende link&nbsp;<a href="$[CHANGE_EMAIL_LINK]&amp;redir=@[medielogin_url]">$[CHANGE_EMAIL_LINK]&amp;redir=@[medielogin_url]</a>&nbsp;for at starte aktiveringen.</p>
+<p>Bem&aelig;rk at du skal benytte din eksisterende email-adresse og brugernvan for at f&aring; lov til at skifte brugernavnet.</p>
+<p>&nbsp;</p>
+<p>Med venlig hilsen</p>
+<p>Medielogin</p>

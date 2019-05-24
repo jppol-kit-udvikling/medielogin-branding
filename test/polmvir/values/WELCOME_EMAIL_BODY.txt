@@ -1,0 +1,17 @@
+Kære $[FirstName:Kunde] $[LastName:]
+
+Din arbejdsplads har nu sørget for at du har fri adgang til politiken.dk 
+
+God journalistik er logisk nok ikke gratis og for at sikre høj kvalitet, også i fremtiden, skal det koste penge at læse nyheder på nettet. Den gode nyhed her er, at din arbejdsplads nu stiller denne service til rådighed for dig. 
+
+Opret din Politiken Profil
+En Politiken Profil er personlig og giver dig adgang til hele dit abonnement på computer, smartphone og tablet.
+Klik på dette link @[server]bruger/opret/angivadgangskode/?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]&showAcceptEmail=true – så kan du oprette din Politiken Profil og vælge en adgangskode.
+
+Overblik
+Vi har samlet dine oplysninger på din Politiken Profil. Hvis du fx skifter mailadresse eller ønsker et nyt kodeord, er det også her du ændrer det. Du vil selvfølgelig stadig have mulighed for, at gå direkte til Kundecenter hvis du foretrækker det. Brug adgangen på politiken.dk/kundecenter eller ring til os på 70 15 01 01.
+
+Med venlig hilsen
+
+POLITIKEN
+Erhverv

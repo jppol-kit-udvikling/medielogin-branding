@@ -1,0 +1,7 @@
+<h3>Du har bedt om et nyt password til din brugerkonto hos Ekstra Bladet nationen!  </h3>
+<p>  Benyt følgende link $[ACTIVATION_LINK]&brand=EB     <br>Du vil herefter blive bedt om at indtaste et engangspassword. <br>Dit engangspassword er    $[ACTIVATION_CODE]    <br>Når du har indtastet dit engangspassword, vil du blive bedt om at vælge et nyt password, som du efterfølgende kan bruge til normalt login.    
+<br><br>
+Bemærk at ændringen også kan træde i kraft for logins hos Politiken eller Jyllands-Posten, hvis du har sådanne.
+<br><br>
+Tak for din interesse for Ekstra Bladet nationen!
+</p>

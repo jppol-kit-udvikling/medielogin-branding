@@ -1,0 +1,18 @@
+<p><img style="width: 300px; height: auto; padding: 20px;" src="https://polid.jppol.dk/brandings/skoleliv.prod/assets/skoleliv_logo_green@2x.png" alt="" /><br /><br /></p>
+<div style="background-color: #fff; padding: 20px; font-family: Georgia; font-size: 18px;">
+<p style="font-family: Georgia; font-size: 18px;">Kære $[FirstName:bruger]</p>
+<p style="font-family: Georgia; font-size: 18px;"><span style="font-family: Georgia;"><span style="font-size: 18px;">Du har nu oprettet en Medielogin-profil til Politiken Skoleliv, men du mangler at aktivere den.</span></span></p>
+<p style="font-family: Georgia; font-size: 18px;"><span style="font-family: Georgia;"><span style="font-size: 18px;"><a href="@[server_http]polid/activate?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]&forwardTo=http://skoleliv.dk/webservice/skoleliv_trial">Aktiver din profil her</a></span></span></p>
+<p style="font-family: Georgia; font-size: 18px;"></p>
+<br />
+<p><span style="font-family: Georgia;"><span style="font-size: 18px;">Når du er logget ind på Politiken Skoleliv:</span></span></p>
+<p><span style="font-family: Georgia;"><span style="font-size: 18px;">- kan du læse alle artikler og debatindlæg på Skoleliv.dk</span></span></p>
+<p><span style="font-family: Georgia;"><span style="font-size: 18px;">- modtager du vores daglige nyhedsbrev med nyheder, overblik og debat.</span></span></p>
+<p><span style="font-family: Georgia;"><span style="font-size: 18px;">Har du spørgsmål, er du velkommen til at kontakte vores kundecenter på tlf. 7174 7673 eller på mail service.skoleliv@pol.dk</span></span></p>
+<br />
+<p><span style="font-family: Georgia;"><span style="font-size: 18px;">Rigtig god fornøjelse med <a href="http://skoleliv.dk">Politiken Skoleliv</a> </span></span></p>
+<p><span style="font-family: Georgia;"><span style="font-size: 18px;">Venlig hilsen </span></span></p>
+<p><span style="font-family: Georgia;"><span style="font-size: 18px;">Politiken Skoleliv</span></span></p>
+<br />
+<p style="font-family: Georgia; font-size: 18px;"><span style="font-family: Georgia;"><span style="font-size: 18px;">På Skoleliv benytter vi det fælles Medielogin, som også bruges på andre hjemmesider med tilknytning til JP/Politikens hus. Læs mere om <a href="http://medielogin.dk">Medielogin</a></span></span></p>
+</div>

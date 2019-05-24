@@ -1,0 +1,7 @@
+Du er nu oprettet som bruger hos billedbureauet POLFOTO. 
+
+Inden du kan logge ind, skal du vælge en adgangskode via aktiveringslinket:
+
+$[ACTIVATION_LINK]&activationcode=$[ACTIVATION_CODE]&brand=Polfoto&redir=https%3A%2F%2Fwww.polfoto.dk%2F_layouts%2FJPPol.PolPhoto.Base%2FLoginPage.aspx 
+
+Har du spørgsmål så skriv til salg@polfoto.dk eller ring til +45 33471233

@@ -1,0 +1,14 @@
+<table>
+<tbody>
+<tr>
+<td><img src="http://multimedia.pol.dk/archive/00386/politiken_dk_sort_s_386662a.jpg" alt="" /></td>
+</tr>
+</tbody>
+</table>
+<table style="background-color: #f2f2f2; border-top: 5px solid #CC0000; font-family: Helvetica,Arial,sans-serif; font-size: 1em; padding: 20px;">
+<tbody>
+<tr>
+<td><span style="font-weight: bold; font-size: 1.5em;">K&aelig;re $[FirstName:Kunde] $[LastName:]</span><br /><br />Da du allerede har en profil, har vi som en service automatisk tilf&oslash;jet dit abonnementsnummer til din eksisterende Politiken Profil.<br /><br />Hvis du har problemer kan du f&aring; hj&aelig;lp p&aring; <a style="text-decoration: none;" href="http://politiken.dk/kundecenter/"><span style="color: #cc0000; font-weight: bold;">politiken.dk/kundecenter</span></a> eller ringe til os p&aring; 70 15 01 01.<br /><br />Venlig hilsen <br /> <span style="font-weight: bold; font-size: 1.5em;">POLITIKEN</span><br /> <span style="font-weight: bold; font-size: 1.17em;">Erhverv</span><br /><br /></td>
+</tr>
+</tbody>
+</table>

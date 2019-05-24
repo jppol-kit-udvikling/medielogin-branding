@@ -1,0 +1,26 @@
+<html>
+<body>
+<table>
+    <tr>
+        <td><img src="http://multimedia.pol.dk/archive/00386/politiken_dk_sort_s_386662a.jpg"/></td>
+    </tr>
+</table>
+<table style="background-color:#F2F2F2;border-top:5px solid #CC0000;font-family:Helvetica,Arial,sans-serif;font-size:1em;padding:20px;">
+    <tr>
+        <td>
+            <span style="font-weight:bold;font-size:1.5em;">Kære $[FirstName:Kunde]</span><br/><br/>
+Om få dage indfører vi abonnement på politiken.dk. God journalistik er logisk nok ikke gratis og for at sikre høj kvalitet, også i fremtiden, skal det koste penge at læse nyheder på nettet. Den gode nyhed her er, at du – som betalende kunde på avisen – selvfølgelig får fuld adgang til politiken.dk uden ekstra betaling, ligesom du i dag også har adgang til Politikens arkiv og til Politiken e-avis. Du får derfor endnu mere for pengene. 
+<br /><br />
+Vi har som en service automatisk tilføjet dit abonnementsnummer til din eksisterende Politiken Profil.
+<br />
+<br />
+Venlig hilsen 
+
+            <span style="font-weight:bold;font-size:1.5em;">POLITIKEN</span><br/>
+            <span style="font-weight:bold;font-size:1.17em;">Kundecenter</span><br/><br/>
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>

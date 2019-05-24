@@ -1,0 +1,14 @@
+<table>
+<tbody>
+<tr>
+<td><img src="http://multimedia.pol.dk/archive/00386/politiken_dk_sort_s_386662a.jpg" alt="" /></td>
+</tr>
+</tbody>
+</table>
+<table style="background-color: #f2f2f2; border-top: 5px solid #CC0000; font-family: Helvetica,Arial,sans-serif; font-size: 1em; padding: 20px;">
+<tbody>
+<tr>
+<td><span style="font-weight: bold; font-size: 1.5em;">K&aelig;re $[FirstName:Kunde] $[LastName:]</span><br /><br />Tak for samtalen.<br />Efter aftale, sender vi hermed dit aktiveringslink til din Politiken Profil.<br />Vi har oprettet Profilen, men det er n&oslash;dvendigt, at du selv aktiverer den og v&aelig;lger adgangskode.<br />Det g&oslash;r du ved at <a style="text-decoration: none;" href="@[server]bruger/opret/angivadgangskode/?activationcode=$[ACTIVATION_CODE]&amp;userid=$[USERID]&amp;showAcceptEmail=true"><span style="color: #cc0000; font-weight: bold;">klikke p&aring; dette link</span></a><br /><br /><span style="font-weight: bold; font-size: 1.17em;">Hvad er Politiken Profil</span><br />En Politiken Profil best&aring;r helt enkelt af din mailadresse og en selvvalgt adgangskode. Fordelen er, at du fremover kan logge ind ved hj&aelig;lp af disse to oplysninger.<br /><br />En Politiken Profil er personlig og giver dig adgang til hele dit abonnement p&aring; computer, smartphone og tablet.<br /><br /><span style="font-weight: bold; font-size: 1.17em;">Hvordan logger jeg ind?</span><br />Det g&oslash;r du helt enkelt ved at g&aring; ind p&aring; <a style="text-decoration: none;" href="http://www.politiken.dk/"><span style="color: #cc0000; font-weight: bold;">www.politiken.dk</span></a>. Oppe i h&oslash;jre hj&oslash;rne klikker du p&aring; log ind, som st&aring;r med r&oslash;d skrift.<br /><br /><span style="font-weight: bold; font-size: 1.17em;">Overblik</span><br />Vi har samlet dine oplysninger p&aring; din Politiken Profil. Hvis du fx skifter mailadresse eller &oslash;nsker et nyt kodeord, er det ogs&aring; her du &aelig;ndrer det. Du vil selvf&oslash;lgelig stadig have mulighed for at g&aring; direkte til Kundecenter, hvis du foretr&aelig;kker det. Brug adgangen p&aring; <a style="text-decoration: none;" href="http://politiken.dk/kundecenter/"><span style="color: #cc0000; font-weight: bold;">politiken.dk/kundecenter</span></a> eller ring til os p&aring; 70 15 01 01.<br /><br /> Med venlig hilsen<br /><br /> <span style="font-weight: bold; font-size: 1.5em;">POLITIKEN</span><br /> <span style="font-weight: bold; font-size: 1.17em;">Kundecenter</span><br /><br /></td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,33 @@
+<table style="border-collapse: collapse; font-family: Arial,Sans-serif; font-size: 12px;">
+<tbody>
+<tr>
+<td style="border: 0px; padding: 0px;" colspan="3"><img style="margin: 0px; border: 0px; border-top: 20px solid transparent; border-bottom: 2px solid transparent; padding: 0px; line-height: 0px;" src="http://mit.jp.dk/css/images/email-logo-header.gif" alt="Jyllands-Posten" /></td>
+</tr>
+<tr>
+<td style="border: 0px; padding: 0px; line-height: 0px; background: #eeeeee;" colspan="3"><img style="margin: 0px; border: 0px; padding: 0px;" src="http://mit.jp.dk/css/images/email-divider.gif" alt="" /></td>
+</tr>
+<tr>
+<td style="height: 40px; line-height: 100%;" colspan="3">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 40px;" width="40">&nbsp;</td>
+<td style="text-align: left; font-family: Arial,Sans-serif; font-size: 12px;"><strong>&AElig;ndring af din e-mail</strong><br />Du har bedt om at skifte e-mail til din brugerkonto hos Jyllands-Posten og JP/Politikens Hus.<br /><br /> Benyt dette link for at &aelig;ndre din e-mail:<br /><a href="$[CHANGE_EMAIL_LINK]&amp;redir=@[JPSERVER]/success?email=true">$[CHANGE_EMAIL_LINK]&amp;redir=@[JPSERVER]/success?email=true</a>&nbsp;<br /><br />Du vil blive bedt om at indtaste din eksisterende adgangskode.</td>
+<td style="width: 40px;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="height: 25px; line-height: 0px;" colspan="3">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 40px;" width="40">&nbsp;</td>
+<td style="text-align: left; line-height: 100%;"><strong style="font-family: Arial,Sans-serif; font-size: 12px;">Med venlig hilsen</strong> <br /> <img style="margin: 0px; border: 0px; border-top: 8px solid transparent; padding: 0px;" src="http://mit.jp.dk/css/images/email-logo-body.gif" alt="Jyllands-Posten" /></td>
+<td style="width: 40px;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="height: 40px; line-height: 100%;" colspan="3">&nbsp;</td>
+</tr>
+<tr>
+<td style="border: 0px; padding: 0px; line-height: 0px; background: #eeeeee;" colspan="3"><img style="margin: 0px; border: 0px; padding: 0px;" src="http://mit.jp.dk/css/images/email-divider.gif" alt="" /></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>

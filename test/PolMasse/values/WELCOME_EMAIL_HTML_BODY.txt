@@ -1,0 +1,56 @@
+<html>
+<body>
+<table>
+    <tr>
+        <td><img src="http://multimedia.pol.dk/archive/00386/politiken_dk_sort_s_386662a.jpg"/></td>
+    </tr>
+</table>
+<table style="background-color:#F2F2F2;border-top:5px solid #CC0000;font-family:Helvetica,Arial,sans-serif;font-size:1em;padding:20px;">
+    <tr>
+        <td>
+            <span style="font-weight:bold;font-size:1.5em;">Kære $[FirstName:Kunde] $[LastName:]</span><br/><br/>
+            Nu indfører vi abonnement på <a
+                href="http://politiken.dk/"
+                style="text-decoration:none;"><span
+                style="color: #CC0000;font-weight:bold;">politiken.dk</span></a>. God journalistik er logisk nok ikke gratis og for at
+            sikre høj kvalitet, også i fremtiden, skal det koste penge at læse nyheder på nettet.
+            Den gode nyhed her er, at du – som betalende kunde på avisen – selvfølgelig får fuld adgang til <a
+                href="http://politiken.dk/"
+                style="text-decoration:none;"><span
+                style="color: #CC0000;font-weight:bold;">politiken.dk</span></a> <i>uden ekstra betaling</i>, ligesom du
+            i dag
+            også har adgang til Politikens arkiv og til Politiken e-avis. Du får derfor endnu mere for pengene.
+            <br/><br/>
+            I dag skal du huske både adgangskode, mailadresse og abonnementsnummer – alt efter om du vil læse e-avis,
+            handle til Pluspris online eller ordne en flytning af avisen på <a href="http://politiken.dk/kundecenter/"
+                                                                               style="text-decoration:none;"><span
+                style="color: #CC0000;font-weight:bold;">politiken.dk/kundecenter</span></a>.<br/><br/>
+            <span style="font-weight:bold;font-size:1.17em;">Nu samler vi det hele i din Politiken Profil</span><br/>
+            En Politiken Profil består helt enkelt af din mailadresse og en adgangskode, som du selv vælger. Fordelen
+            er, at du fremover kan logge ind ved hjælp af disse to oplysninger. Hvis du bare er logget ind ét sted, har
+            du adgang til ’det hele’. Slut med at huske lange abonnementsnumre og slut med at huske hvilken kode der
+            gælder hvor.<br/>
+            Nu har du én: din Politiken Profil.<br/><br/>
+            <span style="font-weight:bold;font-size:1.17em;">Opret din Politiken Profil</span><br/>
+            En Politiken Profil er personlig og giver dig adgang til hele dit abonnement på computer, smartphone og
+            tablet.<br/>
+            <a href="@[server]bruger/opret/angivadgangskode/?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]&showAcceptEmail=true"
+               style="text-decoration:none;"><span
+                    style="color: #CC0000;font-weight:bold;">Klik på dette link</span></a> &ndash; så kan du oprette din
+            Politiken Profil og vælge en adgangskode.<br/><br/>
+            <span style="font-weight:bold;font-size:1.17em;">Overblik</span><br/>
+            Vi har samlet dine oplysninger på din Politiken Profil. Hvis du fx skifter mailadresse eller
+            ønsker et nyt kodeord, er det også her du ændrer det. Du vil selvfølgelig stadig have mulighed for, at gå
+            direkte til Kundecenter hvis du foretrækker det. Brug adgangen på <a href="http://politiken.dk/kundecenter/"
+                                                                                 style="text-decoration:none;"><span
+                style="color: #CC0000;font-weight:bold;">politiken.dk/kundecenter</span></a> eller ring til os på
+            70 15 01 01.<br/><br/>
+            Med venlig hilsen<br/><br/>
+            <span style="font-weight:bold;font-size:1.5em;">POLITIKEN</span><br/>
+            <span style="font-weight:bold;font-size:1.17em;">Kundecenter</span><br/><br/>
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>

@@ -1,0 +1,2 @@
+<h1>Indtast adgangskode</h1>
+<p>Adgangskoden skal best&aring; af mindst 6 tegn og indeholde b&aring;de tal og bogstaver.</p>

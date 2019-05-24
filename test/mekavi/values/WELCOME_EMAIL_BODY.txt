@@ -1,0 +1,12 @@
+Velkommen...
+Der er nu oprettet en Politiken Profil til dig hos Politiken Plus.
+Din profil kan du fremover benytte hos Politiken Plus og politikenbillet.dk samt på politiken.dk, jp.dk og eb.dk.
+Det er vigtigt, at du tilknytter dit abonnementsnr. til din profil for at kunne handle til Pluspris og opnå Plus-fordele og rabatter.
+For at du kan benytte din nye Politiken Profil skal du indenfor 24 timer aktivere den ved at klikke på nedenstående link:
+
+$[ACTIVATION_LINK]&activationcode=$[ACTIVATION_CODE]&brand=Plus20&nopwd=true&redir=http%3A%2F%2Fplus.politiken.dk
+
+
+Med venlig hilsen
+
+Politiken Plus

@@ -1,0 +1,27 @@
+eBladet udkommer snart i en ny og forbedret udgave.
+
+Fremover foregår login via MedieLogin, og derfor har vi allerede nu automatisk oprettet et MedieLogin til dig, så det er klar til brug når det nye eBladet kommer i luften.
+
+Du skal vælge et kodeord til dit Medielogin, inden du kan anvende det. Det gør du via dette link:
+$[ACTIVATION_LINK]&activationcode=$[ACTIVATION_CODE]&redir=http%3A%2F%2Fekstrabladet.dk%2F%23eblogin_welcome
+
+Bemærk at dit Medielogin også kan bruges på andre sites i JP/Politikens Hus. Det gælder fx ekstrabladet.dk, politiken.dk og jyllands-posten.dk.
+
+Rigtig god fornøjelse!
+
+Venlig hilsen 
+Ekstra Bladet og Medielogin
+
+
+
+*Medielogin er dit login til en række danske medier og deres samarbejdspartnere. Med Medielogin har du et login du kan bruge på tværs, og du skal derfor huske færre brugernavne og adgangskoder.
+
+I praksis betyder det, at du kan logge ind med den samme bruger på bl.a. Politiken.dk, Jyllands-Posten.dk og Ekstrabladet.dk.
+
+Medielogin er udviklet og ejet af JP/Politikens Hus A/S.
+
+Du kan læse mere om Medielogin på http://medielogin.dk/
+
+
+***
+Hvis du ikke ønsker en brugerkonto alligevel, skal du først vælge et kodeord. For at slette din profil skal du derefter gå til https://medielogin.dk/slet-medielogin og logge ind, hvorefter du bliver bedt om at bekræfte din sletteanmodning.

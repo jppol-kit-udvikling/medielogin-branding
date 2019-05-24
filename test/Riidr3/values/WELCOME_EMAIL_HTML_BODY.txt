@@ -1,0 +1,7 @@
+<p><strong>Velkommen til riidr.com med dit nye Medielogin</strong></p>
+<p>Du kan begynde at bruge riidr.com n&aring;r du har din e-mailadresse via dette link:</p>
+<p><a href="$[ACTIVATION_LINK]&amp;nopwd=true&amp;activationcode=$[ACTIVATION_CODE]&amp;redir=@[SERVER]%2Flogin%2Fpolitiken">$[ACTIVATION_LINK]&amp;nopwd=true&amp;activationcode=$[ACTIVATION_CODE]&amp;redir=https%3A%2F%2Friidr.com%2Flogin%2Fpolitiken</a></p>
+<p>Dit medielogin giver dig samtidig adgang til en r&aelig;kke fordele p&aring; <a href="http://politiken.dk,">http://politiken.dk,</a>&nbsp;<a href="http://ekstrabladet.dk">http://ekstrabladet.dk</a>&nbsp;og <a href="http://jyllands-posten.dk">http://jyllands-posten.dk</a></p>
+<p>Du kan l&aelig;se mere om Medielogin, der er udviklet af JP/Politikens Hus, p&aring; <a href="https://medielogin.dk">https://medielogin.dk</a></p>
+<p>Velkommen til</p>
+<p>&nbsp;</p>

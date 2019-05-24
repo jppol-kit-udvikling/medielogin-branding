@@ -1,0 +1,20 @@
+<table style="width: 98%; border-collapse: collapse;" border="0" width="98%" cellspacing="0" cellpadding="10px" align="center">
+<tbody>
+<tr>
+<td style="border-top-style: solid; border-top-width: 5px; border-top-color: #000000; border-bottom-style: solid; border-bottom-width: 1px; border-bottom-color: #000000; font-family: Arial, Helvetica, sans-serif; padding: 20px;" align="center" valign="top">
+<div style="font-size: 20px;"><img style="width: 200px; display: block;" src="http://mit.finans.dk/css/images/logo_finans.gif" alt="Finans" width="200" height="40" /></div>
+</td>
+</tr>
+<tr>
+<td style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; padding: 10px;" align="left" valign="top">
+<p><strong>Velkommen til Finans</strong><br />For&nbsp;<span>at bruge Finans skal du have en aktiveret brugerprofil. Du har muligvis allerede aktiveret den i forbindelse med oprettelsen af din Finans-adgang.</span><span>I s&aring; fald skal du ikke foretage dig noget. Men hvis du endnu ikke har aktiveret din brugerprofil, skal du klikke her:&nbsp;</span></p>
+<p><a style="color: #a70a2c;" href="$[ACTIVATION_LINK]&amp;activationcode=$[ACTIVATION_CODE]&amp;redir=@[JPSERVER]/successfully/activated">$[ACTIVATION_LINK]&amp;activationcode=$[ACTIVATION_CODE]&amp;redir=@[JPSERVER]/successfully/activated</a></p>
+<p><span>P&aring; Finans benytter vi det f&aelig;lles medielogin, som ogs&aring; bruges p&aring; andre hjemmesider tilknyttet JP/Politikens Hus. S&aring; n&aring;r du opretter dig som bruger p&aring; Finans, opretter du et medielogin, som du ogs&aring; kan bruge til at logge ind p&aring; fx politiken.dk og jyllands-posten.dk.&nbsp;. Du kan l&aelig;se mere om medielogin&nbsp;<a href="http://medielogin.dk/">her</a>.</span></p>
+<p>Med venlig hilsen<br /><strong>Finans</strong></p>
+</td>
+</tr>
+<tr>
+<td style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; border-top-style: solid; border-top-width: 1px; border-top-color: #000000; padding: 10px;" align="left" valign="top"><span style="color: #666666;">Finans - R&aring;dhuspladsen 37 - 1785 K&oslash;benhavn V - Finans@Finans.dk - Tlf.:&nbsp;</span><span style="color: #666666; font-size: 12.222222328186px;">33 30 31 31</span></td>
+</tr>
+</tbody>
+</table>

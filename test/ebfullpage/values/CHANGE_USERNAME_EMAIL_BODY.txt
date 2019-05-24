@@ -1,0 +1,24 @@
+Du er ved at skifte e-mail til din brugerkonto hos Medielogin*, som du blandt andet kan bruge på ekstrabladet.dk
+Bemærk at ændringen også gælder, hvis du bruger dit Medielogin hos Politiken eller Jyllands-Posten.
+
+Vigtigt! Du skal bekræfte ændringen, før den træder i kraft. Det gør du via dette link, hvor du vil blive bedt om at indtaste dit kodeord:
+$[CHANGE_EMAIL_LINK]&redir=@[eburl]/medielogin/login/refresh
+
+Din brugerprofil abonnerer muligvis på et eller flere nyhedsbreve hos Ekstra Bladet eller andre af JP Politikens Hus tjenester. Dine nyhedsbrevsabonnementer er tilknyttet din Medielogin Profil og vil automatisk blive videreført til din nye e-mail. 
+
+Ønsker du ikke længere at modtage et eller flere nyhedsbreve fra Ekstra Bladet, kan du til enhver tid opsige dine nyhedsbrevsabonnementer enten via et link i det enkelte nyhedsbrev eller via http://ekstrabladet.dk/minprofil/
+
+Venlig hilsen 
+Ekstra Bladet og Medielogin
+
+NB! Hvis du ikke har bedt om ændringen, så se bort fra denne mail.
+
+
+
+*Medielogin er dit login til en række danske medier og deres samarbejdspartnere. Med Medielogin har du et login du kan bruge på tværs, og du skal derfor huske færre brugernavne og adgangskoder.
+
+I praksis betyder det, at du kan logge ind med den samme bruger på bl.a. Politiken.dk, Jyllands-Posten.dk og Ekstrabladet.dk.
+
+Medielogin er udviklet og ejet af JP/Politikens Hus A/S.
+
+Du kan læse mere om Medielogin på http://medielogin.dk/

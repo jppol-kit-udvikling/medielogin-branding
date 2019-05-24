@@ -1,0 +1,1 @@
+brandings/mftest.test/js/main.js

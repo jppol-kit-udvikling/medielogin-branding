@@ -1,0 +1,4 @@
+<h1 class="auth-top__header"><a href="http://skoleliv.dk">skoleliv</a></h1>
+<p class="auth-top__link">Er du ikke oprettet p&aring; Skoleliv? <a href="https://polidtest.jppol.dk/Account/Register.aspx?brand=skoleliv.test&mode=full&redir=https:%2f%2ftest.skoleliv.dk%2fskolebruger%2foprettet">Opret dig nu</a> &rsaquo;</p>
+<p class="auth-top__subheader">Skoleliv.dk er sjovest at bruge i indlogget tilstand. Hvis du opretter en gratis profil, f&aring;r du anbefalinger og funktioner, som er rettet s&aelig;rligt mod dig.</p>
+<p><img class="medielogin__image" src="$[brandingPath]/assets/medielogin--logo.png" /></p>

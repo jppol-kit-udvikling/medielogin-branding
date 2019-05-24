@@ -1,0 +1,11 @@
+Kære $[FirstName:Kunde] $[LastName:]
+
+Din arbejdsplads har sørget for at du har fri adgang til politiken.dk
+
+Vi kan se du allerede har en profil på politiken.dk. Vi har sørget for at du nu har fri adgang til politiken.dk gennem virksomhedsordningen. 
+
+Vi har samlet dine oplysninger på din Politiken Profil. Hvis du fx skifter mailadresse eller ønsker et nyt kodeord, er det også her du ændrer det. Du vil selvfølgelig stadig have mulighed for, at gå direkte til Kundecenter hvis du foretrækker det. Brug adgangen på politiken.dk/kundecenter eller ring til os på 70 15 01 01. 
+
+Venlig hilsen 
+POLITIKEN
+Erhverv

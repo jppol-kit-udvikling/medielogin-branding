@@ -1,0 +1,1 @@
+<p>Indtast din e-mail-adresse og en adgangskode. Adgangskoden skal bestå af mindst 6 tegn og indeholde både tal og bogstaver. </p>

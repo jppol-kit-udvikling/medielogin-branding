@@ -1,0 +1,17 @@
+Kære $[FirstName:bruger] $[LastName:...]
+
+<p>Nu rydder vi op i de besværlige koder og numre man altid skal gå og huske på. Du har en såkaldt "P-bruger" til Plus, et abonnementsnummer til Kundecentrets hjemmeside og noget helt tredje, hvis du skal på politiken.dk og deltage i debatten. Det ændrer vi nu!
+<p>
+Politiken Login, der består af din mailadresse + et kodeord efter eget valg, bliver din fremtidige dør til hele den digitale del af Politiken.  Det skulle gerne være lidt lettere at huske mailadressen og et enkelt kodeord.
+
+<p>Det er nødvendigt at du aktiverer dit nye Politiken Login ved at klikke
+<a href="$[ACTIVATION_LINK]&activationcode=$[ACTIVATION_CODE]&brand=PolKunder&redir=http%3A%2F%2Fplus.politiken.dk">her</a>.
+
+
+Derefter skal du vælge kodeord - så er du klar!
+<p>
+Nu blev Rom ikke bygget på én dag og Politiken Login kan endnu ikke benyttes alle steder. Men vi begynder på Politiken.dk/plus. Her får du ekstra værdi ud af dit Politiken abonnement. Plus’ webbutik har netop gennemgået en større "ombygning" så de mange varer og tilbud bliver præsenteret endnu mere indbydende.  I løbet af de næste måneder kommer både Kundecentret og Debatten på politiken.dk med og stille og roligt breder det sig til resten af Politikens sider. 
+<p>Når du aktiverer dit Politiken Login, deltager du i lodtrækningen om 2 gavekort á 2.500 kr. til "GivEtSmil", der kan benyttes i mere end 275 butikker. Vi udlodder også 5 gavekort á 250 kr., til Politiken Plus. Vinderne offentliggøres på www.politiken.dk/plus den 10. november. Præmierne kan ikke ombyttes til kontanter eller andre varer.
+
+<p>Med venlig hilsen
+<p>Kundecenter Politiken

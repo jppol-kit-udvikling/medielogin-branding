@@ -1,0 +1,8 @@
+<h3>Opret bruger</h3> 
+<p>Opret en bruger ved at udfylde felterne. <br><br> For passwords gælder:<br> Det skal  være mellem 6 og 40 tegn.<br> 
+Det skal indeholde både bogstaver og tal. <br> 
+Det må ikke indeholde det samme tegn 4 gange i træk. <br> 
+Det må hverken starte eller slutte med et mellemrum.<br> 
+<br> 
+Der skelnes ikke mellem store og små bogstaver. 
+ </p>

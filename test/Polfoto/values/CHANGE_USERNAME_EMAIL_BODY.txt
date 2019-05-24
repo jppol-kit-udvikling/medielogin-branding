@@ -1,0 +1,6 @@
+Du har bedt om at skifte brugernavn til din brugerkonto hos Jyllands-Posten, Ekstra Bladet og Politiken. 
+
+Du starter aktiveringen ved følge nedenstående link: 
+$[CHANGE_EMAIL_LINK] 
+
+Bemærk at du skal benytte din eksisterende email-adresse og brugernavn for at få lov til at skifte brugernavnet.

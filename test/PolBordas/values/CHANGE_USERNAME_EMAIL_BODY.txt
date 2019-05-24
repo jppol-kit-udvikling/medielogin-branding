@@ -1,0 +1,12 @@
+Kære $[FirstName:Kunde]
+
+Du har bedt om at skifte brugernavn på din Politiken Profil. For at bekræfte ændringen skal du klikke på nedenstående link.
+
+@[server]bruger/profil/afslut_ny_email?ssolink=$[CHANGE_EMAIL_LINK]
+
+Hvis du har andre aktiviteter på hjemmesider i JP/Politikens Hus gælder din nye e-mailadresse også der.
+
+Venlig hilsen 
+
+POLITIKEN
+Kundecenter

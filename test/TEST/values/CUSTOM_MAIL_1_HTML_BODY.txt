@@ -1,0 +1,5 @@
+<h1 style="white-space: pre-wrap; word-wrap: break-word; color: #696969;">Du har oprettet en konto fra et domæne SSO betragter som et testdomæne</h1>
+<p>Det er der ikke noget galt i, men bemærk at kontoen kan blive nedlagt uden forudgående advarsel.</p>
+<h2>Domæneadgang</h2>
+<p>Vidste du i øvrigt Medielogin giver mulighed for at brugere fra specifikke domæner bliver meldt ind i særlige grupper når der oprettes en konto fra en af disse grupper?</p>
+<p>https://test.medielogin.dk/confirm-email/$[USERID]/$[ActivationCode:Ingen aktiveringskode]</p>

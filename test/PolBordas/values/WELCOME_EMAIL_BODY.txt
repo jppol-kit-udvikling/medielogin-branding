@@ -1,0 +1,21 @@
+Kære $[FirstName:Kunde] $[LastName:]
+
+Tak for samtalen. 
+Efter aftale, sender vi hermed dit aktiveringslink til din Politiken Profil. 
+Vi har oprettet Profilen, men det er nødvendigt, at du selv aktiverer den og vælger adgangskode. Det gør du ved at klikke på dette link (@[server]bruger/opret/angivadgangskode/?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]&showAcceptEmail=true).
+
+Hvad er Politiken Profil?
+En Politiken Profil består helt enkelt af din mailadresse og en selvvalgt adgangskode. Fordelen er, at du fremover kan logge ind ved hjælp af disse to oplysninger.
+
+En Politiken Profil er personlig og giver dig adgang til hele dit abonnement på computer, smartphone og tablet.
+
+Hvordan logger jeg ind?
+Det gør du helt enkelt ved at gå ind på www.politiken.dk . Oppe i højre hjørne klikker du på log ind, som står med rød skrift.
+
+Overblik
+Vi har samlet dine oplysninger på din Politiken Profil. Hvis du fx skifter mailadresse eller ønsker et nyt kodeord, er det også her du ændrer det. Du vil selvfølgelig stadig have mulighed for, at gå direkte til Kundecenter hvis du foretrækker det. Brug adgangen på politiken.dk/kundecenter eller ring til os på 70 15 01 01.
+
+Med venlig hilsen
+
+POLITIKEN
+Kundecenter

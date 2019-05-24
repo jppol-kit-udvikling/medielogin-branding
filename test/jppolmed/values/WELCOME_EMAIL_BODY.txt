@@ -1,0 +1,29 @@
+Kære ansatte i JP/Politikens Hus,
+
+Medarbejdere i koncernen har adgang til koncernens digitale abonnementer:                            
+
+Via medielogin har du som ansat adgang til: 
+- Ekstra Bladet EKSTRA. Det vil sige alle låste artikler, som er markeret med en stjerne på ekstrabladet.dk. Se et overblik her: http://ekstrabladet.dk/ekstra
+- Jyllands-Posten Premium. Det vil sige alle låste artikler, som er markeret med en nøgle på jyllands-posten.dk. Se et overblik her:   http://www.jyllands-posten.dk/premium/
+- Alle artikler på http://politiken.dk/
+
+Adgangen giver ikke adgang til de tre e-aviser (de digitale udgaver af koncernens aviser). Men hvis du allerede har adgang til en eller flere e-aviser, fortsætter det uændret.
+ 
+For at komme i gang skal du klikke på nedenstående link:
+@[medielogin_url]/login/aktiver/?ac=$[ACTIVATION_CODE]&userid=$[USERID]
+
+Du skal benytte din primære arbejdsmailadresse, når du logger ind, for at få den særlige medarbejderadgang. Din primære arbejdsmailadresse er:
+ 
+$[Username:]
+ 
+Mediawatch
+
+Herudover har du mulighed for at læse nyheder fra mediebranchen på http://mediawatch.dk/, når du er logget ind på Husets systemer.
+
+Du kan også oprette et personligt login, så længe du benytter din primære arbejdsmailadresse, så du kan læse artikler på Mediawatch fra telefonen eller hjemmefra.  Det kan du gøre her: https://secure.mediawatch.dk/user/create.
+
+Venlig hilsen
+
+Mia Riedel Lentz
+
+Koncernpersonalechef

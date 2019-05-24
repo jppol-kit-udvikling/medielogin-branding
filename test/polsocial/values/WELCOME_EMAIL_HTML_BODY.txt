@@ -1,0 +1,10 @@
+<p><img style="float: left;" src="http://multimedia.pol.dk/archive/00386/politiken_dk_sort_s_386662a.jpg" alt="" /><br /><br /></p>
+<div style="background-color: #f2f2f2; border-top: 6px solid #cc0000; padding: 20px;">
+<p>K&aelig;re $[FirstName:bruger]</p>
+<p>Du har oprettet en Politiken Profil. For at aktivere din profil, skal du inden for 7 dage aktivere dette link</p>
+<p><a href="@[server]bruger/opret/angivadgangskode/?activationcode=$[ACTIVATION_CODE]&amp;userid=$[USERID]">@[server]bruger/opret/angivadgangskode/?activationcode=$[ACTIVATION_CODE]&amp;userid=$[USERID]</a></p>
+<br /> Husk at v&aelig;lge en adgangskode. Adgangskoden skal v&aelig;re p&aring; mindst seks tegn og indeholde b&aring;de tal og bogstaver. <br /><br />
+<p>Hvis du oplever problemer i relation til politiken.dk, kan du kontakte <a href="http://politiken.dk/kundecenter">Kundecenter Politiken</a></p>
+<p>P&aring; Politiken benytter vi det f&aelig;lles Medielogin, som ogs&aring; bruges p&aring; andre hjemmesider med tilknytning til JP/Politikens hus. L&aelig;s mere om <a href="http://medielogin.dk">Medielogin</a></p>
+<p>Venlig hilsen<br /> Politiken</p>
+</div>

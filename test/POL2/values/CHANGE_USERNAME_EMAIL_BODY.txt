@@ -1,0 +1,14 @@
+Kære $[FirstName:bruger]
+
+Du har bedt om at skifte din e-mailadresse. Klik på linket nedenfor for at bekræfte.
+
+@[server]bruger/profil/afslut_ny_email?ssolink=$[CHANGE_EMAIL_LINK]
+
+Hvis du har andre aktiviteter på hjemmesider i JP/Politikens Hus gælder din nye e-mailadresse også der.
+
+Hvis du oplever problemer i relation til politiken.dk, kan du kontakte Kundecenter Politiken på http://politiken.dk/kundecenter
+
+På Politiken benytter vi det fælles Medielogin, som også bruges på andre hjemmesider med tilknytning til JP/Politikens hus. Læs mere om Medielogin på http://medielogin.dk
+
+Venlig hilsen 
+Politiken

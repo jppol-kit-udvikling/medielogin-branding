@@ -1,0 +1,2 @@
+Der er nu oprettet en brugerkonto til dig hos Politiken, JyllandsPosten og Ekstra Bladet. Klik på linket for at oprette en adgangskode. Adgangskoden skal være på mindst seks tegn og indeholde tal og bogstaver. 
+@[server]/mitpolitiken/opretbruger/trin1/?ssoform=1&activationcode=$[ACTIVATION_CODE]&userid=$[USERID]

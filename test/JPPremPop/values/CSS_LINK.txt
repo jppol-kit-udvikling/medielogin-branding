@@ -1,0 +1,1 @@
+$[brandingPath]/jp_premium_overlay.css

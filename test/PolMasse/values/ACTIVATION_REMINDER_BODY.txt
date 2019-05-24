@@ -1,0 +1,21 @@
+Kære $[FirstName:] $[LastName:Kunde]
+
+For en uges tid siden, sendte vi en mail, hvor vi opfordrede til, at oprette en Politiken Profil. 
+Vi skrev bl.a.:
+ 
+"Opret din Politiken Profil
+En Politiken Profil er personlig og giver dig adgang til hele dit abonnement på computer, smartphone og tablet.
+Klik på dette link – så kan du oprette din Politiken Profil og vælge en adgangskode."
+ 
+Vi kan se, at du ikke har oprettet en Profil og det er selvfølgelig helt op til dig om du ønsker at gøre det. Vi vil blot gøre opmærksom på, at det ikke længere er muligt at læse politiken.dk uden en adgangskode og derfor – synes vi – at det er en god idé at du opretter din Profil og dermed din egen adgangskode. I dag skal du huske både adgangskode, mailadresse og abonnementsnummer – alt efter om du vil læse e-avis, handle til Pluspris online eller ordne en flytning af avisen på politiken.dk/kundecenter. Nu samler vi det hele i din Politiken Profil. 
+ 
+Som abonnent er du allerede sikret gratis adgang – det er en del af abonnementet. 
+Overblik
+Vi har samlet dine oplysninger på din Politiken Profil. Hvis du fx skifter mailadresse eller ønsker et nyt kodeord, er det også her du ændrer det. Du vil selvfølgelig stadig have mulighed for, at gå direkte til Kundecenter hvis du foretrækker det. Brug adgangen på politiken.dk/kundecenter eller ring til os på 70 15 01 01."
+
+@[server]bruger/opret/angivadgangskode/?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]&showAcceptEmail=true
+
+
+Med venlig hilsen
+POLITIKEN
+Kundecenter

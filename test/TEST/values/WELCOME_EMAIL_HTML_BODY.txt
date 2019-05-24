@@ -1,0 +1,14 @@
+<div>
+<h1>Der er oprettet en brugerkonto til dig hos JP:Politikens hus.</h1>
+<h1>Velkommen! Gem følgende informationer:</h1>
+<ul>$[FirstName:bruger]
+<li>(Nulstil password: $[RESET_PASSWORD_LINK])</li>
+<li>Activation link: $[ACTIVATION_LINK]</li>
+<li>Activation code: $[ACTIVATION_CODE]&email=$[Username:]</li>
+<li>Reset pwd link: $[RESET_PASSWORD_LINK]</li>
+<li>Change email: $[CHANGE_EMAIL_LINK]</li>
+<li>FOOFOO email: https://polidtest.jppol.dk/Activate.aspx?userid=$[USERID]&ac=$[ACTIVATION_CODE]&nopwd=true&redir=https://plus.politiken.dk</li>
+<li>Full activation: $[ACTIVATION_LINK]&ac=$[ACTIVATION_CODE]&nopwd=true&redir=$[jpredir:http://www.ekstrabladet.dk]</li>
+<li>Activation select pwd: $[ACTIVATION_LINK]&redir=https://plus.politiken.dk</li>
+</ul>
+</div>

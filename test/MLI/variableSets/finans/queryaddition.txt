@@ -1,0 +1,1 @@
+redirect=https%3A//finans.dk/%3Fpartner%3D$[createContext:bruger]

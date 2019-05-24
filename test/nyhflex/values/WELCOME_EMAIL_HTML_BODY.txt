@@ -1,0 +1,27 @@
+<html>
+<head>
+	<style type="text/css">
+		body {font-family: arial; font-size: 13px; }
+		h1 { font-size: 16px; }
+		.grey { color: #666; }
+    small { font-size: 10px }
+	</style>
+</head>
+<body>
+<img src="@[imageUrl]/brandings/nyhflex/nyhedsflex.png" alt="medielogin_logo"></img>
+
+<h1>Kære Nyhedsflexbruger</h1>
+
+<p>F&#248;r du kan f&#229; adgang til Nyhedsflex, skal du oprette et Medielogin.</p>
+
+<p>Medielogin giver dig adgang til Politiken, Jyllands-Posten, Ekstra Bladet og deres samarbejdspartnere. Med Medielogin har du &#233;t login dvs. samme brugernavn og adgangskode, som du kan bruge p&#229; tv&#230;rs af medierne.</p>
+
+<p>Inden du kan tage din Nyhedsflex-konto i brug, skal du v&#230;lge en adgangskode til dit Medielogin.</p>
+
+<p><a href="@[medielogin_url]/medielogin/setpassword/?activationcode=$[ACTIVATION_CODE]&userId=$[USERID]&redirect=https%3A%2F%2F@[polid_host]%2Fprovider.ashx%2Ftransfer-from-ml%3Fredir%3Dhttps%253A%252F%252F@[nyhedsflex_host]">Du v&#230;lger adgangskode via dette link.</a></p>
+
+<p>Hvis du har f&#229;et tildelt s&#230;rlig adgang til et af JP/Politikens Hus’ digitale abonnementer, vil du kunne se din adgang p&#229; <a href="@[nyhedsflex_host]">@[nyhedsflex_host]</a> n&#229;r du er logget ind.
+<p><br />Venlig hilsen </p>
+<p>Nyhedsflex</p>
+</body>
+</html>

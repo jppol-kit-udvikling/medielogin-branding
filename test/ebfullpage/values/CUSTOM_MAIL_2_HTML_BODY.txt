@@ -1,0 +1,38 @@
+<p><strong>Tak, fordi du har tilmeldt dig Ekstra Bladet EKSTRA.</strong></p>
+<p>Vi er rigtig glade for at have dig med om bord. For vi har S&Aring; mange fantastiske artikler, vi gerne vil dele med dig!</p>
+<p><strong>Tak, fordi du har tilmeldt dig Ekstra Bladet EKSTRA.</strong></p>
+<ul>
+<li>Fri adgang til ALLE EKSTRA-artiklerne p&aring; ekstrabladet.dk
+<ul>
+<li>Kom helt t&aelig;t p&aring; dine favorit-emner &ndash; hver dag!</li>
+</ul>
+</li>
+<li>Tips og guides, der g&oslash;r hverdagen nemmere
+<ul>
+<li>L&aelig;s om ny elektronik, tr&aelig;ning, sex &ndash; og meget mere.</li>
+</ul>
+</li>
+<li>Tilbageblik
+<ul>
+<li>Vil du vide, hvordan rockerkrigen startede i Danmark? Eller vil l&aelig;se om de vildeste teorier om Palmemordet? S&aring; finder du det p&aring; eb.dk.</li>
+</ul>
+</li>
+<li>Side 9-pige-gallerier
+<ul>
+<li>Du f&aring;r adgang til alle de eksklusive side 9-pige-gallerier.</li>
+</ul>
+</li>
+</ul>
+<p>Som Plenti-abonnent har du ikke adgang til online avis-arkivet eller Ekstra Bladet EKSTRA&rsquo;s personline tilbud og fordele.</p>
+<p>EKSTRA god forn&oslash;jelse til dig!</p>
+<table style="height: 21px;" width="404">
+<tbody>
+<tr>
+<td><img src="http://static.ekstrabladet.dk/ux/data/ekstra/ekstra-eb-logo-mail-min.png" alt="Ekstra Bladet EKSTRA logo" width="150" /></td>
+<td>&nbsp;</td>
+<td>
+<p><img src="http://static.ekstrabladet.dk/ux/data/ekstra/plenti-logo-mail-min.png" alt="plenti logo" width="200" /></p>
+</td>
+</tr>
+</tbody>
+</table>
