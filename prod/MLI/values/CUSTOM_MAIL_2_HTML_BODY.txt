@@ -9,14 +9,11 @@ a{text-decoration: none}
 </head>
 <body>
 <p><img src="@[brand_logo]" alt="" /></p>
-<h1>Kære $[FirstName:bruger]</h1>
-<p>Du har nu oprettet et Medielogin, men du mangler at aktivere dit Medielogin.</p>
-<p>Aktiver dit medielogin her: <strong><a href="@[medielogin_host]/@[branding_path]/@[activateStem]?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]">@[medielogin_host]/@[branding_path]/@[activateStem]?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]</a></strong></p>
-<p>Med dit Medielogin kan du logge ind på JP/Politikens Hus’ digitale tilbud og tjenester f. eks. Politiken.dk, Jyllands-Posten.dk, Finans.dk og Ekstrabladet.dk. I praksis betyder det at du skal huske færre brugernavne og adgangskoder. Læs mere om Medielogin her: <a href="@[medielogin_host]/faq">@[medielogin_host]/faq</a></p>
-<p>@[welcome_brand_specific]</p>
+<h4>Kære $[Username:bruger]</h4>
+<p>Du har bedt om at se de kontaktindstillinger der er gemt om din mailadresse hos JP/Politikens Hus</p>
+<p>Du kan se og rette dine kontaktindstillinger via dette link: <strong><a href="@[medielogin_host]/mit/kontaktindstillinger/edit?email=Fn[encodeUriComponent][$[Username:]]&verification=$[permissionVerificationCode:]">@[medielogin_host]/mit/kontaktindstillinger/edit?email=Fn[encodeUriComponent][$[Username:]]&verification=$[permissionVerificationCode:]</a></strong></p>
 <p>Venlig hilsen</p>
-<p>@[greetings]</p>
-<p>- en del af JP/Politikens Hus</p>
+<p>JP/Politikens Hus</p>
 <p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>
 </body>
 </html>

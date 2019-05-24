@@ -1,11 +1,9 @@
-Kære $[FirstName:bruger]
+Kære $[Username:bruger]
 
-Du har nu oprettet et Medielogin, men du mangler at aktivere dit Medielogin.
+Du har bedt om at se de kontaktindstillinger der er gemt om din mailadresse hos JP/Politikens Hus
 
-Aktiver dit Medielogin her: @[medielogin_host]/@[branding_path]/@[activateStem]?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]
-
-Med dit Medielogin kan du logge ind på JP/Politikens Hus’ digitale tilbud og tjenester f. eks. Politiken.dk, Jyllands-Posten.dk, Finans.dk og Ekstrabladet.dk. I praksis betyder det at du skal huske færre brugernavne og adgangskoder. Læs mere om Medielogin her: @[medielogin_host]/faq
-
-@[welcome_brand_specific]
+Du kan se og rette dine kontaktindstillinger via dette link: @[medielogin_host]/mit/kontaktindstillinger/edit?email=Fn[encodeUriComponent][$[Username:]]&verification=$[permissionVerificationCode:]
 
 Venlig hilsen
+
+JP/Politikens Hus
