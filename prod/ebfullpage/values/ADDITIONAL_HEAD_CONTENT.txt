@@ -1,0 +1,10 @@
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="$[brandingPath]/css/stylesheet.css" rel="stylesheet" type="text/css">
+<!--[if lte IE 9]>
+    <link rel="stylesheet" href="$[brandingPath]/css/lteie9.css">
+<![endif]-->
+<!--[if lte IE 8]>
+    <link rel="stylesheet" href="$[brandingPath]/css/lteie8.css">
+<![endif]-->

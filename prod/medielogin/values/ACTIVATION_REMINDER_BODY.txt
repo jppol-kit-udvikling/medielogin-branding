@@ -1,0 +1,8 @@
+For en uge siden oprettede vi et Medelogin til dig. Men du mangler stadig at aktivere din konto og vælge adgangskode. Det gør du via dette link:
+
+@[medielogin_url]/medielogin/setpassword?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]
+
+Bemærk at hvis du ikke har aktiveret din brugerkonto indenfor en måned bliver den slettet og du skal så oprette dig igen
+
+
+Rigtig god fornøjelse!

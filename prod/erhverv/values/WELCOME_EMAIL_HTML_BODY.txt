@@ -1,0 +1,57 @@
+<html>
+<head>
+	<style type="text/css">
+		body {font-family: arial; font-size: 13px; }
+		h1 { font-size: 16px; }
+		.grey { color: #666; }
+    small { font-size: 10px }
+	</style>
+</head>
+<body>
+<div width="100%" style="background: black;">
+<img src="@[medielogin_url]/upload/mli-erhverv-logo.jpg" alt="medielogin_logo"></img>
+</div>
+
+<h1>Kære $[FirstName:kunde] </h1>
+
+<p>Velkommen til Medielogin Erhverv.</p>
+
+<p>Medielogin Erhverv giver dig adgang til JP/Politikens Hus´ digitale produkter, heriblandt Politiken, Jyllands-Posten og Ekstra Bladet.</p>
+
+<p>Inden du kan tage din Medielogin Erhverv konto i brug, skal du aktivere dit Medielogin, som består af din emailadresse og en adgangskode du selv vælger. Med Medielogin har du ét login, som du kan bruge på tværs af medierne.</p>
+
+<p><a href="@[medielogin_url]/mli-erhverv/setpassword/?activationcode=$[ACTIVATION_CODE]&userId=$[USERID]">Du vælger adgangskode via dette link.</a></p>
+
+$IF[EKSTRAfirma|EKSTRAfriadgang|EKSTRAvirksomhed|Politiken Erhverv|Finans|eBladet|JP E-avis|JP Premium][
+<p>Når du er logget ind på <a href="@[medielogin_url]/erhverv">@[medielogin_url]/erhverv/</a> giver dit abonnement dig øjeblikkelig adgang til:
+<ul>
+$IF[EKSTRAfirma|EKSTRAfriadgang|EKSTRAvirksomhed ][
+<li>Ekstra Bladet+</li>
+]
+$IF[Politiken Erhverv][
+<li>politiken.dk</li>
+]
+$IF[Finans][
+<li>finans.dk</li>
+]
+$IF[eBladet][
+<li>eBladet</li>
+]
+$IF[JP E-avis][
+<li>Jyllands Posten e-avis</li>
+]
+$IF[JP Premium][
+<li>Jyllands Posten Premium</li>
+]
+
+</ul>
+</p>
+]
+<p>God fornøjelse!</p>
+ 
+<p>Venlig hilsen</p>
+ 
+<p>Medielogin Erhverv</p>
+<img src="@[medielogin_url]/upload/mli-erhverv-email-footer.png" />
+</body>
+</html>

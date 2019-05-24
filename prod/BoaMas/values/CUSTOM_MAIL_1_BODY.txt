@@ -1,0 +1,9 @@
+Kære $[FirstName:Kunde] $[LastName:]
+
+Da du allerede har et Medielogin, har vi som en service automatisk tilføjet dit abonnementsnummer til dit eksisterende Medielogin.
+
+Hvis du har problemer kan du få hjælp på borneavisen.dk eller ringe til os på tlf.: 7015 9515, hverdage kl. 07:00-16:00.
+
+
+Venlig hilsen
+Børneavisen

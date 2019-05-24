@@ -1,0 +1,176 @@
+<table style="margin: 0; padding: 0; border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td height="100%">
+<table style="margin: 0; padding: 0; border-collapse: collapse; background-color: #ffffff;" border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+<tbody>
+<tr>
+<td class="finansPayMail__main" style="padding-left: 10px; padding-right: 10px; padding-bottom: 20px;">
+<table style="margin: 0; padding: 0; border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center">
+<table style="margin: 0; padding: 0; border-collapse: collapse; max-width: 660px;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="finansPayMail__header" style="padding-top: 31px; padding-bottom: 10px;" align="center">
+<table style="margin: 0; padding: 0; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="finansPayMail__header__info" style="padding-left: 10px; padding-right: 10px; text-align: center; line-height: 15px; font-family: Arial, sans-serif; font-size: 12px; color: #888888; -webkit-text-size-adjust: none;" align="center">Dette er en automatisk e-mail, som du ikke kan besvare.</td>
+</tr>
+</tbody>
+</table>
+<table style="margin: 0; padding: 0; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="finansPayMail__header__logo" style="padding-left: 10px; padding-right: 10px; padding-top: 23px; text-align: center;" align="center"><a style="line-height: 1px; font-family: Arial, sans-serif; font-size: 1px; -webkit-text-size-adjust: none;" href="http://finans.dk" target="_blank"><img class="finansPayMail__header__logo__img" style="display: block;" src="http://finans.dk/img/mail/pay/finans-logo.png" alt="Finans" width="264" height="53" border="0" /></a></td>
+</tr>
+</tbody>
+</table>
+<!--<table cellpadding="0" cellspacing="0" border="0" align="center" style="margin: 0; padding: 0; border-collapse: collapse;">
+															<tr>
+																<td align="center" class="finansPayMail__header__date" style="padding-top: 4px; padding-left: 10px; padding-right: 10px; text-align: center; text-transform: uppercase; line-height: 13px; font-family: Arial, sans-serif; font-size: 11px; color: #808080; -webkit-text-size-adjust: none;">Onsdag, 21.08.2016</td>
+															</tr>
+														</table>--></td>
+</tr>
+</tbody>
+</table>
+<table style="margin: 0; padding: 0; border-collapse: collapse; background-color: #a70a2c;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" bgcolor="#a70a2c">
+<tbody>
+<tr>
+<td style="line-height: 1px; font-family: Arial, sans-serif; font-size: 1px; -webkit-text-size-adjust: none;" height="6"> </td>
+</tr>
+</tbody>
+</table>
+<table style="margin: 0; padding: 0; border-collapse: collapse; max-width: 660px;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="finansPayMail__content" style="padding: 34px 10px 44px 10px;" align="left">
+<table style="margin: 0; padding: 0; border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="finansPayMail__content__title" style="line-height: 34px; font-family: Georgia, serif; font-size: 28px; font-weight: bold; color: #000000; -webkit-text-size-adjust: none;">Velkommen til Finans</td>
+</tr>
+<tr>
+<td class="finansPayMail__content__text" style="padding-top: 5px; line-height: 22px; font-family: Arial, sans-serif; font-size: 16px; color: #000000; -webkit-text-size-adjust: none;">For at aktivere din bruger skal du bekræfte oprettelsen ved at klikke her:</td>
+</tr>
+<tr>
+<td class="finansPayMail__content__btn_wr" style="padding-top: 13px;"><a class="finansPayMail__content__btn" style="display: inline-block; -webkit-border-radius: 2px; border-radius: 2px; border-top: 9px solid #a70a2c; border-bottom: 7px solid #a70a2c; border-left: 20px solid #a70a2c; border-right: 20px solid #a70a2c; background-color: #a70a2c; text-align: center; text-transform: uppercase; text-decoration: none; line-height: 15px; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; color: #ffffff; -webkit-text-size-adjust: none;" href="$[ACTIVATION_LINK]&nopwd=true&redir=@[JPSERVER]/premium/service/activate/" target="_blank"> <strong style="text-transform: uppercase; text-decoration: none; line-height: 15px; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; color: #ffffff; -webkit-text-size-adjust: none;">Aktiver bruger</strong> </a></td>
+</tr>
+</tbody>
+</table>
+<table style="margin: 0; padding: 0; border-collapse: collapse;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="finansPayMail__content__caption" style="padding-top: 66px; line-height: 22px; font-family: Georgia, serif; font-size: 16px; color: #000000; -webkit-text-size-adjust: none;">Med venlig hilsen<br />Finans</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="margin: 0; padding: 0; border-collapse: collapse; background-color: #000000;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" bgcolor="#000000">
+<tbody>
+<tr>
+<td style="line-height: 1px; font-family: Arial, sans-serif; font-size: 1px; -webkit-text-size-adjust: none;" height="6"> </td>
+</tr>
+</tbody>
+</table>
+<table style="margin: 0; padding: 0; border-collapse: collapse; max-width: 660px;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="finansPayMail__footer" style="padding: 40px 10px 12px 10px;">
+<table style="margin: 0; margin-right: 10%; margin-bottom: 10px; padding: 0; border-collapse: collapse;" border="0" width="50%" cellspacing="0" cellpadding="0" align="left">
+<tbody>
+<tr>
+<td valign="top">
+<table style="margin: 0; padding: 0; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding-bottom: 2px; text-transform: uppercase; line-height: 15px; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; color: #000000; -webkit-text-size-adjust: none;">Modtager</td>
+</tr>
+<tr>
+<td style="line-height: 1px; font-family: Arial, sans-serif; font-size: 1px; -webkit-text-size-adjust: none;"><img style="display: block;" src="http://finans.dk/img/mail/pay/footer-user-bg.png" alt="" width="179" height="1" border="0" /></td>
+</tr>
+<tr>
+<td style="padding-top: 10px; padding-bottom: 5px; line-height: 16px; font-family: Arial, sans-serif; font-size: 12px; color: #000000; -webkit-text-size-adjust: none;"><a style="text-decoration: underline; line-height: 15px; font-family: Arial, sans-serif; font-size: 12px; color: #a70a2c; -webkit-text-size-adjust: none;" href="mailto:$[Username:]" target="_blank">$[Username:]</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-left: 10px; padding-right: 10px; line-height: 1px; font-family: Arial, sans-serif; font-size: 1px; -webkit-text-size-adjust: none;" valign="top"><img style="display: block;" src="http://finans.dk/img/mail/pay/footer-column-bg.png" alt="" width="1" height="112" border="0" /></td>
+<td valign="top">
+<table style="margin: 0; padding: 0; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding-bottom: 2px; text-transform: uppercase; line-height: 15px; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; color: #000000; -webkit-text-size-adjust: none;">Afsender</td>
+</tr>
+<tr>
+<td style="line-height: 1px; font-family: Arial, sans-serif; font-size: 1px; -webkit-text-size-adjust: none;"><img style="display: block;" src="http://finans.dk/img/mail/pay/footer-info-bg.png" alt="" width="120" height="1" border="0" /></td>
+</tr>
+<tr>
+<td style="padding-top: 10px; padding-bottom: 5px; line-height: 16px; font-family: Arial, sans-serif; font-size: 12px; color: #000000; -webkit-text-size-adjust: none;">Finans<br /> Rådhuspladsen 37<br /> 1785 København V<br /> <a style="text-decoration: underline; line-height: 15px; font-family: Arial, sans-serif; font-size: 12px; color: #a70a2c; -webkit-text-size-adjust: none;" href="mailto:finans@finans.dk" target="_blank">finans@finans.dk</a><br /> Tlf.: 33 30 31 31</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="min-width: 224px; margin: 0; margin-bottom: 10px; padding: 0; border-collapse: collapse;" border="0" width="35%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding-bottom: 2px; text-transform: uppercase; line-height: 15px; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; color: #000000; -webkit-text-size-adjust: none;">Følg os pa</td>
+</tr>
+<tr>
+<td style="line-height: 1px; font-family: Arial, sans-serif; font-size: 1px; -webkit-text-size-adjust: none;"><img style="display: block;" src="http://finans.dk/img/mail/pay/footer-share-bg.png" alt="" width="224" height="1" border="0" /></td>
+</tr>
+<tr>
+<td style="padding-top: 10px;">
+<table style="margin: 0; padding: 0; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding-left: 6px; padding-right: 14px;"><a style="line-height: 1px; font-family: Arial, sans-serif; font-size: 1px; -webkit-text-size-adjust: none;" href="https://www.facebook.com/finans.dk/?fref=ts" target="_blank"><img style="display: block;" src="http://finans.dk/img/mail/pay/facebook-icon.png" alt="Facebook" width="20" height="18" border="0" /></a></td>
+<td style="padding-left: 14px; padding-right: 14px;"><a style="line-height: 1px; font-family: Arial, sans-serif; font-size: 1px; -webkit-text-size-adjust: none;" href="https://twitter.com/Finansdk" target="_blank"><img style="display: block;" src="http://finans.dk/img/mail/pay/twitter-icon.png" alt="Twitter" width="20" height="18" border="0" /></a></td>
+<td style="padding-left: 14px; padding-right: 14px;"><a style="line-height: 1px; font-family: Arial, sans-serif; font-size: 1px; -webkit-text-size-adjust: none;" href="https://www.linkedin.com/company/5303458" target="_blank"><img style="display: block;" src="http://finans.dk/img/mail/pay/linkedin-icon.png" alt="LinkedIn" width="20" height="18" border="0" /></a></td>
+<td style="padding-left: 14px; padding-right: 14px;"><a style="line-height: 1px; font-family: Arial, sans-serif; font-size: 1px; -webkit-text-size-adjust: none;" href="https://plus.google.com/+FinansDkbiz" target="_blank"><img style="display: block;" src="http://finans.dk/img/mail/pay/googleplus-icon.png" alt="Google+" width="20" height="18" border="0" /></a></td>
+<td style="padding-left: 14px; padding-right: 6px;"><a style="line-height: 1px; font-family: Arial, sans-serif; font-size: 1px; -webkit-text-size-adjust: none;" href="https://www.instagram.com/finansdk/" target="_blank"><img style="display: block;" src="http://finans.dk/img/mail/pay/instagram-icon.png" alt="Instagram" width="20" height="18" border="0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="margin: 0; padding: 0; border-collapse: collapse; background-color: #000000;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" bgcolor="#000000">
+<tbody>
+<tr>
+<td style="line-height: 1px; font-family: Arial, sans-serif; font-size: 1px; -webkit-text-size-adjust: none;" height="1"> </td>
+</tr>
+</tbody>
+</table>
+<table style="margin: 0; padding: 0; border-collapse: collapse; max-width: 660px;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="finansPayMail__copyright" style="text-align: center; text-transform: uppercase; line-height: 15px; font-family: Arial, sans-serif; font-size: 12px; color: #888888; -webkit-text-size-adjust: none; padding: 8px 10px 8px 10px;" align="center">Copyright © Finans 2014</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>

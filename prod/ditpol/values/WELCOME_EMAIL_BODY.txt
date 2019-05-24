@@ -1,0 +1,28 @@
+        Kære $[FirstName:bruger]
+        
+        
+        
+        Velkommen til Politiken. Du har nu oprettet et Medielogin og er allerede godt i gang, men du mangler lige at aktivere din profil.
+        
+             
+       @[server]polid/activate?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]&forwardTo=http://politiken.dk/polbruger/velkommen/
+        
+                
+        Hvis linket ikke virker, kan du kopiere $[LRANGE]link$[RRANGE] ind i en browser og trykke på enter.
+        
+              
+       
+                   
+
+        Har du spørgsmål, er du velkommen til at kontakte Kundecenter Politiken på tlf. 7015 0101 eller via http://politiken.dk/kundecenter/sporgsmalogsvar/.
+
+        Rigtig god fornøjelse.
+        
+        
+        
+        Med venlig hilsen
+        
+        Politiken
+      
+
+På Politiken benytter vi det fælles Medielogin, som også bruges på andre hjemmesider med tilknytning til JP/Politikens hus. Læs mere om Medielogin på http://medielogin.dk

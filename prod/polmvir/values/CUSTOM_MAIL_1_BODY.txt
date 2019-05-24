@@ -1,0 +1,13 @@
+Kære $[FirstName:Kunde] $[LastName:]
+
+
+Din arbejdsplads har sørget for, at du har fri adgang til politiken.dk.
+
+Du har allerede et Medielogin til politiken.dk, og denne mail er blot en bekræftelse på, at du nu fremover har fri adgang via din arbejdsplads.
+
+Ændringer til Medielogin
+Hvis du ønsker at skifte den e-mail-adresse, der er tilknyttet din Medielogin,  eller at ændre dit kodeord, skal du være logget ind, klikke på dit navn i øverste højre hjørne og vælge ’Indstillinger’. Kundecenter Politiken kan også hjælpe dig på politiken.dk/kundecenter, eller du kan ringe på 7015 0101.
+
+
+Venlig hilsen
+Politiken

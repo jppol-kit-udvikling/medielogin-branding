@@ -1,0 +1,15 @@
+Kære $[FirstName:abonnent] $[LastName:] 
+
+Velkommen til Ekstra Bladet & Medielogin
+
+Vi er glade for at kunne byde dig velkommen med din brugerkonto hos Medielogin. Du kan bruge Medielogin ifbm. dit abonnement på Ekstra Bladet. 
+
+Du skal huske at vælge et kodeord til dit Medielogin, inden du kan bruge Medielogin. Det gør du via dette link:
+
+$[ACTIVATION_LINK]&redir=@[permissionsite]
+
+Bemærk at dit Medielogin også kan bruges på andre sites i JP/Politikens Hus. Det gælder fx politiken.dk og jyllands-posten.dk.
+
+Rigtig god fornøjelse!
+Venlig hilsen 
+Ekstra Bladet og Medielogin

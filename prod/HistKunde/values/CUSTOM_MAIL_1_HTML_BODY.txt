@@ -1,0 +1,73 @@
+<table style="width: 100%;" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td>
+<table class="content" style="width: 580px; margin: 0 auto;" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="logo" style="padding-top: 5px; width: auto;" align="center" height="45"><img style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; display: block;" src="@[imglogo]" alt="" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%;" bgcolor="#FFFFFF ">
+<tbody>
+<tr>
+<td>
+<table style="width: 580px; margin: 10px auto; margin-top: 20px;" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="date" style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-style: normal; margin: 0px;" align="left">Kære $[FirstName:kunde] $[LastName:]</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%;" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td>
+<table class="content" style="width: 580px; margin: 0px auto;" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Da du allerede har et Medielogin, har vi som en service automatisk tilføjet dit abonnementsnummer til dit eksisterende Medielogin.</p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Hvis du har problemer kan du få hjælp på <a style="color: @[logo_color]; text-decoration: none;" href="https://politikenhistorie.dk/kontakt/" target="_blank"> <span style="color: @[logo_color];">politikenhistorie.dk/kontakt</span> </a> eller ringe til os på tlf.: 7015 0101, alle hverdage kl. 07:00-16:00.</p><br />
+</td>
+</tr>
+<tr>
+<td>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Venlig hilsen<br />Politiken Historie</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%;" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td class="content" style="margin: 10px auto;">
+<table class="footer" style="margin-top: 15px; margin-bottom: 25px; width: 580px; padding: 0px; padding-top: 10px; border-top: 1px solid #cccccc;" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="width: 50%; padding-top: 10px;" align="left" valign="bottom">
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; line-height: 1.3; margin-top: 0;"><a style="color: @[logo_color]; text-decoration: none;" href="https://politikenhistorie.dk/kontakt/" target="_blank"> <span style="@[logo_color];">Kontakt Kundeservice</span> </a><br /> <a style="color: @[logo_color]; text-decoration: none;" href="https://politikenhistorie.dk/abonnement/" target="_blank"> <span style="color: @[logo_color];">Abonnementsvilkår</span> </a><br /> <a style="color: @[logo_color]; text-decoration: none;" href="https://medielogin.dk/politikenhistorie/Create?context=&redirect=" target="_blank"> <span style="color: @[logo_color];">Opret Medielogin</span> </a><br /> <a style="color: @[logo_color]; text-decoration: none;" href="https://politikenhistorie.dk/" target="_blank"> <span style="color: @[logo_color];">Politikenhistorie.dk</span> </a><br /> <a style="color: @[logo_color]; text-decoration: none;" href="https://politikenhistorie.dk/nyhedsbreve/mine/" target="_blank"> <span style="color: @[logo_color];">Tilmeld nyhedsbreve</span> </a></p>
+</td>
+<td style="width: 50%;" align="right" valign="bottom">
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;"><span style="text-transform: uppercase;">Politiken Historie</span><br /> Rådhuspladsen 37<br /> 1785 København V<br /> Tlf.: 70 15 02 02<br /> CVR.nr. 39356333</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>

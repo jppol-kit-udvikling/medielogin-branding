@@ -1,0 +1,12 @@
+Kære $[FirstName:bruger]
+
+Du har oprettet en Politiken Profil. For at aktivere din profil, skal du inden for 7 dage aktivere dette link.
+
+@[server]bruger/opret/angivadgangskode/?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]
+
+
+
+Husk at vælge en adgangskode. Adgangskoden skal være på mindst seks tegn og indeholde både tal og bogstaver.
+
+
+Venlig hilsen Politiken

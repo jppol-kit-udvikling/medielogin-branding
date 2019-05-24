@@ -1,0 +1,1 @@
+$[brandingPath]/branding_jptablet.css

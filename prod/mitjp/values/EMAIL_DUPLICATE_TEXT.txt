@@ -1,0 +1,1 @@
+E-mail-adressen findes allerede. <a id="forgotPasswordLink" class="forgotPasswordLink" href="http://abonnement.jyllands-posten.dk/?resetpassword=true" target="_top">Glemt din adgangskode?</a>

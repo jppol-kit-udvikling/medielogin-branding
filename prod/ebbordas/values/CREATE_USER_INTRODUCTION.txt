@@ -1,0 +1,1 @@
+<h2>Opret bruger</h2> <p>Opret en bruger i formularen. Kodeord skal være på minimum 6 karakterer. </p>

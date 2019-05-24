@@ -1,0 +1,14 @@
+Tak fordi du har oprettet en profil hos Ekstra Bladet. Vi er glade for at kunne byde dig velkommen.
+
+Bekræft din profil og vælg kodeord her:
+$[ACTIVATION_LINK]&redir=@[eb_server_urlencoded]%2Fmedielogin%2Flogin%3Fcmd%3Dactivate
+
+Dit login til Ekstra Bladet er et Medielogin. Det betyder, at din profil også kan bruges på andre sites i JP/Politikens Hus. Det gælder fx hos Politiken og Jyllands-Posten. Læs mere på medielogin.dk
+
+Venlig hilsen
+Ekstra Bladet
+
+
+****
+Fik du denne mail ved en fejl?
+Hvis du ikke har bedt om denne mail og/eller oprettet dig som bruger hos Ekstra Bladet, kan du blot se bort fra denne mail.

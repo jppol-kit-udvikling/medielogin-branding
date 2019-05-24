@@ -1,0 +1,25 @@
+<html>
+<body>
+<img style="float:left;" src="http://multimedia.pol.dk/archive/00386/politiken_dk_sort_s_386662a.jpg"><br /><br />
+
+<div style="background-color:#f2f2f2;border-top:6px solid #cc0000; padding:20px;">
+<p>K&aelig;re $[FirstName:bruger]</p>
+
+<p>Du har oprettet en Politiken Profil. For at aktivere din profil, skal du inden for 7 dage aktivere dette link.</p>
+
+
+
+@[server]bruger/opret/angivadgangskode/?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]
+
+<br /><br />
+
+Husk at vælge en adgangskode. Adgangskoden skal være på mindst seks tegn og indeholde både tal og bogstaver.
+<br /><br />
+
+
+
+<p>Venlig hilsen Politiken</p>
+
+</div>
+</body>
+</html>

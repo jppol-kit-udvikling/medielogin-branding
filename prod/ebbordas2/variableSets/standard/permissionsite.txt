@@ -1,0 +1,1 @@
+http%3A%2F%2Fstatic.ekstrabladet.dk%2Fbannerhtml%2Fdata%2FBLADSALG%2Fmedielogin%2Fsite.html%3Femail%3D$[Username:]%26ssoid%3D$[USERID]

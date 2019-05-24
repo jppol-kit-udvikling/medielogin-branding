@@ -1,0 +1,73 @@
+<table style="width: 100%;" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td>
+<table class="content" style="width: 580px; margin: 0 auto;" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="logo" style="padding-top: 5px; width: auto;" align="left" height="45"><img style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; display: block;" src="@[imglogo]" alt="" width="200" height="36" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%;" bgcolor="#FFFFFF ">
+<tbody>
+<tr>
+<td>
+<table style="width: 580px; margin: 10px auto; margin-top: 20px;" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="date" style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-style: normal; margin: 0px;" align="left">Kære $[FirstName:kunde] $[LastName:]</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%;" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td>
+<table class="content" style="width: 580px; margin: 0px auto;" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Da du allerede har et Medielogin, har vi som en service automatisk tilføjet dit abonnementsnummer til dit eksisterende Medielogin.</p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Hvis du har problemer kan du få hjælp på borneavisen.dk eller ringe til os på tlf.: 7015 9515, hverdage kl. 07:00-16:00.</p><br />
+</td>
+</tr>
+<tr>
+<td>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Venlig hilsen<br />Børneavisen</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%;" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td class="content" style="margin: 10px auto;">
+<table class="footer" style="margin-top: 15px; margin-bottom: 25px; width: 580px; padding: 0px; padding-top: 10px; border-top: 1px solid #cccccc;" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="width: 50%; padding-top: 10px;" align="left" valign="bottom">
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; line-height: 1.3; margin-top: 0;"><a style="color: #cc0000; text-decoration: none;" href="https://borneavisen.dk/" target="_blank"> <span style="color: #cc0000;">Kontakt Kundecenter</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="https://borneavisen.dk/" target="_blank"> <span style="color: #cc0000;">Abonnementsvilkår</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="https://medielogin.dk/mli/create" target="_blank"> <span style="color: #cc0000;">Opret Medielogin</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="https://borneavisen.dk/" target="_blank"> <span style="color: #cc0000;">Borneavisen.dk</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="https://borneavisen.dk/" target="_blank"> <span style="color: #cc0000;">Tilmeld nyhedsbreve</span> </a></p>
+</td>
+<td style="width: 50%;" align="right" valign="bottom">
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;"><span style="text-transform: uppercase;">Børneavisen</span><br />Søren Frichs Vej 38 B<br />8230 Åbyhøj<br /> Tlf. 70 15 95 15<br /> CVR.nr. 26933676</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>

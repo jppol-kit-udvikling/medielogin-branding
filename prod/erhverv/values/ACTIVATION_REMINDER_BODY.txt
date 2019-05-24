@@ -1,0 +1,36 @@
+For en uge siden oprettede vi et Medelogin til dig. Men du mangler stadig at aktivere din konto og vælge adgangskode. Det gør du via dette link:
+
+@[medielogin_url]/login/aktiver/?ac=$[ACTIVATION_CODE]&userid=$[USERID]
+
+
+Bemærk at hvis du ikke har aktiveret din brugerkonto indenfor en måned bliver den slettet og du skal så oprette dig igen
+
+$IF[EKSTRAfirma|EKSTRAfriadgang|EKSTRAvirksomhed|Politiken Erhverv|Finans|eBladet|JP E-avis|JP Premium][
+Når du er logget ind på @[medielogin_url]/erhverv giver dit abonnement dig øjeblikkelig adgang til:
+
+$IF[EKSTRAfirma|EKSTRAfriadgang|EKSTRAvirksomhed ][
+- Ekstra Bladet+
+]
+$IF[Politiken Erhverv][
+- politiken.dk
+]
+$IF[Politiken e-avis][
+- politiken.dk
+]
+$IF[Finans][
+- finans.dk
+]
+$IF[eBladet][
+- eBladet
+]
+$IF[JP E-avis][
+- Jyllands Posten e-avis
+]
+$IF[JP Premium][
+- Jyllands Posten Premium
+]
+
+]
+
+
+Rigtig god fornøjelse!

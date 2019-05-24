@@ -1,0 +1,7 @@
+<p>Du er nu oprettet som bruger hos billedbureauet POLFOTO.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Inden du kan logge ind, skal du v&aelig;lge en adgangskode via aktiveringslinket:</p>
+<p>&nbsp;</p>
+<p><a href="$[ACTIVATION_LINK]&amp;activationcode=$[ACTIVATION_CODE]&amp;brand=Polfoto&amp;redir=http%3A%2F%2Fpolfoto.dk%2FPages%2Fdefault.aspx%3FOpenLogin%3Dtrue">$[ACTIVATION_LINK]&amp;activationcode=$[ACTIVATION_CODE]&amp;brand=Polfoto&amp;redir=http%3A%2F%2Fpolfoto.dk%2FPages%2Fdefault.aspx%3FOpenLogin%3Dtrue&nbsp;</a></p>
+<p>&nbsp;</p>
+<p>Har du sp&oslash;rgsm&aring;l s&aring; skriv til salg@polfoto.dk eller ring til +45 33471233</p>

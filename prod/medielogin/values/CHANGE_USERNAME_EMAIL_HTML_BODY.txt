@@ -1,0 +1,6 @@
+<p>Du har bedt om at skifte brugernavn til din brugerkonto hos JyllandsPosten, Ekstra Bladet og Politiken. </p>
+<p>Benyt følgende link <a href="$[CHANGE_EMAIL_LINK]&redir=@[medielogin_url]/telmore">$[CHANGE_EMAIL_LINK]&redir=@[medielogin_url]/telmore</a> for at starte aktiveringen.</p>
+<p>Bemærk at du skal benytte din eksisterende email-adresse og brugernvan for at få lov til at skifte brugernavnet.</p>
+<p> </p>
+<p>Med venlig hilsen</p>
+<p>Medielogin</p>

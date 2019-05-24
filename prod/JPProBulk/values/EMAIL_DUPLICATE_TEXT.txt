@@ -1,0 +1,2 @@
+E-mail-adressen findes allerede. <br />
+Har du glemt dit kodeord? Klik her: <a href="http://mit.jp.dk/reset.aspx">Glemt kodeord</a>

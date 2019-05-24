@@ -1,0 +1,14 @@
+Kære $[FirstName:bruger]
+
+Vi har nu oprettet et Medielogin til dig, så du kan læse E-avisen og benytte dig af selvbetjening. 
+
+Medielogin er dit login til JP/Politikens Hus’ digitale tilbud og øvrige tjenester. 
+Med Medielogin har du ét login du kan bruge på tværs, og du skal derfor huske færre brugernavne og adgangskoder. 
+Du kan læse mere om Medielogin her: https://test.medielogin.dk/om-medielogin 
+
+For at komme i gang med at bruge vores digitale tilbud skal dit Medielogin aktiveres her: @[medielogin_host]/@[branding_path]/@[activateStem]?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]
+
+@[welcome_brand_specific]
+
+Venlig hilsen
+@[greetings]

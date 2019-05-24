@@ -1,0 +1,11 @@
+<p><img style="width: 267px; height: 21px; padding: 20px;" src="@[imageSource]/logo__politiken-plus.jpg" alt="" /></p>
+<div style="background-color: #fff; padding: 20px; font-family: Georgia; font-size: 18px;">
+<p>Kære $[FirstName:bruger]</p>
+<p>Du har bedt om at skifte din e-mailadresse. Klik på linket nedenfor for at bekræfte.</p>
+<a href="@[server]/bruger/profil/afslut_ny_email?ssolink=$[CHANGE_EMAIL_LINK]"> @[server]/bruger/profil/afslut_ny_email?ssolink=$[CHANGE_EMAIL_LINK] </a>
+<p>Hvis du har andre aktiviteter på hjemmesider i JP/Politikens Hus gælder din nye e-mailadresse også der.</p>
+<p>Hvis du oplever problemer i relation til politiken.dk, kan du kontakte <a href="http://politiken.dk/kundecenter">Kundecenter Politiken</a></p>
+<p>Venlig hilsen<br /> Politiken</p>
+<br />
+<p>På Politiken benytter vi det fælles Medielogin, som også bruges på andre hjemmesider med tilknytning til JP/Politikens hus. Læs mere om <a href="http://medielogin.dk">Medielogin</a></p>
+</div>

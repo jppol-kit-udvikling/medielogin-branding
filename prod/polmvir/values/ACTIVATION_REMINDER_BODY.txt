@@ -1,0 +1,18 @@
+Kære $[FirstName:Kunde] $[LastName:]
+
+
+Din arbejdsplads har sørget for, at du har fri adgang til politiken.dk. 
+
+Vi har tidligere sendt dig en mail med information om, hvordan du opretter et Medielogin, så du får adgang til hele politiken.dk på både desktop, tablet og mobil.
+
+For at oprette dit Medielogin – som består af din e-mail-adresse og en adgangskode, du selv vælger – skal du klikke på linket herunder. 
+
+@[server]bruger/opret/angivadgangskode/?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]&showAcceptEmail=true
+
+Tip: Markér feltet ’Husk mig’. Så vil du automatisk være logget ind, når du fremover går ind på politiken.dk. 
+
+Det er alt sammen dele af din adgang til politiken.dk, som vi ikke synes, du skal gå glip af.
+
+
+Venlig hilsen
+Politiken

@@ -1,0 +1,24 @@
+Kære $[FirstName:Kunde] $[LastName:]
+
+
+Din arbejdsplads har sørget for, at du nu har fri adgang til politiken.dk. Du skal blot oprette og aktivere et Medielogin. Det gør du ved at klikke her:
+
+@[server]bruger/opret/angivadgangskode/?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]&showAcceptEmail=true
+
+
+Hvad er et Medielogin?
+I praksis er dit Medielogin en kombination af din e-mail-adresse og en adgangskode, som du selv vælger. Når du er logget ind, har du adgang til alt på politiken.dk. Adgangen gælder både på desktop, tablet og mobil.
+
+Sådan logger du ind
+Når dit Medielogin er aktiveret, kommer du i gang ved at klikke på ’LOG IND’ i øverste højre hjørne på politiken.dk. Skriv din e-mail-adresse og din adgangskode.
+Tip: Markér feltet ’Husk mig’. Så er du automatisk logget ind, når du fremover går ind på politiken.dk.
+
+Ændringer til Medielogin
+Hvis du ønsker at skifte mailadresse eller kodeord, skal du være logget ind, klikke på dit navn i øverste højre hjørne og vælge ’Indstillinger’. Kundecenter Politiken kan også hjælpe dig på politiken.dk/kundecenter, eller du kan ringe på 7015 0101.
+Har du spørgsmål, eller behøver du hjælp, kan du selvfølgelig stadig kontakte Kundecenter Politiken direkte på politiken.dk/kundecenter eller ringe på 7015 0101.
+
+Rigtig god læselyst!
+
+
+Venlig hilsen
+Politiken

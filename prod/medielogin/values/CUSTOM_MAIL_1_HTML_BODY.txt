@@ -1,0 +1,6 @@
+<p>Dit medielogin er blevet meldt ind i en gruppe, der giver dig særlige rettigheder og adgange. </p>
+<p> </p>
+<p>Du kan se mere om din adgang her: <a href="@[medielogin_url]/grupper">@[medielogin_url]/grupper</a></p>
+<p> </p>
+<p>Med venlig hilsen </p>
+<p>Medielogin - JP/Politikens Hus</p>

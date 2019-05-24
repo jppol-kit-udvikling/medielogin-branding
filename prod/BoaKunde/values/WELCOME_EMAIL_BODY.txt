@@ -1,0 +1,26 @@
+Kære $[FirstName:Kunde] $[LastName:]
+
+
+Dit personlige Medielogin er nøglen til Borneavisen.dk og kontakt til kundeservice.
+
+Hvad er et Medielogin?
+I praksis er dit Medielogin en kombination af din e-mail-adresse og en adgangskode, som du selv vælger.
+
+Når du er logget ind med dit Medielogin, har du adgang til alt på Borneavisen.dk - alle artikler og alt indhold. Og adgangen gælder både på desktop, tablet og mobil.
+
+Opret dit Medielogin
+Aktivér dit Medielogin via linket herunder. Det eneste, du skal gøre, er at tilføje din e-mail-adresse og en adgangskode. 
+
+@[mliserver]/borneavisen/setpassword?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]
+
+Sådan logger du ind
+Når dit Medielogin er aktiveret, kommer du i gang ved at klikke på ’LOG IND’ i øverste højre hjørne på borneavisen.dk. Skriv din e-mail-adresse og din adgangskode.  
+Tip: Markér feltet ’Husk mig’. Så er du automatisk logget ind, når du fremover går ind på borneavisen.dk.
+
+Har du spørgsmål, eller behøver du hjælp, kan du selvfølgelig stadig kontakte kundeservice direkte på borneavisen.dk/kontakt eller ringe på tlf. 7015 9515, alle hverdage kl. 07:00-16:00.
+
+Rigtig god læselyst!
+
+
+Venlig hilsen
+Børneavisen

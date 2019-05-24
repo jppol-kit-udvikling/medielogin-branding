@@ -1,0 +1,7 @@
+<p>Du skal nu v&aelig;lge et kodeord der overholder f&oslash;lgende betingelser:</p>
+<ul>
+<li>Det skal &nbsp;v&aelig;re mellem 6 og 40 tegn.</li>
+<li>Det skal indeholde b&aring;de bogstaver og tal.</li>
+<li>Det m&aring; ikke indeholde det samme tegn 4 gange i tr&aelig;k.</li>
+<li>Det m&aring; hverken starte eller slutte med et mellemrum.</li>
+</ul>

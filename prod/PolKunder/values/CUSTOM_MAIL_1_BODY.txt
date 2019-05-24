@@ -1,0 +1,9 @@
+Kære $[FirstName:Kunde] $[LastName:]
+
+Da du allerede har et Medielogin, har vi som en service automatisk tilføjet dit abonnementsnummer til dit eksisterende Medielogin.
+
+Hvis du har problemer kan du få hjælp på politiken.dk/kundecenter eller ringe til os på 70 15 01 01.
+
+
+Venlig hilsen
+Politiken

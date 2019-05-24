@@ -1,0 +1,15 @@
+Kære $[FirstName:Kunde] $[LastName:]
+
+Vi har tidligere sendt dig en mail med information om, hvordan du opretter dit Medielogin, så du får adgang til hele Borneavisen.dk - alle artikler og alt indhold. På både desktop, tablet og mobil.
+
+For at oprette dit Medielogin, skal du klikke herunder:
+
+@[mliserver]/borneavisen/setpassword?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]
+
+Tip: Markér feltet 'Husk mig'. Så er du automatisk logget ind, når du fremover går ind på Borneavisen.dk.
+
+Rigtig god læselyst!
+
+
+Venlig hilsen
+Børneavisen
