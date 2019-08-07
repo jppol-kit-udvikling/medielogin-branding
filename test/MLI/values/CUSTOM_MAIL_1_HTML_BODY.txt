@@ -1,3 +1,4 @@
+
 <html>
 <head>
 <style>
@@ -8,13 +9,23 @@ a{text-decoration: none}
 </style>
 </head>
 <body><p><img src="@[brand_logo]" alt="" /></p>
-<p>Dit medielogin er blevet meldt ind i en gruppe, der giver dig særlige rettigheder og adgange. </p>
-<p>Du kan se mere om din adgang her:</p>
-<p> Se dine særlige adgange her: <strong><a href="@[medielogin_host]/grupper">@[medielogin_host]/grupper</a></strong></p>
-<p>@[welcome_brand_specific]</p>
-<p>Med venlig hilsen </p>
-<p>@[greetings]</p>
-<p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>
+<p>
+<b>Kære $[FirstName:Læser]</b>
+</p>
+@[CUSTOM_MAIL_1_CONTENT]
+<p>
+Vi håber, at du bliver glad for at dit abonnement.
+</p>
+<p>
+
+Med venlig hilsen 
+</p>
+<p>
+Politiken Nicher
+</p>
+<p><em>Politiken Nicher udgiver Politiken Byrum om byudvikling og Politiken Skoleliv om grundskolen.</em>
+</p>
+<p>
 
 </body>
 </html>
