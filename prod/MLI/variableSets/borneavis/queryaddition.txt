@@ -1,1 +1,1 @@
-1
+redirect=https%3A%2F%2Fborneavisen.dk%2Fnyabonnent%2F
