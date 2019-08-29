@@ -1,4 +1,3 @@
-
 <html>
 <head>
 <style>
@@ -10,22 +9,9 @@ a{text-decoration: none}
 </head>
 <body><p><img src="@[brand_logo]" alt="" /></p>
 <p>
-<b>Kære $[FirstName:Læser]</b>
+<b>Kære $[FirstName:læser]</b>
 </p>
 @[CUSTOM_MAIL_1_CONTENT]
-<p>
-Vi håber, at du bliver glad for at dit abonnement.
-</p>
-<p>
-
-Med venlig hilsen 
-</p>
-<p>
-Politiken Nicher
-</p>
-<p><em>Politiken Nicher udgiver Politiken Byrum om byudvikling og Politiken Skoleliv om grundskolen.</em>
-</p>
-<p>
 
 </body>
 </html>
