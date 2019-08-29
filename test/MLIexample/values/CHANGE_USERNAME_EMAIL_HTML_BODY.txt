@@ -16,7 +16,7 @@ a{text-decoration: none}
 <p class="MsoNormal">Med dit Medielogin kan du logge ind på JP/Politikens Hus’ digitale tilbud og tjenester f. eks. Politiken.dk, Jyllands-Posten.dk, Finans.dk og Ekstrabladet.dk.  I praksis betyder det at du skal huske færre brugernavne og adgangskoder. Læs mere om Medielogin her: <a href="@[medielogin_host]/faq">@[medielogin_host]/faq</a></p>
 <p> </p>
 <p>Med venlig hilsen</p>
-<p>Medielogin</p>
+<p>@[brand_name] og Medielogin</p>
 <p>- en del af JP/Politikens Hus</p>
 <p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>
 </body>

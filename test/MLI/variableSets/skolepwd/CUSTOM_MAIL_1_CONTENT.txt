@@ -1,4 +1,7 @@
 <p>
+<b>Kære $[FirstName:læser]</b>
+</p>
+<p>
 Du er blevet tildelt en adgang til Politiken Skoleliv, fordi du eller din kollega har tilmeldt dig. Du kan læse mere om Politiken Skoleliv og hvordan du kommer i gang herunder. 
 </p>
 <p>

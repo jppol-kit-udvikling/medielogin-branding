@@ -8,9 +8,6 @@ a{text-decoration: none}
 </style>
 </head>
 <body><p><img src="@[brand_logo]" alt="" /></p>
-<p>
-<b>Kære $[FirstName:læser]</b>
-</p>
 @[CUSTOM_MAIL_1_CONTENT]
 
 </body>

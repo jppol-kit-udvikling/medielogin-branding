@@ -3,4 +3,4 @@ Dit medielogin er blevet meldt ind i en gruppe, der giver dig særlige rettighed
 Du kan se mere om din adgang her: @[medielogin_host]/grupper
 
 Med venlig hilsen 
-<p>@[greetings]</p>
+<p>@[brand_name] og Medielogin</p>

@@ -14,9 +14,9 @@ a{text-decoration: none}
 <p>Du har nu oprettet et Medielogin, men du mangler at aktivere dit Medielogin.</p>
 <p>Aktiver dit Medielogin her: <strong><a href="@[medielogin_host]/@[branding_path]/activate?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]">@[medielogin_host]/@[branding_path]/activate?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]</a></strong></p>
 <p>Med dit Medielogin kan du logge ind på JP/Politikens Hus’ digitale tilbud og tjenester f. eks. Politiken.dk, Jyllands-Posten.dk, Finans.dk og Ekstrabladet.dk. I praksis betyder det at du skal huske færre brugernavne og adgangskoder. Læs mere om Medielogin her: <a href="@[medielogin_host]/faq">@[medielogin_host]/faq</a></p>
-<p>@[welcome_brand_specific]</p>
+<p>Har du spørgsmål, er du velkommen til at kontakte vores kundeservice på @[brand_phone]</p>
 <p>Venlig hilsen</p>
-<p>@[greetings]</p>
+<p>@[brand_name] og Medielogin</p>
 <p>-en del af JP/Politikens Hus</p>
 <p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>
 </body>
