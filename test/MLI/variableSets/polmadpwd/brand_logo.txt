@@ -1,1 +1,1 @@
-@[medielogin_host]/upload/politiken-mad_logo.png
+@[medielogin_host]/upload/polmad/polmad-aktivering.png
