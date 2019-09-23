@@ -1,24 +1,16 @@
-<h3>Kære bruger</h3>
-
-<h4>Velkommen til Finans</h4>
+<h1>Velkommen</h1>
 <p>
-Dit medielogin har nu fået adgang til Finans via en erhvervsaftale. 
-</p>
-<p>
-Har du glemt din adgangskode, kan du nulstille den her: <a href="https://medielogin.dk/finans/ResetPassword">https://medielogin.dk/finans/ResetPassword</a>
-</p>
-<p>
-Med dit Medielogin kan du logge ind på JP/Politikens Hus’ digitale tilbud og tjenester f. eks. Politiken.dk, Jyllands-Posten.dk, Finans.dk og Ekstrabladet.dk. I praksis betyder det at du skal huske færre brugernavne og adgangskoder. Læs mere om Medielogin her: https://medielogin.dk/faq
-</p>
-<p>
+Dit medielogin har nu fået adgang til FINANS via en erhvervsaftale
+</p><p>
+Har du glemt din adgangskode, kan du nulstille den her: https://medielogin.dk/finans/ResetPassword
+</p><p>
+Med dit Medielogin kan du logge ind på JP/Politikens Hus’ digitale tilbud og tjenester f.eks. Politiken.dk, Jyllands-Posten.dk, Finans.dk og Ekstrabladet.dk. I praksis betyder det, at du skal huske færre brugernavne og adgangskoder. Læs mere om Medielogin her: https://medielogin.dk/faq
+</p><p>
 Har du spørgsmål, er du velkommen til at kontakte vores kundeservice på 33 30 31 31
-</p>
-<p>
+</p><p>
 Med venlig hilsen
-</p>
-<p>
-Finans og Medielogin
-</p>
-<p>
+</p><p>
+<em>FINANS og Medielogin</em>
+<br />
 - en del af JP/Politikens Hus
 </p>
