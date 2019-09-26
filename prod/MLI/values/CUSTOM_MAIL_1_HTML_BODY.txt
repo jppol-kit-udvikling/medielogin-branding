@@ -9,6 +9,7 @@ a{text-decoration: none}
 </head>
 <body><p><img src="@[brand_logo]" alt="" /></p>
 @[CUSTOM_MAIL_1_CONTENT]
+<p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>
 
 </body>
 </html>
