@@ -5,7 +5,7 @@
 <table class="content" style="width: 580px; margin: 0 auto;" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
-<td class="logo" style="padding-top: 5px; width: auto;" align="left" height="45"><img style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; display: block;" src="https://polid.jppol.dk/brandings/ditpol/pollogo.png" alt="" width="200" height="36" /></td>
+<td class="logo" style="padding-top: 5px; width: auto;" align="left" height="45"><img style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; display: block;" src="@[brandlogo]" alt="" width="200" height="36" /></td>
 </tr>
 </tbody>
 </table>
@@ -20,7 +20,7 @@
 <table style="width: 580px; margin: 10px auto; margin-top: 20px;" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
-<td class="date" style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-style: normal; margin: 0px;" align="left">K&aelig;re $[FirstName:kunde] $[LastName:]</td>
+<td class="date" style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-style: normal; margin: 0px;" align="left">Kære $[FirstName:kunde] $[LastName:]</td>
 </tr>
 </tbody>
 </table>
@@ -36,32 +36,32 @@
 <tbody>
 <tr>
 <td>
-<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Dit personlige Medielogin er n&oslash;glen til politiken.dk, Politikens e-avis, Politiken Plus og kontakt til Kundecenter Politiken.</p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Dit personlige Medielogin er nøglen til politiken.dk, Politikens e-avis, Politiken Plus og kontakt til Kundecenter Politiken.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;"><span style="font-weight: bold;">Hvad er et Medielogin?</span><br />I praksis er dit Medielogin en kombination af din e-mail-adresse og en adgangskode, som du selv v&aelig;lger.</p>
-<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">N&aring;r du er logget ind med dit Medielogin, har du adgang til alt p&aring; politiken.dk - alle artikler, alt indhold, alle fordele. Og adgangen g&aelig;lder b&aring;de p&aring; desktop, tablet og mobil.</p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;"><span style="font-weight: bold;">Hvad er et Medielogin?</span><br />I praksis er dit Medielogin en kombination af din e-mail-adresse og en adgangskode, som du selv vælger.</p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Når du er logget ind med dit Medielogin, har du adgang til alt på politiken.dk - alle artikler, alt indhold, alle fordele. Og adgangen gælder både på desktop, tablet og mobil.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;"><span style="font-weight: bold;">Opret dit Medielogin</span><br />Aktiv&eacute;r dit Medielogin via linket herunder. det eneste, du skal g&oslash;re, er at tilf&oslash;je din e-mail-adresse og en adgangskode.</p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;"><span style="font-weight: bold;">Opret dit Medielogin</span><br />Aktivér dit Medielogin via linket herunder. det eneste, du skal gøre, er at tilføje din e-mail-adresse og en adgangskode.</p>
 </td>
 </tr>
 <tr>
-<td align="center" height="30px"><a style="color: #fff; font-family: 'Georgia',Arial,Helvetica,sans-serif; font-size: 18px; line-height: 40px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; outline: none; cursor: pointer; font-weight: normal; white-space: nowrap; text-decoration: none; display: block; background-color: #c00; width: 200px; margin: 0 auto;" href="@[server]bruger/opret/angivadgangskode/?activationcode=$[ACTIVATION_CODE]&amp;userid=$[USERID]&amp;showAcceptEmail=true"><span style="margin: 0 auto;">&nbsp; &nbsp; Aktiv&eacute;r profil &nbsp; &nbsp;</span></a></td>
+<td align="center" height="30px"><a style="color: #fff; font-family: 'Georgia',Arial,Helvetica,sans-serif; font-size: 18px; line-height: 40px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; outline: none; cursor: pointer; font-weight: normal; white-space: nowrap; text-decoration: none; display: block; background-color: #c00; width: 200px; margin: 0 auto;" href="@[server]setpassword/?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]&showAcceptEmail=true"><span style="margin: 0 auto;">    Aktivér profil    </span></a></td>
 </tr>
 <tr>
 <td>
-<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;"><br /><br /><span style="font-weight: bold;">S&aring;dan logger du ind</span><br />N&aring;r dit Medielogin er aktiveret, kommer du i gang ved at klikke p&aring; 'LOG IND' i &oslash;verste h&oslash;jre hj&oslash;rne p&aring; politiken.dk. Skriv din e-mail-adresse og din adgangskode.<br />Tip: Mark&eacute;r feltet 'Husk mig'. S&aring; er du automatisk logget ind, n&aring;r du fremover g&aring;r ind p&aring; politiken.dk.</p>
-<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Har du sp&oslash;rgsm&aring;l, eller beh&oslash;ver du hj&aelig;lp, kan du selvf&oslash;lgelig stadig kontakte Kundecenter Politiken direkte p&aring; politiken.dk/kundecenter eller ringe p&aring; 7015 0101.</p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;"><br /><br /><span style="font-weight: bold;">Sådan logger du ind</span><br />Når dit Medielogin er aktiveret, kommer du i gang ved at klikke på 'LOG IND' i øverste højre hjørne på politiken.dk. Skriv din e-mail-adresse og din adgangskode.<br />Tip: Markér feltet 'Husk mig'. Så er du automatisk logget ind, når du fremover går ind på politiken.dk.</p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Har du spørgsmål, eller behøver du hjælp, kan du selvfølgelig stadig kontakte Kundecenter Politiken direkte på politiken.dk/kundecenter eller ringe på 7015 0101.</p>
 </td>
 </tr>
 <tr>
 <td>
-<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Rigtig god l&aelig;selyst!<br /><br />Venlig hilsen<br />Politiken</p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Rigtig god læselyst!<br /><br />Venlig hilsen<br />Politiken</p>
 </td>
 </tr>
 </tbody>
@@ -78,13 +78,13 @@
 <tbody>
 <tr>
 <td style="width: 33.3%; padding-top: 10px;" align="left" valign="bottom">
-<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; line-height: 1.3; margin-top: 0;"><a style="color: #cc0000; text-decoration: none;" href="http://kundecenter.politiken.dk/kontakt-os/" target="_blank"> <span style="color: #cc0000;">Kontakt Kundecenter</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://kundecenter.politiken.dk/info/vilkaar/" target="_blank"> <span style="color: #cc0000;">Abonnementsvilk&aring;r</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://politiken.dk/bruger/opret/" target="_blank"> <span style="color: #cc0000;">Opret Medielogin</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://politiken.dk/" target="_blank"> <span style="color: #cc0000;">Politiken.dk</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://nyhedsbreve.politiken.dk/" target="_blank"> <span style="color: #cc0000;">Tilmeld nyhedsbreve</span> </a></p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; line-height: 1.3; margin-top: 0;"><a style="color: #cc0000; text-decoration: none;" href="http://kundecenter.politiken.dk/kontakt-os/" target="_blank"> <span style="color: #cc0000;">Kontakt Kundecenter</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://kundecenter.politiken.dk/info/vilkaar/" target="_blank"> <span style="color: #cc0000;">Abonnementsvilkår</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://politiken.dk/bruger/opret/" target="_blank"> <span style="color: #cc0000;">Opret Medielogin</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://politiken.dk/" target="_blank"> <span style="color: #cc0000;">Politiken.dk</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://nyhedsbreve.politiken.dk/" target="_blank"> <span style="color: #cc0000;">Tilmeld nyhedsbreve</span> </a></p>
 </td>
 <td style="width: 33.3%;" align="left" valign="bottom">
-<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;"><span style="text-transform: uppercase;">Politiken</span><br /> R&aring;dhuspladsen 37<br /> 1785 K&oslash;benhavn V<br /> Tlf. 33 11 85 11<br /> CVR.nr. 26933676</p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;"><span style="text-transform: uppercase;">Politiken</span><br /> Rådhuspladsen 37<br /> 1785 København V<br /> Tlf. 33 11 85 11<br /> CVR.nr. 26933676</p>
 </td>
 <td style="width: 33.3%;" align="left" valign="bottom">
-<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">F&oslash;lg med p&aring; de<br />sociale medier:<br /> <a style="color: #cc0000; text-decoration: none;" href="https://twitter.com/politiken" target="_blank"> <span style="color: #cc0000;">Twitter: @Politiken</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://facebook.com/politiken" target="_blank"> <span style="color: #cc0000;">http://facebook.com/politiken</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://instagram.com/politiken" target="_blank"> <span style="color: #cc0000;">http://instagram.com/politiken</span> </a></p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Følg med på de<br />sociale medier:<br /> <a style="color: #cc0000; text-decoration: none;" href="https://twitter.com/politiken" target="_blank"> <span style="color: #cc0000;">Twitter: @Politiken</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://facebook.com/politiken" target="_blank"> <span style="color: #cc0000;">http://facebook.com/politiken</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://instagram.com/politiken" target="_blank"> <span style="color: #cc0000;">http://instagram.com/politiken</span> </a></p>
 </td>
 </tr>
 </tbody>

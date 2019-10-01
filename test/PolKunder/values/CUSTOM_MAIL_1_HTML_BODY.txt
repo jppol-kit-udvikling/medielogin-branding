@@ -1,1 +1,76 @@
-CUSTOM_MAIL_1_HTML_BODY
+<table style="width: 100%;" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td>
+<table class="content" style="width: 580px; margin: 0 auto;" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="logo" style="padding-top: 5px; width: auto;" align="left" height="45"><img style="outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; display: block;" src="@[brandlogo]" alt="" width="200" height="36" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%;" bgcolor="#FFFFFF ">
+<tbody>
+<tr>
+<td>
+<table style="width: 580px; margin: 10px auto; margin-top: 20px;" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="date" style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-style: normal; margin: 0px;" align="left">Kære $[FirstName:kunde] $[LastName:]</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%;" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td>
+<table class="content" style="width: 580px; margin: 0px auto;" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Da du allerede har et Medielogin, har vi som en service automatisk tilføjet dit abonnementsnummer til dit eksisterende Medielogin.</p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Hvis du har problemer kan du få hjælp på <a style="color: #cc0000; text-decoration: none;" href="http://kundecenter.politiken.dk/" target="_blank"> <span style="color: #cc0000;">politiken.dk/kundecenter</span> </a> eller ringe til os på 7015 0101.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Venlig hilsen<br />Politiken</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%;" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<tbody>
+<tr>
+<td class="content" style="margin: 10px auto;">
+<table class="footer" style="margin-top: 15px; margin-bottom: 25px; width: 580px; padding: 0px; padding-top: 10px; border-top: 1px solid #cccccc;" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="width: 33.3%; padding-top: 10px;" align="left" valign="bottom">
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; line-height: 1.3; margin-top: 0;"><a style="color: #cc0000; text-decoration: none;" href="http://kundecenter.politiken.dk/kontakt-os/" target="_blank"> <span style="color: #cc0000;">Kontakt Kundecenter</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://kundecenter.politiken.dk/info/vilkaar/" target="_blank"> <span style="color: #cc0000;">Abonnementsvilkår</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://politiken.dk/bruger/opret/" target="_blank"> <span style="color: #cc0000;">Opret Medielogin</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://politiken.dk/" target="_blank"> <span style="color: #cc0000;">Politiken.dk</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://nyhedsbreve.politiken.dk/" target="_blank"> <span style="color: #cc0000;">Tilmeld nyhedsbreve</span> </a></p>
+</td>
+<td style="width: 33.3%;" align="left" valign="bottom">
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;"><span style="text-transform: uppercase;">Politiken</span><br /> Rådhuspladsen 37<br /> 1785 København V<br /> Tlf. 33 11 85 11<br /> CVR.nr. 26933676</p>
+</td>
+<td style="width: 33.3%;" align="left" valign="bottom">
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Følg med på de<br />sociale medier:<br /> <a style="color: #cc0000; text-decoration: none;" href="https://twitter.com/politiken" target="_blank"> <span style="color: #cc0000;">Twitter: @Politiken</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://facebook.com/politiken" target="_blank"> <span style="color: #cc0000;">http://facebook.com/politiken</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://instagram.com/politiken" target="_blank"> <span style="color: #cc0000;">http://instagram.com/politiken</span> </a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>

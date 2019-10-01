@@ -1,1 +1,11 @@
-Du har bedt om at skifte brugernavn til din brugerkonto hos JyllandsPosten, Ekstra Bladet og Politiken. Benyt følgende link $[ACTIVATION_LINK] for at starte aktiveringen. Bemærk at du skal benytte din eksisterende email-adresse og brugernvan for at få lov til at skifte brugernavnet.
+Kære $[FirstName:kunde] $[LastName:]
+
+Du har ønsket at ændre den e-mail-adresse, du tidligere har tilføjet til dit Medielogin til politiken.dk. For at bekræfte ændringen skal du klikke her:
+
+@[server]bruger/profil/afslut_ny_email?ssolink=$[CHANGE_EMAIL_LINK]
+
+Når du har bekræftet den nye e-mail-adresse, gælder den fremover på alle JP/Politikens hjemmesider.
+
+
+Venlig hilsen 
+Politiken

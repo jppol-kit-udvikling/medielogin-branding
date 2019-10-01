@@ -1,1 +1,1 @@
-~/brandings/Plus20/styles.css
+$[brandingPath]/styles.css?v=1

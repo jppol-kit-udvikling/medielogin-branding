@@ -1,17 +1,26 @@
-Kære $[FirstName:Bruger] $[LastName:.] 
-
-Nu rydder vi op i de besværlige koder og numre man altid skal gå og huske på. Du har en såkaldt "P-bruger" til Plus, et abonnementsnummer til Kundecentrets hjemmeside og noget helt tredje, hvis du skal på politiken.dk og deltage i debatten. Det ændrer vi nu!
-
-Politiken Login, der består af din mailadresse + et kodeord efter eget valg, bliver din fremtidige dør til hele den digitale del af Politiken.  Det skulle gerne være lidt lettere at huske mailadressen og et enkelt kodeord.
-
-Det er nødvendigt at du aktiverer dit nye Politiken Login ved at klikke
-her $[ACTIVATION_LINK]&activationcode=$[ACTIVATION_CODE]&brand=PolKunder&redir=http%3A%2F%2Fplus.politiken.dk .
-Derefter skal du vælge kodeord - så er du klar!
-
-Nu blev Rom ikke bygget på én dag og Politiken Login kan endnu ikke benyttes alle steder. Men vi begynder på Politiken.dk/plus. Her får du ekstra værdi ud af dit Politiken abonnement. Plus’ webbutik har netop gennemgået en større "ombygning" så de mange varer og tilbud bliver præsenteret endnu mere indbydende.  I løbet af de næste måneder kommer både Kundecentret og Debatten på politiken.dk med og stille og roligt breder det sig til resten af Politikens sider. 
-
-Når du aktiverer dit Politiken Login, deltager du i lodtrækningen om 2 gavekort á 2.500 kr. til "GivEtSmil", der kan benyttes i mere end 275 butikker. Vi udlodder også 5 gavekort á 250 kr., til Politiken Plus. Vinderne offentliggøres på www.politiken.dk/plus den 10. november. Præmierne kan ikke ombyttes til kontanter eller andre varer.
+Kære $[FirstName:Kunde] $[LastName:]
 
 
-Med venlig hilsen
-Kundecenter Politiken
+Dit personlige Medielogin er nøglen til politiken.dk, Politikens e-avis, Politiken Plus og kontakt til Kundecenter Politiken.
+
+Hvad er et Medielogin?
+I praksis er dit Medielogin en kombination af din e-mail-adresse og en adgangskode, som du selv vælger.
+
+Når du er logget ind med dit Medielogin, har du adgang til alt på politiken.dk - alle artikler, alt indhold, alle fordele. Og adgangen gælder både på desktop, tablet og mobil.
+
+Opret dit Medielogin
+Aktivér dit Medielogin via linket herunder. Det eneste, du skal gøre, er at tilføje din e-mail-adresse og en adgangskode. 
+
+@[server]bruger/opret/angivadgangskode/?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]&showAcceptEmail=true
+
+Sådan logger du ind
+Når dit Medielogin er aktiveret, kommer du i gang ved at klikke på ’LOG IND’ i øverste højre hjørne på politiken.dk. Skriv din e-mail-adresse og din adgangskode.  
+Tip: Markér feltet ’Husk mig’. Så er du automatisk logget ind, når du fremover går ind på politiken.dk.
+
+Har du spørgsmål, eller behøver du hjælp, kan du selvfølgelig stadig kontakte Kundecenter Politiken direkte på politiken.dk/kundecenter eller ringe på 7015 0101.
+
+Rigtig god læselyst!
+
+
+Venlig hilsen
+Politiken
