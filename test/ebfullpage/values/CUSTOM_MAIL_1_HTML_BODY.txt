@@ -1,9 +1,0 @@
-<p class="MsoNormal"><strong>Velkommen som Medielogin*-bruger.</strong></p>
-<p>Bemærk at du ekstraordinært har adgang til EKSTRA. Det skyldes, at din mailadresse: $[Username:] har særlige adgange tilknyttet. Hvis du ikke allerede har aktiveret din konto og valgt kodeord, skal du gøre det for at komme i gang. Du har fået en særskilt mail fra Medielogin om dette.</p>
-<p> </p>
-<p>Vi håber, du får fornøjelse af alt vores indhold!</p>
-<p> </p>
-<p>*Medielogin er dit login til en række danske medier og deres samarbejdspartnere. Med Medielogin har du et login du kan bruge på tværs, og du skal derfor huske færre brugernavne og adgangskoder.</p>
-<p>I praksis betyder det, at du kan logge ind med den samme bruger på bl.a. Politiken.dk, Jyllands-Posten.dk og Ekstrabladet.dk.</p>
-<p>Medielogin er udviklet og ejet af JP/Politikens Hus A/S.</p>
-<p>Du kan læse mere om Medielogin på <a href="http://medielogin.dk/" target="_blank">http://medielogin.dk/</a></p>
