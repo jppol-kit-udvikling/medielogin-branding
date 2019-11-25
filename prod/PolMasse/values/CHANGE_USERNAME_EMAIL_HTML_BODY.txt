@@ -20,7 +20,7 @@
 <table style="width: 580px; margin: 10px auto; margin-top: 20px;" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
-<td class="date" style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-style: normal; margin: 0px;" align="left">K&aelig;re $[FirstName:kunde] $[LastName:]</td>
+<td class="date" style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-style: normal; margin: 0px;" align="left">Kære $[FirstName:kunde] $[LastName:]</td>
 </tr>
 </tbody>
 </table>
@@ -36,15 +36,15 @@
 <tbody>
 <tr>
 <td>
-<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Du har &oslash;nsket at &aelig;ndre den e-mail-adresse, du tidligere har tilf&oslash;jet til dit Medielogin til politiken.dk. For at bekr&aelig;fte &aelig;ndringen skal du klikke her:</p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Du har ønsket at ændre den e-mail-adresse, du tidligere har tilføjet til dit Medielogin til politiken.dk. For at bekræfte ændringen skal du klikke her:</p>
 </td>
 </tr>
 <tr>
-<td align="center" height="30px"><a style="color: #fff; font-family: 'Georgia',Arial,Helvetica,sans-serif; font-size: 18px; line-height: 40px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; outline: none; cursor: pointer; font-weight: normal; white-space: nowrap; text-decoration: none; display: block; background-color: #c00; width: 200px; margin: 0 auto;" href="http://politiken.dk/bruger/profil/afslut_ny_email?ssolink=$[CHANGE_EMAIL_LINK]"><span style="margin: 0 auto;">&nbsp; &nbsp; Skift e-mail &nbsp; &nbsp;</span></a></td>
+<td align="center" height="30px"><a style="color: #fff; font-family: 'Georgia',Arial,Helvetica,sans-serif; font-size: 18px; line-height: 40px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; outline: none; cursor: pointer; font-weight: normal; white-space: nowrap; text-decoration: none; display: block; background-color: #c00; width: 200px; margin: 0 auto;" href="http://politiken.dk/bruger/profil/afslut_ny_email?ssolink=$[CHANGE_EMAIL_LINK]"><span style="margin: 0 auto;">    Skift e-mail    </span></a></td>
 </tr>
 <tr>
 <td>
-<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;"><br /><br />N&aring;r du har bekr&aelig;ftet den nye e-mail-adresse, g&aelig;lder den fremover p&aring; alle JP/Politikens hjemmesider.</p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;"><br /><br />Når du har bekræftet den nye e-mail-adresse, gælder den fremover på alle JP/Politikens hjemmesider.</p>
 </td>
 </tr>
 <tr>
@@ -66,13 +66,13 @@
 <tbody>
 <tr>
 <td style="width: 33.3%; padding-top: 10px;" align="left" valign="bottom">
-<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; line-height: 1.3; margin-top: 0;"><a style="color: #cc0000; text-decoration: none;" href="http://kundecenter.politiken.dk/kontakt-os/" target="_blank"> <span style="color: #cc0000;">Kontakt Kundecenter</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://kundecenter.politiken.dk/info/vilkaar/" target="_blank"> <span style="color: #cc0000;">Abonnementsvilk&aring;r</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://politiken.dk/bruger/opret/" target="_blank"> <span style="color: #cc0000;">Opret Medielogin</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://politiken.dk/" target="_blank"> <span style="color: #cc0000;">Politiken.dk</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://nyhedsbreve.politiken.dk/" target="_blank"> <span style="color: #cc0000;">Tilmeld nyhedsbreve</span> </a></p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; line-height: 1.3; margin-top: 0;"><a style="color: #cc0000; text-decoration: none;" href="https://politiken.dk/kundecenter/" target="_blank"> <span style="color: #cc0000;">Kontakt Kundecenter</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="https://politiken.dk/kundecenter/abonnementsvilkaar/" target="_blank"> <span style="color: #cc0000;">Abonnementsvilkår</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="https://medielogin.dk/politiken/Create" target="_blank"> <span style="color: #cc0000;">Opret Medielogin</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://politiken.dk/" target="_blank"> <span style="color: #cc0000;">Politiken.dk</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="https://politiken.dk/nyhedsbreve" target="_blank"> <span style="color: #cc0000;">Tilmeld nyhedsbreve</span> </a></p>
 </td>
 <td style="width: 33.3%;" align="left" valign="bottom">
-<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;"><span style="text-transform: uppercase;">Politiken</span><br /> R&aring;dhuspladsen 37<br /> 1785 K&oslash;benhavn V<br /> Tlf. 33 11 85 11<br /> CVR.nr. 26933676</p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;"><span style="text-transform: uppercase;">Politiken</span><br /> Rådhuspladsen 37<br /> 1785 København V<br /> Tlf. 33 11 85 11<br /> CVR.nr. 26933676</p>
 </td>
 <td style="width: 33.3%;" align="left" valign="bottom">
-<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">F&oslash;lg med p&aring; de<br />sociale medier:<br /> <a style="color: #cc0000; text-decoration: none;" href="https://twitter.com/politiken" target="_blank"> <span style="color: #cc0000;">Twitter: @Politiken</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://facebook.com/politiken" target="_blank"> <span style="color: #cc0000;">http://facebook.com/politiken</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://instagram.com/politiken" target="_blank"> <span style="color: #cc0000;">http://instagram.com/politiken</span> </a></p>
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Følg med på de<br />sociale medier:<br /> <a style="color: #cc0000; text-decoration: none;" href="https://twitter.com/politiken" target="_blank"> <span style="color: #cc0000;">Twitter: @Politiken</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://facebook.com/politiken" target="_blank"> <span style="color: #cc0000;">http://facebook.com/politiken</span> </a><br /> <a style="color: #cc0000; text-decoration: none;" href="http://instagram.com/politiken" target="_blank"> <span style="color: #cc0000;">http://instagram.com/politiken</span> </a></p>
 </td>
 </tr>
 </tbody>

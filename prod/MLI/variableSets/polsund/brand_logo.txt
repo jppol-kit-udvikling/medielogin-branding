@@ -1,1 +1,1 @@
-@[medielogin_host]/upload/politiken-sundhed_logo.png
+https://medielogin.dk/upload/sundhed_medielogin.png
