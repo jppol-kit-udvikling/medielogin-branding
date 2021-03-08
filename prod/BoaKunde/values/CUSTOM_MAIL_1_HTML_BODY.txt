@@ -37,7 +37,7 @@
 <tr>
 <td>
 <p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Da du allerede har et Medielogin, har vi som en service automatisk tilføjet dit abonnementsnummer til dit eksisterende Medielogin.</p>
-<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Hvis du har problemer kan du få hjælp på borneavisen.dk eller ringe til os på tlf.: 7015 9515, hverdage kl. 07:00-16:00.</p><br />
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Hvis du har problemer kan du få hjælp på borneavisen.dk eller ringe til os på tlf.: 7015 9515, hverdage kl. 08:00-16:00.</p><br />
 </td>
 </tr>
 <tr>

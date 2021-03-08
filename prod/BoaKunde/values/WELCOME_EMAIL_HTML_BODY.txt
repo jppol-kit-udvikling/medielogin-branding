@@ -56,7 +56,7 @@
 <tr>
 <td>
 <p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;"><br /><br /><span style="font-weight: bold;">Sådan logger du ind</span><br />Når dit Medielogin er aktiveret, kommer du i gang ved at klikke på ’LOG IND’ i øverste højre hjørne på <a style="text-decoration: none;" href="https://borneavisen.dk/" target="_blank"><span style="color: @[logo_color];">Børneavisen.dk</span></a>. Skriv din e-mail-adresse og din adgangskode.  <br />Tip: Markér feltet ’Husk mig’. Så er du automatisk logget ind, når du fremover går ind på <a style="text-decoration: none;" href="https://borneavisen.dk/" target="_blank"><span style="color: @[logo_color];">Børneavisen.dk</span></a>.</p>
-<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Har du spørgsmål, eller behøver du hjælp, kan du selvfølgelig stadig kontakte kundeservice direkte på <a style="text-decoration: none;" href="https://borneavisen.dk/kontakt" target="_blank"><span style="color: @[logo_color];">Børneavisen.dk/kontakt</span></a> eller ringe på tlf. 7015 9515, alle hverdage kl. 07:00-16:00.</p><br />
+<p style="font-size: 14px; font-family: Georgia, 'Times New Roman', serif; color: #444444; font-weight: normal; line-height: 1.3; margin-top: 0;">Har du spørgsmål, eller behøver du hjælp, kan du selvfølgelig stadig kontakte kundeservice direkte på <a style="text-decoration: none;" href="https://borneavisen.dk/kontakt" target="_blank"><span style="color: @[logo_color];">Børneavisen.dk/kontakt</span></a> eller ringe på tlf. 7015 9515, alle hverdage kl. 08:00-16:00.</p><br />
 </td>
 </tr>
 <tr>
