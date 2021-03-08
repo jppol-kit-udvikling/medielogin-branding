@@ -1,1 +1,0 @@
-Der er oprettet en brugerkonto til dig hos JP:Politikens hus. Velkommen! (Nulstil password: $[RESET_PASSWORD_LINK])  Activation link: $[ACTIVATION_LINK]    Activation code: $[ACTIVATION_CODE]    Reset pwd link: $[RESET_PASSWORD_LINK]    Change email: $[CHANGE_EMAIL_LINK]

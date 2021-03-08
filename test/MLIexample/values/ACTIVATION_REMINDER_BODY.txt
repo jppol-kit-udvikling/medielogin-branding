@@ -1,5 +1,0 @@
-For en uge siden oprettede vi et Medelogin til dig. Men du mangler stadig at aktivere din konto og vælge adgangskode. Det gør du via dette link:
-
-@[medielogin_host]/login/aktiver/?ac=$[ACTIVATION_CODE]&userid=$[USERID]&@[queryaddition]
-
-Rigtig god fornøjelse!

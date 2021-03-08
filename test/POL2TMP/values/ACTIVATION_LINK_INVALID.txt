@@ -1,1 +1,0 @@
-<h1>Aktiveringslinket var ikke gyldigt.</h1>Aktiveringslinket kunne ikke læses eller er allerede blevet anvendt. Kontroller at hele linket er blevet kopieret.
