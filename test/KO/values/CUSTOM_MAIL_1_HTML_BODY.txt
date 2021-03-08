@@ -1,0 +1,34 @@
+<html>
+<head>
+<style>
+button.ml-button {align-content: center;background: #ccc;border: 0;border-radius: 5px;color: #000;cursor: pointer;display: -ms-flexbox;display: flex;font-weight: bold;line-height: 26px;-ms-flex-pack: center;justify-content: center;min-height: 40px; margin-left:30px;}
+a:hover{text-decoration: none}
+a:hover button.ml-button  {color: white; background-color: #000;}
+a{text-decoration: none}
+</style>
+</head>
+<body><p><img src="@[brand_logo]" alt="" /></p>
+Kære $[FirstName:Kunde] $[LastName:],
+
+<p>
+Tillykke med din nye brugerlicens på @[Brand]. Da du allerede har licens til et eller flere af vores øvrige medier, logger du blot på @[Brand] med dit eksisterende password.
+</p>
+ 
+<p>
+Har du spørgsmål til brugen af din licens/adgang eller andre ting vedrørende @[Brand],  så kontakt vores supportafdeling på @[supportlink] eller på telefon @[supporttelefon].
+</p>
+ <p>
+God læselyst.
+</p>
+ 
+<p>
+Med venlig hilsen
+@[Brand]
+og Medielogin
+<p>
+<i>- en del af JP/Politikens Hus </i>
+</p>
+<p><img style="max-height: 79px;" src="@[footer_image_url]" alt="" /></p>
+
+</body>
+</html>

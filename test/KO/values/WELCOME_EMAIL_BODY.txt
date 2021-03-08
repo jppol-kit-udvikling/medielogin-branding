@@ -1,0 +1,4 @@
+ikke i brug - men valideringen kræver at userid og activationCode indgår
+
+
+userid=$[USERID]&activationCode=$[ACTIVATION_CODE]

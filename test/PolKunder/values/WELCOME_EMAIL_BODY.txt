@@ -9,7 +9,7 @@ I praksis er dit Medielogin en kombination af din e-mail-adresse og en adgangsko
 Når du er logget ind med dit Medielogin, har du adgang til alt på politiken.dk - alle artikler, alt indhold, alle fordele. Og adgangen gælder både på desktop, tablet og mobil.
 
 Opret dit Medielogin
-Aktivér dit Medielogin via linket herunder. Det eneste, du skal gøre, er at tilføje din e-mail-adresse og en adgangskode. 
+Aktivér dit Medielogin via linket herunder. Det eneste, du skal gøre, er at vælge en adgangskode. 
 
 @[server]bruger/opret/angivadgangskode/?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]&showAcceptEmail=true
 

@@ -1,6 +1,6 @@
 <h1>Velkommen</h1>
 <p>
-Dit medielogin har nu fået adgang til FINANS via en erhvervsaftale
+Dit medielogin har nu fået adgang til FINANS via en erhvervsaftale 
 </p><p>
 Har du glemt din adgangskode, kan du nulstille den her: https://medielogin.dk/finans/ResetPassword
 </p><p>

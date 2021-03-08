@@ -1,0 +1,12 @@
+Kære $[Username:bruger],
+
+Tillykke med din nye brugerlicens på @[Brand]. Da du allerede har licens til et eller flere af vores øvrige medier, logger du blot på @[Brand] med dit eksisterende password.
+
+Har du spørgsmål til brugen af din licens/adgang eller andre ting vedrørende @[Brand],  så kontakt vores supportafdeling på @[supportlink] eller på telefon @[supporttelefon].
+
+God læselyst.
+
+Med venlig hilsen
+@[Brand]
+og Medielogin
+- en del af JP/Politikens Hus
