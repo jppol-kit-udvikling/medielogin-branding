@@ -1,0 +1,1 @@
+redirect=https%3A%2F%2Fskolemonitor.dk%2Fmedielogin%2Floginnow%3FforwardTo%3Dhttps%3A%2F%2Fskolemonitor.dk%2Fwebservice%2Fskoleliv_trial

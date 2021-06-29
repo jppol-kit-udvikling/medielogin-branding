@@ -24,7 +24,6 @@ Da du ikke ser ud til at benytte dit login, anbefaler vi, at du tager stilling t
 <li><a href="https://finans.dk">Finans.dk</a></li>
 <li><a href="https://skoleliv.dk">Skoleliv.dk</a></li>
 <li><a href="https://politikenbillet.dk">Politikenbillet.dk</a></li>
-<li><a href="https://medielogin.dk">Medielogin.dk</a></li>
 </ul>
 </p>
 <p>

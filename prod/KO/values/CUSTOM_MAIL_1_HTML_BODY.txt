@@ -11,7 +11,7 @@ a{text-decoration: none}
 Kære $[FirstName:Kunde] $[LastName:],
 
 <p>
-Du har nu, gennem din arbejdsgiver, fået adgang til @[Brand]. Da du allerede har login til et eller flere af vores øvrige medier, logger du blot på @[Brand] med dit eksisterende password.
+Du har nu fået adgang til @[Brand]. Da du allerede har login til et eller flere af vores øvrige medier, logger du blot på @[Brand] med dit eksisterende password.
 </p>
  
 <p>

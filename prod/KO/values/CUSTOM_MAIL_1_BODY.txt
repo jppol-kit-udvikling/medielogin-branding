@@ -1,6 +1,6 @@
 Kære $[Username:bruger],
 
-Du har nu, gennem din arbejdsgiver, fået adgang til @[Brand]. Da du allerede har login til et eller flere af vores øvrige medier, logger du blot på @[Brand] med dit eksisterende password.
+Du har nu fået adgang til @[Brand]. Da du allerede har login til et eller flere af vores øvrige medier, logger du blot på @[Brand] med dit eksisterende password.
 
 Har du spørgsmål til brugen af din adgang eller andre ting vedrørende @[Brand],  så kontakt vores kundeservice på @[supportlink] eller på telefon @[supporttelefon].
 
