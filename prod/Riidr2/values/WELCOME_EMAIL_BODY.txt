@@ -1,1 +1,0 @@
-Der er oprettet en brugerkonto til dig hos JP:Politikens hus. Du kan nulstille dit password via følgende link $[RESET_PASSWORD_LINK] Velkommen!

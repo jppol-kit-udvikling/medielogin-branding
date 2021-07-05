@@ -1,1 +1,0 @@
-/account/register.aspx?redir=@[SERVER]%2Fpremium%2Fwelcome%2F&mode=full

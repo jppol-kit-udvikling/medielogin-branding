@@ -1,7 +1,0 @@
-<p><strong>Velkommen til </strong><strong>politikenbooks.dk</strong><strong> med dit nye Medielogin</strong></p>
-<p>Du kan begynde at bruge politikenbooks.dk når du har bekræftet din e-mailadresse via dette link:</p>
-<p><a href="$[ACTIVATION_LINK]&nopwd=true&redir=@[REDIRECT]">$[ACTIVATION_LINK]&nopwd=true&redir=@[REDIRECT]</a></p>
-<p>Dit medielogin giver dig samtidig adgang til en række fordele på <a href="http://politiken.dk,">http://politiken.dk,</a> <a href="http://ekstrabladet.dk">http://ekstrabladet.dk</a> og <a href="http://jyllands-posten.dk">http://jyllands-posten.dk</a></p>
-<p>Du kan læse mere om Medielogin, der er udviklet af JP/Politikens Hus, på <a href="https://medielogin.dk">https://medielogin.dk</a></p>
-<p>Velkommen til</p>
-<p> </p>
