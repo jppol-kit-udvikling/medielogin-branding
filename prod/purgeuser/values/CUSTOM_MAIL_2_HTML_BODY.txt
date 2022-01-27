@@ -1,0 +1,40 @@
+<html>
+<head>
+<style>
+button.ml-button {align-content: center;background: #ccc;border: 0;border-radius: 5px;color: #000;cursor: pointer;display: -ms-flexbox;display: flex;font-weight: bold;line-height: 26px;-ms-flex-pack: center;justify-content: center;min-height: 40px; margin-left:30px;}
+a:hover{text-decoration: none}
+a:hover button.ml-button  {color: white; background-color: #000;}
+a{text-decoration: none}
+</style>
+</head>
+<body>
+<p><img src="@[brand_logo]" alt="" /></p>
+<h2>Kære $[FirstName:bruger]</h2>
+<p>
+Du har tidligere oprettet et Medielogin via Politiken.dk, ekstrabladet.dk, Jyllands-Posten.dk, Finans.dk, Skoleliv.dk eller Politikenbillet.dk.
+</p>
+<p>
+Da du ikke ser ud til at benytte dit login, anbefaler vi, at du tager stilling til, om du ønsker at beholde din adgang. Du kan aktivere eller slette din registrering ved at logge ind på <a href="https://medielogin.dk">Medielogin.dk</a> eller på det medie, hvor du i sin tid oprettede dig:
+</p>
+<p>
+<ul>
+<li><a href="https://politiken.dk">Politiken.dk</a></li>
+<li><a href="https://ekstrabladet.dk">Ekstrabladet.dk</a></li>
+<li><a href="https://jyllands-posten.dk">Jyllands-Posten.dk</a></li>
+<li><a href="https://finans.dk">Finans.dk</a></li>
+<li><a href="https://skoleliv.dk">Skoleliv.dk</a></li>
+<li><a href="https://politikenbillet.dk">Politikenbillet.dk</a></li>
+</ul>
+</p>
+<p>
+Medielogin skaber en nemmere og mere overskuelig tilgang til JP/Politikens Hus’ digitale tilbud, fordi du kan bruge dit login på tværs, og du skal derfor huske færre brugernavne og adgangskoder. Læs mere om Medielogin <a href="https://medielogin.dk/om-medielogin">her</a>.
+</p>
+<p>
+Ønsker du ikke længere at benytte dit Medielogin, kan du <a href="https://medielogin.dk/slet-medielogin">slette det her</a>.
+</p>
+<p></p>
+<p>Med venlig hilsen</p>
+<p>JP/Politikens Hus</p>
+<p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>
+</body>
+</html>
