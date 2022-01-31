@@ -1,0 +1,10 @@
+Velkommen til Medielogin
+
+Du er allerede bruger af Medielogin. Enten fordi du har haft et abonnement på en af vores aviser, eller fordi du har været med i Nyhedsugen før og derfor allerede er oprettet med din e-mail adresse. 
+
+Det betyder, at du kan gå direkte til @[medielogin_url] og logge ind med din e-mail adresse og kode. Kan du ikke huske din kode, kan du klikke på ’Glemt adgangskode’ på siden. 
+
+Når du er logget ind, skal du tilknytte dine elever. Du kan klikke her og læse, hvordan du gør: http://ekstrabladet.dk/incoming/article5749761.ece/MEDIA_BINARY/medielogin_guide_2015.pdf
+
+Venlig hilsen 
+Medielogin

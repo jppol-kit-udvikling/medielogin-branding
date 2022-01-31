@@ -1,0 +1,1 @@
+Der er oprettet en brugerkonto til dig hos JP:Politikens hus. Velkommen! (Nulstil password: $[ACTIVATION_CODE]
