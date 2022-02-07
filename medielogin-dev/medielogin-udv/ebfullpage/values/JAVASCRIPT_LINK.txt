@@ -1,0 +1,1 @@
+/brandings/ebfullpage/js/main.js

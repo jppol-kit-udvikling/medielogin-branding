@@ -1,0 +1,20 @@
+        Kære $[FirstName:bruger]
+        
+        Kultur, debat og baggrund. Politiken er meget mere end nyheder.
+Lige nu har du fri adgang til alle artikler på Politiken.dk. For at aktivere din profil, skal du klikke på dette link
+        
+        @[server]bruger/opret/aktivere/?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]
+        
+        
+        Husk at vælge en adgangskode. Adgangskoden skal være på mindst seks tegn og indeholde både tal og bogstaver.
+        
+        Hvis du oplever problemer i relation til politiken.dk, kan du skrive til os via http://politiken.dk/kundecenter eller ringe på 70 15 01 01
+
+        Venlig hilsen 
+        Bo lidegaard
+        Ansvarshavende chefredaktør
+        
+        På Politiken benytter vi det fælles Medielogin, som også bruges på andre hjemmesider med tilknytning til JP/Politikens hus. Læs mere om Medielogin på http://medielogin.dk
+        
+       
+      

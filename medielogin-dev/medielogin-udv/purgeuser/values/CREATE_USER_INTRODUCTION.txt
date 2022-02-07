@@ -1,0 +1,4 @@
+
+        <p>Opret et Politiken Login herunder. For at handle til Pluspris og få Plus-fordele skal du være Plus-kunde og registrere dit abonnement. Læs mere om vilkår for <a href=" http://plus.politiken.dk/Politiken_Login(20078).aspx " onfocus="this.blur()" class="menu" target="_blank"><b>Politiken Login</b></a><br><p>
+        Adgangskode skal være på min. 6 karakterer (både tal og bogstaver) </p>
+      
