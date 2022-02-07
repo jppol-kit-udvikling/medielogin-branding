@@ -1,3 +1,0 @@
-Du har bedt om at skifte brugernavn til din brugerkonto hos JyllandsPosten, Ekstra Bladet og Politiken. 
-Fortsæt her:
-"$[CHANGE_EMAIL_LINK]"
