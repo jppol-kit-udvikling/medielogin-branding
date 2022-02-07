@@ -1,1 +1,1 @@
-http://ekstrabladet.dk.iris137.eb-dev.jppol.net/medielogin/createUser
+@[medielogin_url]/login/opret

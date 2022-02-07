@@ -1,1 +1,1 @@
-Fejl i e-mail eller kodeord. Prøv igen.
+Fejl i brugernavn eller adgangskode. Prøv igen.

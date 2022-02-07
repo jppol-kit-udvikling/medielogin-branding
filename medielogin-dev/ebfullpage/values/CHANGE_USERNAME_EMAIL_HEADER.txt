@@ -1,1 +1,1 @@
-Skift e-mail til dit Medielogin som kan bruges på ekstrabladet.dk
+Skift brugernavn hos JP:Politikens Hus Single Sign On

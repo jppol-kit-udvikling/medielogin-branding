@@ -1,10 +1,6 @@
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/brandings/ebfullpage/css/stylesheet.css" rel="stylesheet" type="text/css">
-<!--[if lte IE 9]>
-    <link rel="stylesheet" href="/brandings/ebfullpage/css/lteie9.css">
-<![endif]-->
-<!--[if lte IE 8]>
-    <link rel="stylesheet" href="/brandings/ebfullpage/css/lteie8.css">
-<![endif]-->
+
+        <!-- Additional content from branding -->
+        <!--[if lt IE 9]>
+        <script src="/scripts/html5.js"></script>
+        <![endif]-->
+      
