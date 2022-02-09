@@ -1,1 +1,1 @@
-CUSTOM_MAIL_2_SUBJECT
+This is a test mail from Medielogin
