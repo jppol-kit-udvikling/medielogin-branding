@@ -1,0 +1,6 @@
+
+        <a href="Account/RequestUsernameChange.aspx">
+        Ret s[ den emailadresse</a>
+        <a href="Account/EditUser.aspx">
+        Brugeroplysninger</a>
+      

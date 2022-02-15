@@ -1,0 +1,9 @@
+<p><img style="width: 300px; height: auto; padding: 20px;" src="https://polid.jppol.dk/brandings/ditpol/logo__politiken.png" alt="" /><br /><br /></p>
+<div style="background-color: #fff; padding: 20px; font-family: Georgia; font-size: 18px;">
+<p>Kære $[FirstName:bruger]</p>
+<p>Kultur, debat og baggrund. Politiken er meget mere end nyheder.</p>
+<p>Lige nu har du fri adgang til alle artikler på Politiken.dk. <a href="@[server]bruger/opret/aktivere/?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]">Aktiver din profil her</a> og få mest muligt ud af vores nye digitale univers.</p>
+<p>Husk at vælge en adgangskode. Adgangskoden skal være på mindst seks tegn og indeholde både tal og bogstaver.</p>
+<p>Hvis du har spørgsmål, kan du skrive til os via <a href="http://politiken.dk/kundecenter">politiken.dk/kundecenter</a> eller ringe på 70 15 01 01</p>
+<p>Venlig hilsen<br /> Bo Lidegaard<br />Ansvarshavende chefredaktør</p>
+På Politiken benytter vi det fælles Medielogin, som også bruges på andre hjemmesider med tilknytning til JP/Politikens hus. Læs mere om <a href="http://medielogin.dk">Medielogin</a></div>

@@ -1,0 +1,5 @@
+For at kunne justere dine adgange korrekt vil vi gerne bede dig om at bekræfte din mailadresse i medielogin. 
+
+Det gør du ved at besøge dette link: @[medielogin_url]/bekraeft-email/verify?userid=$[USERID]&activationCode=$[ActivationCode:]
+
+Tak for hjælpen.
