@@ -1,1 +1,1 @@
-Din konto er ikke blevet aktiveret inden for det tilladte tidsrum.
+Din konto er ikke blevet aktiveret inden for det tilladte tidsrum. Kig i din spamfolder eller vælg nulstil password. 
