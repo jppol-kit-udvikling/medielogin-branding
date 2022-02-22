@@ -1,0 +1,1 @@
+Permission verification page uses this to send verification emails.
