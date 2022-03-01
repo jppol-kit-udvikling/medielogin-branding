@@ -1,1 +1,1 @@
-Du har tastet et forkert password mere end 5 gange i træk og kontoen er derfor deaktiveret. Benyt 'Glemt password' for at få adgang til kontoen.
+Du har tastet en forkert adgangskode mere end 5 gange i træk og kontoen er derfor deaktiveret. Benyt 'Glemt adgangskode' for at få adgang til kontoen. Eller slet den og start fordra.

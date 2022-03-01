@@ -1,1 +1,1 @@
-~/styles/Default.css
+$[brandingPath]/medielogin.css?1

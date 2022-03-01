@@ -1,1 +1,1 @@
-Automatically created branding with default values.
+branding named 'Default'

@@ -1,1 +1,15 @@
-Der er oprettet en brugerkonto til dig hos JP:Politikens hus. Velkommen! (Nulstil password: $[ACTIVATION_CODE]
+
+        Velkommen til medielogin
+        Vi er glade for at du har oprettet et medielogin. Via medielogin får du det samme login hos Politiken, Jyllands-Posten og Ekstra Bladet jf. den PDF, du har modtaget fra dit tilmeldte dagblad vedrørende login til de forskellige applikationer i Nyhedsugen.
+        Før du kan tage kontoen i brug skal du vælge et password. 
+        Du vælger password via dette link: @[medielogin_url]/login/aktiver/?ac=$[ACTIVATION_CODE]&userid=$[USERID]
+        
+        Du kan altid gå ind på @[medielogin_url] for at rette din email-adresse og se, 
+        hvilke adgange du har. 
+        
+        Mange hilsner 
+        
+        Medielogin
+        
+        JP/Politikens Hus
+      
