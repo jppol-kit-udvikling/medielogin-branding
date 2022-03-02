@@ -1,0 +1,21 @@
+<html>
+<body>
+<p><b>
+Kære $[Username:bruger]
+</b></p>
+<p>
+
+Du har bedt om at se de kontaktindstillinger der er gemt om din mailadresse hos JP/Politikens Hus
+</p>
+
+<p>
+Du kan se og rette dine kontaktindstillinger via dette link: <a href="@[medielogin_host]/mit/kontaktindstillinger/edit?email=Fn[encodeUriComponent][$[Username:]]&verification=$[permissionVerificationCode:]">@[medielogin_host]/mit/kontaktindstillinger/edit?email=Fn[encodeUriComponent][$[Username:]]&verification=$[permissionVerificationCode:]</a>
+</p>
+<p>
+Venlig hilsen
+</p>
+<p>
+JP/Politikens Hus
+</p>
+</body>
+</html>
