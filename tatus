@@ -1,0 +1,186 @@
+[1mdiff --git a/medielogin-test/MLI/values/ACTIVATION_REMINDER_HTML_BODY.txt b/medielogin-test/MLI/values/ACTIVATION_REMINDER_HTML_BODY.txt[m
+[1mindex 9e1bf48..16cd7cc 100644[m
+[1m--- a/medielogin-test/MLI/values/ACTIVATION_REMINDER_HTML_BODY.txt[m
+[1m+++ b/medielogin-test/MLI/values/ACTIVATION_REMINDER_HTML_BODY.txt[m
+[36m@@ -9,7 +9,7 @@[m [ma{text-decoration: none}[m
+ </head>[m
+ <body>[m
+ [m
+[31m-<p><img src="@[brand_logo]" alt="" /></p>[m
+[32m+[m[32m<p><img src="@[brand_logo]" alt="" style="max-width:680px; max-height: 120px" /></p>[m
+ <h1>Kære $[FirstName:bruger]</h1>[m
+ <p>Du har nu oprettet et Medielogin, men du mangler at aktivere dit Medielogin.</p>[m
+ <p>Aktiver dit Medielogin her: <strong><a href="@[medielogin_host]/@[branding_path]/activate?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]">@[medielogin_host]/@[branding_path]/activate?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]</a></strong></p>[m
+[36m@@ -20,4 +20,4 @@[m [ma{text-decoration: none}[m
+ <p>-en del af JP/Politikens Hus</p>[m
+ <p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>[m
+ </body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[32m+[m[32m</html>[m
+[1mdiff --git a/medielogin-test/MLI/values/CHANGE_USERNAME_EMAIL_HTML_BODY.txt b/medielogin-test/MLI/values/CHANGE_USERNAME_EMAIL_HTML_BODY.txt[m
+[1mindex c126e41..0af51eb 100644[m
+[1m--- a/medielogin-test/MLI/values/CHANGE_USERNAME_EMAIL_HTML_BODY.txt[m
+[1m+++ b/medielogin-test/MLI/values/CHANGE_USERNAME_EMAIL_HTML_BODY.txt[m
+[36m@@ -8,7 +8,7 @@[m [ma{text-decoration: none}[m
+ </style>[m
+ </head>[m
+ <body>[m
+[31m-<p><img src="@[brand_logo]" alt="" /></p>[m
+[32m+[m[32m<p><img src="@[brand_logo]" alt="" style="max-width:680px; max-height: 120px" /></p>[m
+ <p class="MsoNormal">Du har bedt om at skifte din e-mailadresse tilknyttet dit Medielogin. Klik på linket nedenfor for at bekræfte.</p>[m
+ <p>Skift e-mailadresse her: <strong><a href="$[CHANGE_EMAIL_LINK]">$[CHANGE_EMAIL_LINK]</a></strong></p>[m
+ <p></p>[m
+[36m@@ -20,4 +20,4 @@[m [ma{text-decoration: none}[m
+ <p>- en del af JP/Politikens Hus</p>[m
+ <p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>[m
+ </body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[32m+[m[32m</html>[m
+[1mdiff --git a/medielogin-test/MLI/values/CUSTOM_MAIL_1_HTML_BODY.txt b/medielogin-test/MLI/values/CUSTOM_MAIL_1_HTML_BODY.txt[m
+[1mindex e34b4e7..2ee9906 100644[m
+[1m--- a/medielogin-test/MLI/values/CUSTOM_MAIL_1_HTML_BODY.txt[m
+[1m+++ b/medielogin-test/MLI/values/CUSTOM_MAIL_1_HTML_BODY.txt[m
+[36m@@ -7,9 +7,9 @@[m [ma:hover button.ml-button  {color: white; background-color: #000;}[m
+ a{text-decoration: none}[m
+ </style>[m
+ </head>[m
+[31m-<body><p><img src="@[brand_logo]" alt="" /></p>[m
+[32m+[m[32m<body><p><img src="@[brand_logo]" alt="" style="max-width:680px; max-height: 120px" /></p>[m
+ @[CUSTOM_MAIL_1_CONTENT][m
+ <p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>[m
+ [m
+ </body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[32m+[m[32m</html>[m
+[1mdiff --git a/medielogin-test/MLI/values/CUSTOM_MAIL_2_HTML_BODY.txt b/medielogin-test/MLI/values/CUSTOM_MAIL_2_HTML_BODY.txt[m
+[1mindex e559e1f..2f58d6b 100644[m
+[1m--- a/medielogin-test/MLI/values/CUSTOM_MAIL_2_HTML_BODY.txt[m
+[1m+++ b/medielogin-test/MLI/values/CUSTOM_MAIL_2_HTML_BODY.txt[m
+[36m@@ -8,7 +8,7 @@[m [ma{text-decoration: none}[m
+ </style>[m
+ </head>[m
+ <body>[m
+[31m-<p><img src="@[brand_logo]" alt="" /></p>[m
+[32m+[m[32m<p><img src="@[brand_logo]" alt="" style="max-width:680px; max-height: 120px" /></p>[m
+ <h4>Kære $[Username:bruger]</h4>[m
+ <p>Du har bedt om at se de kontaktindstillinger der er gemt om din mailadresse hos JP/Politikens Hus</p>[m
+ <p>Du kan se og rette dine kontaktindstillinger via dette link: <strong><a href="@[medielogin_host]/mit/kontaktindstillinger/edit?email=Fn[encodeUriComponent][$[Username:]]&verification=$[permissionVerificationCode:]">@[medielogin_host]/mit/kontaktindstillinger/edit?email=Fn[encodeUriComponent][$[Username:]]&verification=$[permissionVerificationCode:]</a></strong></p>[m
+[36m@@ -16,4 +16,4 @@[m [ma{text-decoration: none}[m
+ <p>JP/Politikens Hus</p>[m
+ <p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>[m
+ </body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[32m+[m[32m</html>[m
+[1mdiff --git a/medielogin-test/MLI/values/FORGOT_PASSWORD_EMAIL_HTML_BODY.txt b/medielogin-test/MLI/values/FORGOT_PASSWORD_EMAIL_HTML_BODY.txt[m
+[1mindex c274e43..a58f7c0 100644[m
+[1m--- a/medielogin-test/MLI/values/FORGOT_PASSWORD_EMAIL_HTML_BODY.txt[m
+[1m+++ b/medielogin-test/MLI/values/FORGOT_PASSWORD_EMAIL_HTML_BODY.txt[m
+[36m@@ -8,7 +8,7 @@[m [ma{text-decoration: none}[m
+ </style>[m
+ </head>[m
+ <body>[m
+[31m-<p><img src="@[brand_logo]" alt="" /></p>[m
+[32m+[m[32m<p><img src="@[brand_logo]" alt="" style="max-width:680px; max-height: 120px" /></p>[m
+ <h1>Kære $[FirstName:bruger]</h1>[m
+ <p>Du har bedt om en ny adgangskode til dit Medielogin.</p>[m
+ <p>Skift adgangskode her: <strong><a href="@[medielogin_host]/@[branding_path]/setpassword?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]">[m
+[36m@@ -19,4 +19,4 @@[m [ma{text-decoration: none}[m
+ <p>@[greetings]</p>[m
+ <p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>[m
+ </body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[32m+[m[32m</html>[m
+[1mdiff --git a/medielogin-test/MLI/values/WELCOME_EMAIL_HTML_BODY.txt b/medielogin-test/MLI/values/WELCOME_EMAIL_HTML_BODY.txt[m
+[1mindex d629c70..67f71bd 100644[m
+[1m--- a/medielogin-test/MLI/values/WELCOME_EMAIL_HTML_BODY.txt[m
+[1m+++ b/medielogin-test/MLI/values/WELCOME_EMAIL_HTML_BODY.txt[m
+[36m@@ -8,7 +8,7 @@[m [ma{text-decoration: none}[m
+ </style>[m
+ </head>[m
+ <body>[m
+[31m-<p><img src="@[brand_logo]" alt="" /></p>[m
+[32m+[m[32m<p><img src="@[brand_logo]" alt="" style="max-width: 680px; max-height: 120px" /></p>[m
+ <h1>Kære $[FirstName:bruger]</h1>[m
+ <p>Du har nu oprettet et Medielogin, men du mangler at aktivere dit Medielogin.</p>[m
+ <p>Aktiver dit Medielogin her: <strong><a href="@[medielogin_host]/@[branding_path]/@[activateStem]?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]">@[medielogin_host]/@[branding_path]/@[activateStem]?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]</a></strong></p>[m
+[36m@@ -19,4 +19,4 @@[m [ma{text-decoration: none}[m
+ <p>- en del af JP/Politikens Hus</p>[m
+ <p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>[m
+ </body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[32m+[m[32m</html>[m
+[1mdiff --git a/medielogin-test/MLI/variableSets/laes/CUSTOM_MAIL_1_CONTENT.txt b/medielogin-test/MLI/variableSets/laes/CUSTOM_MAIL_1_CONTENT.txt[m
+[1mindex ff8f82f..244cfe4 100644[m
+[1m--- a/medielogin-test/MLI/variableSets/laes/CUSTOM_MAIL_1_CONTENT.txt[m
+[1m+++ b/medielogin-test/MLI/variableSets/laes/CUSTOM_MAIL_1_CONTENT.txt[m
+[36m@@ -2,4 +2,4 @@[m
+ [m
+ <p>Dette er en generisk besked.</p>[m
+ <p>[m
+[31m-</p>[m
+[32m+[m[32m</p>[m
+\ No newline at end of file[m
+[1mdiff --git a/medielogin-test/MLI/variableSets/laes/brand_logo.txt b/medielogin-test/MLI/variableSets/laes/brand_logo.txt[m
+[1mindex d45740d..d587127 100644[m
+[1m--- a/medielogin-test/MLI/variableSets/laes/brand_logo.txt[m
+[1m+++ b/medielogin-test/MLI/variableSets/laes/brand_logo.txt[m
+[36m@@ -1 +1 @@[m
+[31m-https://medielogin.dk/upload/forlag/laeseklub-danmark-logo.svg[m
+[32m+[m[32mhttps://medielogin.dk/upload/forlag/laeseklub-danmark-logo.png[m
+\ No newline at end of file[m
+[1mdiff --git a/medielogin-test/MLI/variableSets/laes/brand_name.txt b/medielogin-test/MLI/variableSets/laes/brand_name.txt[m
+[1mindex 008dc45..86e4439 100644[m
+[1m--- a/medielogin-test/MLI/variableSets/laes/brand_name.txt[m
+[1m+++ b/medielogin-test/MLI/variableSets/laes/brand_name.txt[m
+[36m@@ -1 +1 @@[m
+[31m-Læseklub Danmark[m
+[32m+[m[32mLæseklub Danmark[m
+\ No newline at end of file[m
+[1mdiff --git a/medielogin-test/MLI/variableSets/laes/branding_path.txt b/medielogin-test/MLI/variableSets/laes/branding_path.txt[m
+[1mindex 9c236c4..4c0cc46 100644[m
+[1m--- a/medielogin-test/MLI/variableSets/laes/branding_path.txt[m
+[1m+++ b/medielogin-test/MLI/variableSets/laes/branding_path.txt[m
+[36m@@ -1 +1 @@[m
+[31m-laeseklub-danmark[m
+[32m+[m[32mlaeseklub-danmark[m
+\ No newline at end of file[m
+[1mdiff --git a/medielogin-test/MLI/variableSets/laes/greetings.txt b/medielogin-test/MLI/variableSets/laes/greetings.txt[m
+[1mindex 1cb15b4..5790a42 100644[m
+[1m--- a/medielogin-test/MLI/variableSets/laes/greetings.txt[m
+[1m+++ b/medielogin-test/MLI/variableSets/laes/greetings.txt[m
+[36m@@ -1 +1 @@[m
+[31m-Læseklub Danmark og Medielogin[m
+[32m+[m[32mLæseklub Danmark og Medielogin[m
+\ No newline at end of file[m
+[1mdiff --git a/medielogin-test/MLI/variableSets/laes/medielogin_host.txt b/medielogin-test/MLI/variableSets/laes/medielogin_host.txt[m
+[1mindex f18c60f..90ae026 100644[m
+[1m--- a/medielogin-test/MLI/variableSets/laes/medielogin_host.txt[m
+[1m+++ b/medielogin-test/MLI/variableSets/laes/medielogin_host.txt[m
+[36m@@ -1 +1 @@[m
+[31m-https://test.medielogin.dk[m
+\ No newline at end of file[m
+[32m+[m[32mhttps://medielogin.dk[m
+\ No newline at end of file[m
+[1mdiff --git a/medielogin-test/MLI/variableSets/laes/queryaddition.txt b/medielogin-test/MLI/variableSets/laes/queryaddition.txt[m
+[1mindex 73003d3..928921d 100644[m
+[1m--- a/medielogin-test/MLI/variableSets/laes/queryaddition.txt[m
+[1m+++ b/medielogin-test/MLI/variableSets/laes/queryaddition.txt[m
+[36m@@ -1 +1 @@[m
+[31m-redirect=https%3A%2F%2Fpolitiken.dk%2Fmedielogin%2Floginnow%3FforwardTo%3Dhttps%3A%2F%2Fpolitiken.dk%2Fpolbruger%2Fvelkommen%2F[m
+\ No newline at end of file[m
+[32m+[m[32mredirect=https%3A//laeseklubdanmark.kodepine.dk/%3Foption%3Doauthredirect%26app_name%3DMedielogin+Setup%26redirect_url%3Dhttps%3A//laeseklubdanmark.kodepine.dk/[m
+\ No newline at end of file[m
+[1mdiff --git a/medielogin-test/MLI/variableSets/laes/welcome_brand_specific.txt b/medielogin-test/MLI/variableSets/laes/welcome_brand_specific.txt[m
+[1mindex ed97d53..73b314f 100644[m
+[1m--- a/medielogin-test/MLI/variableSets/laes/welcome_brand_specific.txt[m
+[1m+++ b/medielogin-test/MLI/variableSets/laes/welcome_brand_specific.txt[m
+[36m@@ -1 +1 @@[m
+[31m----[m
+[32m+[m[32m---[m
+\ No newline at end of file[m

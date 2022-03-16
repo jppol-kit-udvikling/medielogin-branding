@@ -7,7 +7,7 @@ a:hover button.ml-button  {color: white; background-color: #000;}
 a{text-decoration: none}
 </style>
 </head>
-<body><p><img src="@[brand_logo]" alt="" /></p>
+<body><p><img src="@[brand_logo]" alt="" style="max-width:680px; max-height: 120px" /></p>
 @[CUSTOM_MAIL_1_CONTENT]
 <p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>
 
