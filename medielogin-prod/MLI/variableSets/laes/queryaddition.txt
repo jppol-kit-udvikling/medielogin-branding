@@ -1,1 +1,1 @@
-redirect=https%3A//laeseklubdanmark.dk/%3Foption%3Doauthredirect%26app_name%3DMedielogin+Setup%26redirect_url%3Dhttps%3A//laeseklubdanmark.kodepine.dk/
+redirect=https%3A//laeseklubdanmark.dk/%3Foption%3Doauthredirect%26app_name%3DMedielogin+Setup%26redirect_url%3Dhttps%3A//laeseklubdanmark.dk/
