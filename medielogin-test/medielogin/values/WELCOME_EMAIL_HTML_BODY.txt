@@ -12,7 +12,7 @@
 <h1>Velkommen til Medielogin</h1>
 <p>Medielogin* er dit login til en r&aelig;kke danske medier og deres samarbejdspartnere. Med Medielogin har du et login du kan bruge p&aring; tv&aelig;rs, og du skal derfor huske f&aelig;rre brugernavne og adgangskoder.</p>
 <p><br />I praksis betyder det, at du kan logge ind med den samme bruger p&aring; bl.a. Politiken.dk, Jyllands-Posten.dk og Ekstrabladet.dk.</p>
-<p><br />F&oslash;r du kan tage din konto i brug, skal du v&aelig;lge en adgangskode. Du v&aelig;lger adgangskode&nbsp;<a href="@[medielogin_url]/login/aktiver/?ac=$[ACTIVATION_CODE]&amp;userid=$[USERID]">via dette link.</a></p>
+<p><br />F&oslash;r du kan tage din konto i brug, skal du v&aelig;lge en adgangskode. Du v&aelig;lger adgangskode&nbsp;<a href="@[medielogin_url]/mli/activate/?activationCode=$[ACTIVATION_CODE]&amp;userid=$[USERID]">via dette link.</a></p>
 <p><br />Hvis du har f&aring;et tildelt s&aelig;rlig adgang til et af JP/Politikens Hus&rsquo; digitale abonnementer, vil du kunne se din adgang p&aring;&nbsp;<a href="@[medielogin_url]">@[medielogin_url]</a>&nbsp;n&aring;r du er logget ind.</p>
 <p><br />Venlig hilsen&nbsp;</p>
 <p>Medielogin</p>
