@@ -1,1 +1,0 @@
-<h2>Ret brugeroplysninger</h2><div style="clear:left;">Her kan du rette dine brugeroplysninger.</div>
