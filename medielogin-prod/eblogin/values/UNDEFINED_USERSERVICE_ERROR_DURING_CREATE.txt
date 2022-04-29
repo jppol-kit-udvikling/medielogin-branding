@@ -1,1 +1,0 @@
-Der skete desværre en fejl under oprettelse af din konto. Det er muligt kontoen er blevet oprettet. I så fald vil du modtage en mail inden for kort tid. Ellers håber vi du vil forsøge at oprette kontoen nok engang. Fejlen var "{0}".
