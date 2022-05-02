@@ -1,1 +1,0 @@
-Abonnementsnummeret skal indeholde 8 eller 9 cifre. Benyt evt foranstillede nuller.
