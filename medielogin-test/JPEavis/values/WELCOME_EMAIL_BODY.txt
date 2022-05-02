@@ -1,6 +1,0 @@
-Der er oprettet en brugerkonto til dig hos JP:Politikens hus. Velkommen! (Nulstil password: $[RESET_PASSWORD_LINK])
-
-brug:
-$[ACTIVATION_LINK]&activationcode=$[ACTIVATION_CODE]&brand=Default
-
-http://nitrogen.politiken.dk/profile/Activate.action?link=$[ACTIVATION_LINK]&activationcode=$[ACTIVATION_CODE]&brand=Default

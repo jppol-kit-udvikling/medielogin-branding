@@ -1,1 +1,0 @@
-<a href="~Login.aspx">Log ind</a> <br/> <a href="~Account/ResetPassword.aspx">Glemt adgangskode</a>

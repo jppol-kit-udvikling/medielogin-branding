@@ -1,9 +1,0 @@
-<div>
-<h1>Ny adgangskode</h1>
-<hr>
-<div class="ssoTextContent">
-<p>Du har bedt om at få en ny adgangskode til din brugerkonto hos Jyllands-Posten.</p>
-<p>Indtast den tilsendte engangskode i feltet til højre og klik Videre.</p>
-</div>
-</div>
-<label>Engangskode <em>*</em></label>

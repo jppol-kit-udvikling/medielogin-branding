@@ -1,1 +1,0 @@
-http://static.ekstrabladet.dk/bannerhtml/data/abonnement/gavekort2/site.html?email=$[Username:]
