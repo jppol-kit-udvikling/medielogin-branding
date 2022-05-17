@@ -1,1 +1,1 @@
-branding for test
+branding named 'Default'
