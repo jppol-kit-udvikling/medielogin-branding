@@ -1,4 +1,0 @@
-<div class="auth-top__img"><img src="$[brandingPath]/assets/skoleliv_logo_green@2x.png"/></div>
-<p class="auth-top__link">Er du ikke oprettet p&aring; Skoleliv? <a href="https://polid.jppol.dk/Account/Register.aspx?brand=skoleliv.prod&mode=full&redir=http:%2f%2fskoleliv.dk%2fskolebruger%2foprettet">Opret dig nu</a> &rsaquo;</p>
-<p class="auth-top__subheader">Log ind med dit abonnement til Politiken Skoleliv for at f&aring; adgang til alt indhold på Skoleliv.dk.</p>
-<p><img class="medielogin__image" src="$[brandingPath]/assets/medielogin--logo.png" /></p>
