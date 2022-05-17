@@ -1,4 +1,0 @@
-<h1>Aktiveringslinket er allerede blevet anvendt eller kan ikke læses</h1>
-
-<p>Du har muligvis allerede aktiveret din brugerprofil hos Finans. <a href="http://finans.dk/finans/">Klik her</a> for at gå til Finans og log ind med dine brugeroplysninger i højre hjørne.</p>
-<p>Har du problemer med at logge ind eller med at aktivere din brugerprofil, er du meget velkommen til at kontakte os på 3330 3132.</p>
