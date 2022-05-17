@@ -1,3 +1,0 @@
-<h1 class="auth-top__header"><a href="@[server]">politiken<em>plus</em></a></h1>
-<p class="auth-top__subheader">Her kan du logge ind p&aring; Politiken Plus for at handle til Pluspris</p>
-<p class="auth-top__link">Mangler du et Medielogin? -&nbsp;<a href="../../account/register.aspx?mode=full&amp;redir=@[server]">Opret dig her</a></p>

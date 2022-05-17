@@ -1,2 +1,0 @@
-<h1 class="auth-top__header"><a href="@[server]">politiken<em>plus</em></a></h1>
-<p><a class="changeEmail" href="RequestUsernameChange.aspx"> Ret emailadresse </a> <a class="changePassword" href="ChangePassword.aspx">Skift password</a></p>
