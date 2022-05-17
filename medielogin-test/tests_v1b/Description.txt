@@ -1,1 +1,1 @@
-Used for integration tests
+branding named 'tests_v1b'
