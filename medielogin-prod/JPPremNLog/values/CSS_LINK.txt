@@ -1,1 +1,0 @@
-$[brandingPath]/jp_premium_popup.css
