@@ -1,2 +1,0 @@
-E-mail-adressen findes allerede. <br />
-Har du glemt dit kodeord? Klik her: <a href="http://mitpre.jp.dk/reset.aspx">Glemt kodeord</a>
