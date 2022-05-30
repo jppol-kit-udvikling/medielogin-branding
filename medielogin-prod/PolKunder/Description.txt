@@ -1,1 +1,1 @@
-Kundecenter Politiken default branding
+branding named 'PolKunder'
