@@ -1,3 +1,0 @@
-<h1>Aktiveringslinket er desværre ikke længere gyldigt. </h1>
-
-<a href="@[medielogin_host]/login/glemt-adgangskode" target="_top">Du kan få tilsendt et nyt aktiveringslink her.</a>
