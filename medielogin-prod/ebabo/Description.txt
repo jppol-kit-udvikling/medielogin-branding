@@ -1,1 +1,1 @@
-eb import af bordaskunder
+branding named 'ebabo'
