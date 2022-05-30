@@ -1,3 +1,0 @@
-<h1 class="auth-top__header"><a href="@[server]">politiken<em>plus</em></a></h1>
-<p class="auth-top__subheader">Skriv venligst din nye adgangskode du &oslash;nsker nedenfor. Du vil herefter automatisk blive logget ind med den nye adgangskode.</p>
-<p><img class="medielogin__image" src="$[brandingPath]/assets/medielogin--logo.png" alt="" /></p>
