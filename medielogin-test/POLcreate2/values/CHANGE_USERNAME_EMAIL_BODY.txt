@@ -1,1 +1,0 @@
-Du har bedt om at få skiftet din emailadresse på din brugerkonto hos Politiken, JyllandsPosten og Ekstra Bladet. Klik på linket for at skifte emailadresse. @[server]/mitpolitiken/retbruger/?ssoform=2&userid=$[USERID]
