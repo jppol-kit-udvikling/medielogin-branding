@@ -1,1 +1,0 @@
-$[brandingPath]/js/main.js?cache=1
