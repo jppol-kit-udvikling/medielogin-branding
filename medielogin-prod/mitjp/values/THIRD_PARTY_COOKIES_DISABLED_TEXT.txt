@@ -1,1 +1,0 @@
-Cookies skal være aktiveret for at login fungerer. Det lader til at cookies er deaktiveret i din browser.
