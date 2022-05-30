@@ -1,1 +1,1 @@
-Default JP Abonnement brand
+branding named 'jpabn'
