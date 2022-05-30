@@ -1,2 +1,0 @@
-<h1>Ret brugeroplysninger</h1>
-<p>Her kan du rette dine brugeroplysninger.</p>
