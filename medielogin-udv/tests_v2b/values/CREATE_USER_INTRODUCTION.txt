@@ -1,1 +1,0 @@
-<h2>Opret bruger</h2> <p>Opret en bruger i formularen. Passwords skal være på minimum 6 karakterer. </p>
