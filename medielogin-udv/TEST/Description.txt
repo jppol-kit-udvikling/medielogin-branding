@@ -1,1 +1,1 @@
-A test branding
+branding named 'TEST'
