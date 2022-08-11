@@ -1,1 +1,1 @@
-General branding for EkstraBladet fullpage login
+branding named 'ebfullpage'

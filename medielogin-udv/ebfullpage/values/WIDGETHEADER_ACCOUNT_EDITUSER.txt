@@ -1,6 +1,0 @@
-
-        <a href="RequestUsernameChange.aspx" class="changeEmail">
-        Ret emailadresse
-        </a>
-        <a href="ChangePassword.aspx" class="changePassword">Skift kodeord</a>
-      

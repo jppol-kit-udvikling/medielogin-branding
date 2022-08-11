@@ -1,6 +1,0 @@
-<p>
-          På Ekstra Bladet benytter vi det fælles Medielogin, som også bruges på andre hjemmesider med tilknytning til JP/Politikens Hus.
-        </p>
-        <p>
-          <a href="http://ekstrabladet.dk/services/article1905507.ece">Læs mere her</a> om Ekstra Bladets brug eller besøg <a href="http://medielogin.dk/">medielogin.dk</a>
-</p>
