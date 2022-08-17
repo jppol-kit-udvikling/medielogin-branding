@@ -9,3 +9,5 @@ http://nitrogen.politiken.dk/profile/Activate.action?link=$[ACTIVATION_LINK]&act
 
 det nye login link:
 http://nitrogen.politiken.dk/bruger/opret/angivadgangskode/?link=$[ACTIVATION_LINK]&activationcode=$[ACTIVATION_CODE]&brand=Default
+
+Klokken er slagen 9
