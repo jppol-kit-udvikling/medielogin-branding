@@ -1,11 +1,1 @@
-<p></p>
-<p>
-Vi håber, at du bliver glad for at dit abonnement. 
-</p>
-<p>
-
-Med venlig hilsen 
-</p>
-<p>
-Turistmonitor
-</p>
+<no-in-use />
