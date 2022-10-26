@@ -1,0 +1,22 @@
+<h1>Velkommen </h1>
+
+<p>
+Dit Medielogin har nu fået adgang til Politiken Miljø og Klima via en erhvervsaftale.
+</p>
+<p>
+Har du glemt din adgangskode, kan du nulstille den her: https://medielogin.dk/politiken/ResetPassword
+</p>
+<p>
+Med dit Medielogin kan du logge ind på JP/Politikens Hus’ digitale tilbud og tjenester f.eks. Politiken.dk, Jyllands-Posten.dk, Finans.dk og Ekstrabladet.dk. I praksis betyder det, at du skal huske færre brugernavne og adgangskoder. Læs mere om Medielogin her: https://medielogin.dk/faq
+</p>
+<p>
+Har du spørgsmål, er du velkommen til at kontakte os på kundeservice@monitormedier.dk eller på 70 60 53 72 (tast 2 for kundeservice).
+</p>
+<p>
+Med venlig hilsen
+</p>
+<p>
+Politiken og Medielogin
+<br />
+<em>- en del af JP/Politikens Hus</em>
+</p>
