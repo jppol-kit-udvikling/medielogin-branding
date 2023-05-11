@@ -1,1 +1,20 @@
-CUSTOM_MAIL_1_HTML_BODY
+<html>
+<head>
+<style>
+button.ml-button {align-content: center;background: #ccc;border: 0;border-radius: 5px;color: #000;cursor: pointer;display: -ms-flexbox;display: flex;font-weight: bold;line-height: 26px;-ms-flex-pack: center;justify-content: center;min-height: 40px; margin-left:30px;}
+a:hover{text-decoration: none}
+a:hover button.ml-button  {color: white; background-color: #000;}
+a{text-decoration: none}
+</style>
+</head>
+<body><p><img src="@[brand_logo]" alt="" /></p>
+<p>Dit medielogin er blevet meldt ind i en gruppe, der giver dig særlige rettigheder og adgange. </p>
+<p>Du kan se mere om din adgang her:</p>
+<p> Se dine særlige adgange her: <strong><a href="@[medielogin_host]/grupper">@[medielogin_host]/grupper</a></strong></p>
+<p>@[welcome_brand_specific]</p>
+<p>Med venlig hilsen </p>
+<p>@[greetings]</p>
+<p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>
+
+</body>
+</html>

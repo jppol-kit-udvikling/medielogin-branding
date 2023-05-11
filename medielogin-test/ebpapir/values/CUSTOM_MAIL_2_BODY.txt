@@ -1,1 +1,11 @@
-CUSTOM_MAIL_2_BODY
+Kære $[FirstName:bruger]
+
+Vi har nu oprettet et Medielogin til dig, så du kan læse E-avisen og benytte dig af selvbetjening.
+
+Aktiver dit Medielogin her: @[medielogin_host]/@[branding_path]/@[activateStem]?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]
+
+Med dit Medielogin kan du logge ind på JP/Politikens Hus’ digitale tilbud og tjenester f. eks. Politiken.dk, Jyllands-Posten.dk, Finans.dk og Ekstrabladet.dk. I praksis betyder det at du skal huske færre brugernavne og adgangskoder. Læs mere om Medielogin her: @[medielogin_host]/faq
+
+@[welcome_brand_specific]
+
+Venlig hilsen

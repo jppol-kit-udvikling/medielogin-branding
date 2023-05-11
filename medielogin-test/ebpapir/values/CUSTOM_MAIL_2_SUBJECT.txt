@@ -1,1 +1,1 @@
-CUSTOM_MAIL_2_SUBJECT
+Aktiver dit Medielogin på @[brand_name]
