@@ -1,2 +1,2 @@
 https://test.medielogin
-dk/
+dk
