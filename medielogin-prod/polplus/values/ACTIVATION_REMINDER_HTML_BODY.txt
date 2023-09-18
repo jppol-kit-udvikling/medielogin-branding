@@ -1,8 +1,0 @@
-<p><img style="width: 267px; height: 21px; padding: 20px;" src="@[imageSource]/logo__politiken-plus.jpg" alt="" /><br /><br /></p>
-<div style="background-color: #fff; padding: 20px; font-family: Georgia; font-size: 18px;">
-<p>Kære $[FirstName:bruger]</p>
-<p>Vi har for nylig oprettet en profil til dig på Politiken Plus, men du mangler lige at få den aktiveret - det gør du via dette link.</p>
-<p><a href="@[medielogin_host]/plus/activate?userid=$[USERID]&activationcode=$[ACTIVATION_CODE]&redirect=@[server]">Aktiver din profil her</a> <br /><br />Husk at vælge en adgangskode. Adgangskoden skal være på mindst seks tegn og indeholde både tal og bogstaver.</p>
-<p>Hvis du har spørgsmål eller problemer med din profil, er du altid velkommen til at kontakte os via <a href="http://politiken.dk/kundecenter">politiken.dk/kundecenter</a> eller ringe på 70 15 01 01</p>
-<p><br />Venlig hilsen<br /><br />Politiken Plus<br /><br /></p>
-- På Politiken benytter vi det fælles Medielogin, som også bruges på andre hjemmesider med tilknytning til JP/Politikens hus. Læs mere om <a href="http://medielogin.dk">Medielogin</a></div>
