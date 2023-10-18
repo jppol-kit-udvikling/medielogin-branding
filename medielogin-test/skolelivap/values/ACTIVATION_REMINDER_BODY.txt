@@ -1,18 +1,18 @@
-        KÃ¦re $[FirstName:bruger]
+        Kære $[FirstName:bruger]
         
-Du har nu oprettet et Medielogin til Skoleliv.dk og er allerede godt i gang, men du mangler lige at aktivere din profil. For at aktivere din profil, skal du klikke pÃ¥ dette link
+Du har nu oprettet et Medielogin til Skoleliv.dk og er allerede godt i gang, men du mangler lige at aktivere din profil. For at aktivere din profil, skal du klikke på dette link
         
         @[server]polid/activate?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]&forwardTo=https://test.skoleliv.dk/webservice/skoleliv_trial
         
         
-        Husk at vÃ¦lge en adgangskode. Adgangskoden skal vÃ¦re pÃ¥ mindst seks tegn og indeholde bÃ¥de tal og bogstaver.
+        Husk at vælge en adgangskode. Adgangskoden skal være på mindst otte tegn og indeholde både tal og bogstaver.
         
-        Hvis du oplever problemer i relation til Skoleliv.dk, kan du finde kontaktinformation pÃ¥ http://skoleliv.dk/om.
+        Hvis du oplever problemer i relation til Skoleliv.dk, kan du finde kontaktinformation på http://skoleliv.dk/om.
 
         Venlig hilsen 
         Skoleliv
         
-        PÃ¥ Skoleliv benytter vi det fÃ¦lles Medielogin, som ogsÃ¥ bruges pÃ¥ andre hjemmesider med tilknytning til JP/Politikens hus. LÃ¦s mere om Medielogin pÃ¥ http://medielogin.dk
+        På Skoleliv benytter vi det fælles Medielogin, som også bruges på andre hjemmesider med tilknytning til JP/Politikens hus. Læs mere om Medielogin på http://medielogin.dk
         
        
       
