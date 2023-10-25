@@ -3,7 +3,7 @@
 <p style="font-family: Georgia; font-size: 18px;">Kære $[FirstName:bruger]</p>
 <p style="font-family: Georgia; font-size: 18px;">Kultur, debat og baggrund. Politiken er meget mere end nyheder.</p>
 <p><span style="font-family: Georgia;"><span style="font-size: 18px;">Du har nu oprettet et Medielogin til Politiken.dk og er allerede godt i gang, men du mangler lige at aktivere din profil. For at aktivere din profil, skal du klikke på <a href="@[server]polid/activate?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]&forwardTo=http://politiken.dk/polbruger/velkommen/">dette link</a>.</span></span></p>
-<p style="font-family: Georgia; font-size: 18px;">Husk at vælge en adgangskode. Adgangskoden skal være på mindst seks tegn og indeholde både tal og bogstaver.</p>
+<p style="font-family: Georgia; font-size: 18px;">Husk at vælge en adgangskode. Adgangskoden skal være på mindst otte tegn og indeholde både tal og bogstaver.</p>
 <p style="font-family: Georgia; font-size: 18px;">Hvis du har spørgsmål, kan du skrive til os via <a href="http://politiken.dk/kundecenter">politiken.dk/kundecenter</a> eller ringe på 70 15 01 01</p>
 <p style="font-family: Georgia; font-size: 18px;">Venlig hilsen<br />Politiken</p>
 <span style="font-family: Georgia;"><span style="font-size: 18px;">På Politiken benytter vi det fælles Medielogin, som også bruges på andre hjemmesider med tilknytning til JP/Politikens hus. Læs mere om </span></span><a style="font-family: Georgia; font-size: 18px;" href="http://medielogin.dk">Medielogin</a></div>
