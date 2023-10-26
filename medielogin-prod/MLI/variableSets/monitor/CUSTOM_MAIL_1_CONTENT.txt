@@ -2,7 +2,7 @@
 
 <h2>Tillykke med din adgang hos Monitormedier.</h2>
 
-<p>Gennem dette link kan du lave en adgangskode: <a href="https://medielogin.dk/monitormedier/resetpassword">https://medielogin.dk/monitormedier/resetpassword?$[Username:]</a></p>
+<p>Gennem dette link kan du lave en adgangskode: <a href="https://medielogin.dk/monitormedier/resetpassword?username=$[Username:]">https://medielogin.dk/monitormedier/resetpassword?username=$[Username:]</a></p>
 
 <p>Hvis du allerede har et aktivt Medielogin til et andet nyhedsmedie under JP/Politikens Hus (f.eks. Politiken eller Jyllands-Posten), bruger du blot samme login på dit nye Monitormedie.</p>
 
