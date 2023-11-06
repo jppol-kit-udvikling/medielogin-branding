@@ -1,4 +1,6 @@
 <html>
 body{background: yellow;}
-<body></body>
+<body>
+Hello
+</body>
 </html>
