@@ -1,1 +1,1 @@
-branding names 'bold'
+branding named 'bold'
