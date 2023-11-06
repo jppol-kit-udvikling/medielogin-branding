@@ -1,6 +1,0 @@
-<html>
-<head><title>Welcome</title></head>
-<body>
-From the bottom of my heart
-</body>
-</html>
