@@ -1,6 +1,6 @@
-Dit medielogin er blevet meldt ind i en gruppe, der giver dig særlige rettigheder og adgange. 
+Denne mail er sendt til dig ved en fejl. 
 
-Du kan se mere om din adgang her: @[medielogin_host]/grupper
+Vi beklager.
 
-Med venlig hilsen 
-<p>@[greetings]</p>
+Mvh
+Medielogin
