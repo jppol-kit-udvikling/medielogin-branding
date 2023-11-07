@@ -1,5 +1,7 @@
 <html>
+<style>
 body{background: yellow;}
+</style>
 <body>
 Hello
 </body>
