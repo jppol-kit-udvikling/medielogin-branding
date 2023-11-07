@@ -4,7 +4,7 @@
 <link href="https://fonts.googleapis.com/css?family=Open Sans:regular" media="all" rel="stylesheet" type="text/css">
 <style>
 /* -------------------------------------
-                GLOBAL RESETS
+                GLOBAL RESETS..
             ------------------------------------- */
 
             /*All the styling goes here*/
