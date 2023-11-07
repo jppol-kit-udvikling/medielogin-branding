@@ -1,6 +1,6 @@
 <html>
 <style>
-body{background: yellow;}
+body{background: @[color];}
 </style>
 <body>
 Hello
