@@ -1,1 +1,1 @@
-@[activation_send_hours]
+24
