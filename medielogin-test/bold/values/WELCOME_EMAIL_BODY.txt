@@ -6,6 +6,4 @@ Aktiver dit Medielogin her: @[medielogin_host]/@[branding_path]/@[activateStem]?
 
 Med dit Medielogin kan du logge ind på JP/Politikens Hus’ digitale tilbud og tjenester f. eks. Politiken.dk, Jyllands-Posten.dk, Finans.dk og Ekstrabladet.dk. I praksis betyder det at du skal huske færre brugernavne og adgangskoder. Læs mere om Medielogin her: @[medielogin_host]/faq
 
-@[welcome_brand_specific]
-
 Venlig hilsen
