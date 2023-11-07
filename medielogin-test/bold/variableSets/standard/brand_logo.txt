@@ -1,1 +1,1 @@
-https://test.medielogin.dk/upload/bolddk_logo_white.png
+https://static-bolddk-prod.s3.eu-central-1.amazonaws.com/billeder/bolddk-rektangel.jpg
