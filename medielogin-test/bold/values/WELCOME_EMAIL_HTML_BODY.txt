@@ -385,7 +385,7 @@
                                     <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                                     <tbody>
                                         <tr>
-                                        <td> <a href="@[medielogin_host]/@[branding_path]/@[activateStem]?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]" target="_blank">Aktiver Medielogin</a> </td>
+                                        <td> <a href="@[medielogin_host]/@[branding_path]/activate?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]" target="_blank">Aktiver Medielogin</a> 
                                         </tr>
                                     </tbody>
                                     </table>
