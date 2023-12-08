@@ -415,8 +415,8 @@
                               <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                                 <tbody>
                                   <tr>
-                                    <td> <a href="$[CHANGE_EMAIL_LINK]" target="_blank">Bekræft skift af
-                                        e-mailadresse</a>
+                                    <td> <a href="$[CHANGE_EMAIL_LINK]" target="_blank" style="color:#fff !important; text-decoration: none !important;">Bekræft skift af
+                                        e-mail</a>
                                   </tr>
                                 </tbody>
                               </table>
