@@ -420,7 +420,7 @@
                                   <tr>
                                     <td> <a
                                         href="@[medielogin_host]/@[branding_path]/activate?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]"
-                                        target="_blank">Aktiver Medielogin</a> </td>
+                                        target="_blank" style="color:#fff !important; text-decoration: none !important;">Aktiver Medielogin</a> </td>
                                   </tr>
                                 </tbody>
                               </table>
