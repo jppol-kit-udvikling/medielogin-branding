@@ -1,2 +1,1 @@
-https://test.medielogin
-dk
+https://test.medielogin.dk
