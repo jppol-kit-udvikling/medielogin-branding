@@ -1,4 +1,4 @@
-Kære ${FirstName:ansatte i JP/Politikens Hus},
+Kære $[FirstName:ansatte i JP/Politikens Hus],
 
 Medarbejdere i koncernen har adgang til koncernens digitale abonnementer:                            
 
