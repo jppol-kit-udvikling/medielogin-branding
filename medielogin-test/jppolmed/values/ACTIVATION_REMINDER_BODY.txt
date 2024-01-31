@@ -1,6 +1,6 @@
-Kære $[Username:]
+Kære $[FirstName:]
 
-Husk at du som medarbejder i koncernen har adgang til koncernens digitale abonnementer.
+Husk at du som medarbejder i JP/Politikens Hus har adgang til koncernens digitale abonnementer.
 
 Du skal aktivere din profil før du får adgang. Klik på nedenstående link, vælg din adgangskode, log ind. Så er du i gang!
 
@@ -13,15 +13,25 @@ $[Username:]
 Hvad dækker adgangen?
 Med adgangen har du som ansat adgang til: 
 
-Ekstra Bladet EKSTRA. Det vil sige alle låste artikler, som er markeret med en stjerne på ekstrabladet.dk. Se et overblik her: http://ekstrabladet.dk/ekstra 
+Ekstra Bladet+. Det vil sige alle låste artikler, som er markeret med et plus
+på ekstrabladet.dk. Se et overblik her: http://ekstrabladet.dk/plus
+Alle artikler på https://jyllands-posten.dk/ 
+Alle artikler på https://politiken.dk/ 
+Alle artikler på https://monitormedier.dk/ 
+Alle låste artikler på https://bold.dk/ 
+Alle artikler på https://watchmedier.dk/, når du er på husets netværk.
 
-Jyllands-Posten Premium. Det vil sige alle låste artikler, som er markeret med en nøgle på jyllands-posten.dk. Se et overblik her:   http://www.jyllands-posten.dk/premium/ 
-
-Alle artikler på http://politiken.dk/ 
+Du kan også oprette et personligt login, så du kan læse artikler på Watch
+Medier fra telefonen eller hjemmefra. Det kan du gøre her:
+https://secure.mediawatch.dk/user/create . Husk også her at bruge din primære
+arbejdsemailadresse.
 
 Hvad dækker adgangen IKKE?
-Adgangen giver ikke adgang til de tre eAviser (de digitale udgaver af koncernens aviser). 
+Adgangen giver ikke adgang til de tre eaviser (de digitale udgaver af koncernens aviser). 
 Hvis du i dag har adgang til en eller flere eAviser, fortsætter det uændret.
 
+Har du problemer med at logge ind eller at få adgang til artiklerne, kan du få hjælp hos Servicedesk. De kan kontaktes på telefon 33 47 22 44, eller ved personlig henvendelse.
+
 Venlig hilsen
-Peter Borup
+Mia Riedel
+Koncernpersonalechef
