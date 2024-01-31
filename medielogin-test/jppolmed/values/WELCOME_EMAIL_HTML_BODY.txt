@@ -1,0 +1,47 @@
+<div style="font-size: 15px; font-family: Calibri, sans-serif;">
+<p><strong>K&aelig;re ${FirstName:ansatte i JP/Politikens Hus},</strong></p>
+<p>Medarbejdere i JP/Politikens Hus har adgang til koncernens digitale abonnementer:</p>
+<p><img src="@[imagePath]/medieloginlogo.png" alt="medielogin_logo" /></p>
+<div>Via nyhedsmediernes fælles login har du som ansat adgang til:</div>
+<ul>
+<li>Ekstra Bladet+. Det vil sige alle l&aring;ste artikler, som er markeret
+med en stjerne p&aring; ekstrabladet.dk. Se et overblik her:&nbsp;<a
+href="http://ekstrabladet.dk/plus"
+target="_blank"><span>http://ekstrabladet.dk/plus</span></a></li>
+
+<li>Alle artikler p&aring; <a
+href="https://jyllands-posten.dk">https://jyllands-posten.dk</a>
+</li>
+<li>Alle artikler p&aring; <a
+href="https://politiken.dk">https://politiken.dk</a>
+</li>
+</ul>
+<div>Adgangen giver ikke adgang til de tre e-aviser (de digitale udgaver af koncernens aviser). Men hvis du allerede har adgang til en eller flere e-aviser, forts&aelig;tter det u&aelig;ndret.</div>
+<div>&nbsp;</div>
+<div><strong>For at komme i gang skal du klikke p&aring; dette link:</strong></div>
+<p><a href="@[medielogin_url]/mli/setpassword?activationcode=$[ACTIVATION_CODE]&amp;userid=$[USERID]">@[medielogin_url]/mli/setpassword/?activationcode=$[ACTIVATION_CODE]&amp;userid=$[USERID]</a></p>
+<div>Du skal benytte din prim&aelig;re arbejdsmailadresse, n&aring;r du logger ind, for at f&aring; den s&aelig;rlige medarbejderadgang. Din prim&aelig;re arbejdsmailadresse er:</div>
+<div>&nbsp;</div>
+<div>$[Username:]</div>
+<div>&nbsp;</div>
+<p><img src="http://mediawatch.dk/mediawimg/header/mediaWLogoTop.png" alt="Mediawatch logo" width="247" height="30" /></p>
+<p>Du kan ogs&aring; bruge dit login til at l&aelig;se 
+nyheder p&aring; <a
+href="https://monitormedier.dk">https://monitormedier.dk</a> og til at
+l&aelig;se Bold+ artikler p&aring; <a
+href="https://bold.dk">https://bold.dk</a>.
+
+<p>Herudover har du mulighed for at l&aelig;se branchespecifikke nyheder fra
+Watch Medier p&aring;&nbsp;<a href="http://watchmedier.dk/"
+target="_blank">http://watchmedier.dk/</a>, n&aring;r du er logget ind
+p&aring; husets netv&aelig;rk.</p>
+<p>Du kan ogs&aring; oprette et personligt login, s&aring; l&aelig;nge du
+benytter din prim&aelig;re arbejdsmailadresse, s&aring; du kan l&aelig;se
+artikler p&aring; Watch Medier fra telefonen eller hjemmefra. &nbsp;Det kan du g&oslash;re her:&nbsp;<a href="https://secure.mediawatch.dk/user/create" target="_blank">https://secure.mediawatch.dk/user/create</a>.</p>
+<p>Har du problemer med at logge ind eller at f&aring; adgang til artiklerne,
+kan du f&aring; hj&aelig;lp hos Servicedesk. De kan kontaktes p%aring; telefon
+33 47 22 44, eller ved personlig henvendelse.</p>
+<p>Venlig hilsen</p>
+<p><strong>Mia Riedel Lentz</strong></p>
+<p>Koncernpersonalechef</p>
+</div>

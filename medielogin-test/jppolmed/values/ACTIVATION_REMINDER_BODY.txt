@@ -1,0 +1,27 @@
+Kære $[Username:]
+
+Husk at du som medarbejder i koncernen har adgang til koncernens digitale abonnementer.
+
+Du skal aktivere din profil før du får adgang. Klik på nedenstående link, vælg din adgangskode, log ind. Så er du i gang!
+
+@[medielogin_url]/mli/setpassword/?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]
+
+NB! Du har kun denne særlige medarbejderadgang, hvis du logger ind på et af de tre sites med din primære arbejdsmailadresse som er: 
+
+$[Username:]
+
+Hvad dækker adgangen?
+Med adgangen har du som ansat adgang til: 
+
+Ekstra Bladet EKSTRA. Det vil sige alle låste artikler, som er markeret med en stjerne på ekstrabladet.dk. Se et overblik her: http://ekstrabladet.dk/ekstra 
+
+Jyllands-Posten Premium. Det vil sige alle låste artikler, som er markeret med en nøgle på jyllands-posten.dk. Se et overblik her:   http://www.jyllands-posten.dk/premium/ 
+
+Alle artikler på http://politiken.dk/ 
+
+Hvad dækker adgangen IKKE?
+Adgangen giver ikke adgang til de tre eAviser (de digitale udgaver af koncernens aviser). 
+Hvis du i dag har adgang til en eller flere eAviser, fortsætter det uændret.
+
+Venlig hilsen
+Peter Borup
