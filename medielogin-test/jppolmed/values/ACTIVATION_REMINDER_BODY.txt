@@ -1,4 +1,4 @@
-Kære $[FirstName:]
+Kære $[FirstName:kollega]
 
 Husk at du som medarbejder i JP/Politikens Hus har adgang til koncernens digitale abonnementer.
 

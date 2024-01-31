@@ -22,7 +22,7 @@ href="@[medielogin_url]/mli/setpassword/?activationcode=$[ACTIVATION_CODE]&useri
 NB! Du har kun denne særlige medarbejderadgang, hvis du logger ind på et af de tre sites med din primære arbejdsmailadresse som er: 
 </p>
 
-<p><strong>$[Username:]</strong></p>
+<p><strong>$[Username:kollega]</strong></p>
 
 <p>
 Hvad dækker adgangen?
