@@ -24,7 +24,6 @@ href="https://politiken.dk">https://politiken.dk</a>
 <div>&nbsp;</div>
 <div>$[Username:]</div>
 <div>&nbsp;</div>
-<p><img src="http://mediawatch.dk/mediawimg/header/mediaWLogoTop.png" alt="Mediawatch logo" width="247" height="30" /></p>
 <p>Du kan ogs&aring; bruge dit login til at l&aelig;se 
 nyheder p&aring; <a
 href="https://monitormedier.dk">https://monitormedier.dk</a> og til at
