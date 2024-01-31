@@ -1,7 +1,7 @@
 <div style="font-size: 15px; font-family: Calibri, sans-serif;">
 <p><strong>K&aelig;re $[FirstName:ansatte i JP/Politikens Hus],</strong></p>
 <p>Medarbejdere i JP/Politikens Hus har adgang til koncernens digitale abonnementer:</p>
-<p><img src="@[imagePath]/medieloginlogo.png" alt="medielogin_logo" /></p>
+<p><img src="@[medielogin_url]/upload/medielogin-logo.png" alt="medielogin_logo" /></p>
 <div>Via nyhedsmediernes fælles login har du som ansat adgang til:</div>
 <ul>
 <li>Ekstra Bladet+. Det vil sige alle l&aring;ste artikler, som er markeret
