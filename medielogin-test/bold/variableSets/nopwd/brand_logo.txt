@@ -1,1 +1,1 @@
-https://static-bolddk-prod.s3.eu-central-1.amazonaws.com/billeder/bolddk-rektangel.jpg
+https://s3.eu-central-1.amazonaws.com/static.bold.dk/picture/960x630/logo-bold-1.png
