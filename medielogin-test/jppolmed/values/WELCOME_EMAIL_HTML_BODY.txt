@@ -36,9 +36,9 @@ target="_blank">http://watchmedier.dk/</a>, n&aring;r du er logget ind
 p&aring; husets netv&aelig;rk.</p>
 <p>Du kan ogs&aring; oprette et personligt login, s&aring; l&aelig;nge du
 benytter din prim&aelig;re arbejdsmailadresse, s&aring; du kan l&aelig;se
-artikler p&aring; Watch Medier fra telefonen eller hjemmefra. &nbsp;Det kan du g&oslash;re her:&nbsp;<a href="https://secure.mediawatch.dk/user/create" target="_blank">https://secure.mediawatch.dk/user/create</a>.</p>
+artikler fra Watch Medier p&aring; telefonen eller hjemmefra. Det kan du g&oslash;re her:&nbsp;<a href="https://secure.mediawatch.dk/user/create" target="_blank">https://secure.mediawatch.dk/user/create</a>.</p>
 <p>Har du problemer med at logge ind eller at f&aring; adgang til artiklerne,
-kan du f&aring; hj&aelig;lp hos Servicedesk. De kan kontaktes p%aring; telefon
+kan du f&aring; hj&aelig;lp hos Servicedesk. De kan kontaktes p&aring; telefon
 33 47 22 44, eller ved personlig henvendelse.</p>
 <p>Venlig hilsen</p>
 <p><strong>Mia Riedel Lentz</strong></p>
