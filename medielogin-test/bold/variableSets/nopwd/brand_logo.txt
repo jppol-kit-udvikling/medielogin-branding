@@ -1,1 +1,1 @@
-https://s3.eu-central-1.amazonaws.com/static.bold.dk/img/tag/256x256/bold-square-1.jpg
+https://s3.eu-central-1.amazonaws.com/static.bold.dk/picture/960x630/logo-bold-1.png

@@ -454,7 +454,7 @@
                         src="https://medielogin.dk/upload/footer/EB_logo_113x100.png">
                       <img class="product-link" style="height: 15px;"
                         src="https://medielogin.dk/upload/footer/Jyllands-Posten.jpg">
-                      <img class="product-link" style="height: 35px;" height="35" width="53" src="@[brand_logo]">
+                      <img class="product-link" style="height: 53px;" height="53" width="53" src="@[brand_logo]">
                       <img class="product-link" style="height: 15px;"
                         src="https://medielogin.dk/upload/footer/Finans.jpg">
                     </td>
