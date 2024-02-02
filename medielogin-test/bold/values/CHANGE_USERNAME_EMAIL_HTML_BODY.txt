@@ -375,12 +375,12 @@
       }
 
       .btn-primary table td:hover {
-        background-color: #008965 !important;
+        background-color: #5ddd49 !important;
       }
 
       .btn-primary a:hover {
-        background-color: #008965 !important;
-        border-color: #008965 !important;
+        background-color: #5ddd49 !important;
+        border-color: #5ddd49 !important;
       }
     }
   </style>
@@ -395,15 +395,16 @@
 
           <!-- START CENTERED WHITE CONTAINER -->
 
-          <table role="presentation" class="main">
+          <table role="presentation" class="main" style="background-color: #ffffff !important;"
+            style="background-color: #ffffff !important;">
 
             <!-- START MAIN CONTENT AREA -->
             <tr>
               <td class="wrapper">
 
-                <a href="https://bold.dk" target="_blank"><img style="height: 52px !important; margin-bottom: 16px"
-                    src="https://s3.eu-central-1.amazonaws.com/static.bold.dk/picture/960x630/logo-bold-1.png"
-                    alt="Bold" /></a>
+                <a href="https://bold.dk" target="_blank"><img
+                    style="height: 52px !important; margin-bottom: 16px !important" src="@[brand_logo]" alt="Bold"
+                    height="52" width="79" /></a>
                 <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                   <tr>
                     <td>
@@ -453,8 +454,7 @@
                         src="https://medielogin.dk/upload/footer/EB_logo_113x100.png">
                       <img class="product-link" style="height: 15px;"
                         src="https://medielogin.dk/upload/footer/Jyllands-Posten.jpg">
-                      <img class="product-link" style="height: 35px;"
-                        src="https://s3.eu-central-1.amazonaws.com/static.bold.dk/picture/960x630/logo-bold-1.png">
+                      <img class="product-link" style="height: 35px;" height="35" width="53" src="@[brand_logo]">
                       <img class="product-link" style="height: 15px;"
                         src="https://medielogin.dk/upload/footer/Finans.jpg">
                     </td>
