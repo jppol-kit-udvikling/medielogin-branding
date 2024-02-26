@@ -13,7 +13,8 @@ $[Username:]
 Hvad dækker adgangen?
 Med adgangen har du som ansat adgang til: 
 
-Ekstra Bladet EKSTRA. Det vil sige alle låste artikler, som er markeret med en stjerne på ekstrabladet.dk. Se et overblik her: http://ekstrabladet.dk/ekstra 
+Ekstra Bladet+. Det vil sige alle låste artikler, som er markeret med en
+stjerne på ekstrabladet.dk. Se et overblik her: http://ekstrabladet.dk/plus
 
 Jyllands-Posten Premium. Det vil sige alle låste artikler, som er markeret med en nøgle på jyllands-posten.dk. Se et overblik her:   http://www.jyllands-posten.dk/premium/ 
 
@@ -24,4 +25,4 @@ Adgangen giver ikke adgang til de tre eAviser (de digitale udgaver af koncernens
 Hvis du i dag har adgang til en eller flere eAviser, fortsætter det uændret.
 
 Venlig hilsen
-Peter Borup
+Mia Riedel Lentz

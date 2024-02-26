@@ -4,7 +4,7 @@
 <p><img src="@[imagePath]/medieloginlogo.png" alt="medielogin_logo" /></p>
 <div>Via medielogin har du som ansat adgang til:&nbsp;</div>
 <ul>
-<li>Ekstra Bladet EKSTRA. Det vil sige alle l&aring;ste artikler, som er markeret med en stjerne p&aring;&nbsp;ekstrabladet.dk. Se et overblik her:&nbsp;<a id="LPlnk820573" href="http://ekstrabladet.dk/ekstra" target="_blank"><span id="LPlnk820573">http://ekstrabladet.dk/ekstra</span></a></li>
+<li>Ekstra Bladet+. Det vil sige alle l&aring;ste artikler, som er markeret med en stjerne p&aring;&nbsp;ekstrabladet.dk. Se et overblik her:&nbsp;<a id="LPlnk820573" href="https://ekstrabladet.dk/plus" target="_blank"><span id="LPlnk820573">https://ekstrabladet.dk/plus</span></a></li>
 <li>Jyllands-Posten Premium. Det vil sige alle l&aring;ste artikler, som er markeret med en n&oslash;gle p&aring;&nbsp;jyllands-posten.dk. Se et overblik her: &nbsp;&nbsp;<a id="LPlnk27152" href="http://www.jyllands-posten.dk/premium/" target="_blank"><span id="LPlnk27152">http://www.jyllands-posten.dk/premium/</span></a></li>
 <li>Alle artikler p&aring;&nbsp;<a id="LPlnk549774" href="http://politiken.dk/" target="_blank"><span id="LPlnk549774">http://politiken.dk/</span></a></li>
 </ul>

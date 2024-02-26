@@ -11,7 +11,7 @@
 <p><strong>Hvad d&aelig;kker adgangen?</strong></p>
 <p>Med adgangen har du som ansat adgang til:&nbsp;</p>
 <ul>
-<li>Ekstra Bladet EKSTRA. Det vil sige alle l&aring;ste artikler, som er markeret med en stjerne p&aring; ekstrabladet.dk. Se et overblik her: http://ekstrabladet.dk/ekstra&nbsp;</li>
+<li>Ekstra Bladet+. Det vil sige alle l&aring;ste artikler, som er markeret med en stjerne p&aring; ekstrabladet.dk. Se et overblik her: https://ekstrabladet.dk/plus&nbsp;</li>
 <li>Jyllands-Posten Premium. Det vil sige alle l&aring;ste artikler, som er markeret med en n&oslash;gle p&aring; jyllands-posten.dk. Se et overblik her: &nbsp; http://www.jyllands-posten.dk/premium/&nbsp;</li>
 <li>Alle artikler p&aring; http://politiken.dk/&nbsp;</li>
 </ul>
