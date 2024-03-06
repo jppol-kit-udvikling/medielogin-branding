@@ -1,0 +1,2 @@
+Dummy branding cloned from Default. Need to get JPs integration test to get
+proper welcome mail tasks.
