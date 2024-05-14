@@ -5,7 +5,7 @@ Du har nu oprettet et Medielogin til Skoleliv.dk og er allerede godt i gang, men
         @[server]polid/activate?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]&forwardTo=https://test.skoleliv.dk/webservice/skoleliv_trial
         
         
-        Husk at vælge en adgangskode. Adgangskoden skal være på mindst otte tegn og indeholde både tal og bogstaver.
+        Husk at vælge en adgangskode. Adgangskoden skal være på mindst otte tegn og indeholde både små og store bogstaver, tal og specialtegn.  
         
         Hvis du oplever problemer i relation til Skoleliv.dk, kan du finde kontaktinformation på http://skoleliv.dk/om.
 

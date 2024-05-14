@@ -6,7 +6,7 @@
         
         
         
-        Husk at vælge en adgangskode. Adgangskoden skal være på mindst otte tegn og indeholde både tal og bogstaver.
+        Husk at vælge en adgangskode. Adgangskoden skal være på mindst otte tegn og indeholde både små og store bogstaver, tal og specialtegn.  
       
 Hvis du oplever problemer i relation til Skoleliv.dk, kan du finde kontaktinformation på http://skoleliv.dk/om_skoleliv.
 
