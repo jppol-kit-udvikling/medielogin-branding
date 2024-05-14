@@ -4,9 +4,7 @@ Du har oprettet en Politiken Profil. For at aktivere din profil, skal du inden f
 
 @[server]bruger/opret/angivadgangskode/?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]
 
-
-
-Husk at vælge en adgangskode. Adgangskoden skal være på mindst otte tegn og indeholde både tal og bogstaver.
+Husk at vælge en adgangskode. Adgangskoden skal være på mindst otte tegn og indeholde både små og store bogstaver, tal og specialtegn.
 
 
 Venlig hilsen Politiken

@@ -5,9 +5,7 @@ Du har oprettet en JP/Politikens Forlag Profil. For at aktivere din profil, skal
 
 @[server]cart/activate.html?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]
 
-
-
-Husk at vælge en adgangskode. Adgangskoden skal være på mindst otte tegn og indeholde både tal og bogstaver.
+Husk at vælge en adgangskode. Adgangskoden skal være på mindst otte tegn og indeholde både små og store bogstaver, tal og specialtegn. 
 
 Hvis du oplever problemer i relation til politikensforlag.dk, kan du kontakte Support på support@politikensforlag.dk. 
 

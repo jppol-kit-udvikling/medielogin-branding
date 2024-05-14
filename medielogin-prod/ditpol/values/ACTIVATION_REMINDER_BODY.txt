@@ -6,7 +6,7 @@ Du har nu oprettet et Medielogin til Politiken.dk og er allerede godt i gang, me
         @[server]polid/activate?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]&forwardTo=http://politiken.dk/polbruger/velkommen/
         
         
-        Husk at vælge en adgangskode. Adgangskoden skal være på mindst otte tegn og indeholde både tal og bogstaver.
+        Husk at vælge en adgangskode. Adgangskoden skal være på mindst otte tegn og indeholde både små og store bogstaver, tal og specialtegn.
         
         Hvis du oplever problemer i relation til politiken.dk, kan du skrive til os via http://politiken.dk/kundecenter eller ringe på 70 15 01 01
 
