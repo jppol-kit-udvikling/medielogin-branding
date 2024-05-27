@@ -1,8 +1,0 @@
-<html>
-<style>
-body{background: @[color];}
-</style>
-<body>
-Hello
-</body>
-</html>
