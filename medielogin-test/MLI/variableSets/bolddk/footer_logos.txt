@@ -1,5 +1,5 @@
-<div style="width: 120px; display: flex; flex-direction: rows;"><img style="max-height: 45px; max-width: 120px;" src="@[medielogin_host]/content/svg/Politiken.svg"></div>
-<img style="max-height: 45px; max-width: 120px;" src="@[medielogin_host]/content/svg/ekstra-bladet.svg">
-<img style="max-height: 45px; max-width: 120px;" src="@[medielogin_host]/content/svg/Jyllands-Posten.svg">
-<img style="max-height: 45px; max-width: 120px;" src="@[medielogin_host]/content/svg/finansLogo.svg">
-<img style="max-height: 45px; max-width: 120px;" src="@[medielogin_host]/content/svg/bold_logo_black.svg"></div>
+<div class="fi"><img  class="fi" src="https://test.medielogin.dk/content/svg/Jyllands-Posten.svg"></div>
+<div class="fi"><img  class="fi" src="https://test.medielogin.dk/content/svg/ekstra-bladet.svg"></div>
+<div class="fi"><img class="fi" src="https://test.medielogin.dk/content/svg/Politiken.svg"></div>
+<div class="fi"><img  class="fi" src="https://test.medielogin.dk/content/svg/bold_logo_black.svg"></div>	
+<div class="fi"><img  class="fi" src="https://test.medielogin.dk/content/svg/finansLogo.svg"></div>
