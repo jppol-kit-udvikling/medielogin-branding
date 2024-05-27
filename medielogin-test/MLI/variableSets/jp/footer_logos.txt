@@ -1,0 +1,5 @@
+<img style="height: 79px; width: 100px;" src="/content/svg/Politiken.svg">
+<img style="height: 79px; width: 100px;" src="/content/svg/ekstra-bladet.svg">
+<img style="height: 79px; width: 100px;" src="/content/svg/Jyllands-Posten.svg">
+<img style="height: 79px; width: 100px;" src="/content/svg/finansLogo.svg">
+<img style="height: 79px; width: 100px;" src="/content/svg/bold_logo_black.svg">
