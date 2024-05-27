@@ -1,5 +1,5 @@
-<img style="height: 79px; width: 100px;" src="/content/svg/Politiken.svg">
-<img style="height: 79px; width: 100px;" src="/content/svg/ekstra-bladet.svg">
-<img style="height: 79px; width: 100px;" src="/content/svg/Jyllands-Posten.svg">
-<img style="height: 79px; width: 100px;" src="/content/svg/finansLogo.svg">
-<img style="height: 79px; width: 100px;" src="/content/svg/bold_logo_black.svg">
+<img style="height: 79px; width: 100px;" src="@[medielogin_host]/content/svg/Politiken.svg">
+<img style="height: 79px; width: 100px;" src="@[medielogin_host]/content/svg/ekstra-bladet.svg">
+<img style="height: 79px; width: 100px;" src="@[medielogin_host]/content/svg/Jyllands-Posten.svg">
+<img style="height: 79px; width: 100px;" src="@[medielogin_host]/content/svg/finansLogo.svg">
+<img style="height: 79px; width: 100px;" src="@[medielogin_host]/content/svg/bold_logo_black.svg">
