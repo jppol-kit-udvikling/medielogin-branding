@@ -1,4 +1,4 @@
-<div style="width: 120px; display: flex; flex-directorion: rows;"><img style="max-height: 45px; max-width: 120px;" src="@[medielogin_host]/content/svg/Politiken.svg"></div>
+<div style="width: 120px; display: flex; flex-direction: rows;"><img style="max-height: 45px; max-width: 120px;" src="@[medielogin_host]/content/svg/Politiken.svg"></div>
 <img style="max-height: 45px; max-width: 120px;" src="@[medielogin_host]/content/svg/ekstra-bladet.svg">
 <img style="max-height: 45px; max-width: 120px;" src="@[medielogin_host]/content/svg/Jyllands-Posten.svg">
 <img style="max-height: 45px; max-width: 120px;" src="@[medielogin_host]/content/svg/finansLogo.svg">
