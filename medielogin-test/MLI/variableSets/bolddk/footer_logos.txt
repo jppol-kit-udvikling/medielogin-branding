@@ -2,4 +2,4 @@
 <div class="fi"><img  class="fi" src="@[medielogin_host]/upload/EB_logo_113x100.png</div>
 <div class="fi"><img  class="fi" src="@[medielogin_host]/upload/politiken-no-underline2.png</div>
 <div class="fi"><img  class="fi" src="https://test.medielogin.dk/content/svg/bold_logo_black.svg"></div>	
-<div class="fi"><img  class="fi" src="https://test.medielogin.dk/content/svg/finansLogo.svg"></div>
+<div class="fi"><img  class="fi" src="@[medielogin_host]/upload/footer/finans.jpg</div>
