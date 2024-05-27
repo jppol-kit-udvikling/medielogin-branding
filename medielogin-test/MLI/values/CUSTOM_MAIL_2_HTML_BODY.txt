@@ -5,6 +5,8 @@ button.ml-button {align-content: center;background: #ccc;border: 0;border-radius
 a:hover{text-decoration: none}
 a:hover button.ml-button  {color: white; background-color: #000;}
 a{text-decoration: none}
+div.fi {  width: 180px;   height: 45px;  display: inline-block;   flex-direction: rows;  line-height: 45px;    text-align: center; }
+img.fi {  margin: auto;  vertical-align: middle;  max-height: 40px;   max-width: 140px;  display: inline-block; }
 </style>
 </head>
 <body>
@@ -14,6 +16,5 @@ a{text-decoration: none}
 <p>Du kan se og rette dine kontaktindstillinger via dette link: <strong><a href="@[medielogin_host]/mit/kontaktindstillinger/edit?email=Fn[encodeUriComponent][$[Username:]]&verification=$[permissionVerificationCode:]">@[medielogin_host]/mit/kontaktindstillinger/edit?email=Fn[encodeUriComponent][$[Username:]]&verification=$[permissionVerificationCode:]</a></strong></p>
 <p>Venlig hilsen</p>
 <p>JP/Politikens Hus</p>
-<p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>
-</body>
+<p>@[footer_logos]</p></body>
 </html>
