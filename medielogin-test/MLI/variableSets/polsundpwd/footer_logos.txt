@@ -1,5 +1,5 @@
 <div class="fi"><img  class="fi" src="@[medielogin_host]/upload/Jyllands-Posten.jpg"/></div>
 <div class="fi"><img  class="fi" src="@[medielogin_host]/upload/EB_logo_113x100.png"/></div>
 <div class="fi"><img  class="fi" src="@[medielogin_host]/upload/politiken-no-underline2.png"></div>
-<div class="fi"><img  class="fi" src="https://test.medielogin.dk/upload/bold_logo_black.png"/></div>
+<div class="fi"><img  class="fi" src="@[medielogin_host]/upload/bold_logo_black.png"/></div>
 <div class="fi"><img  class="fi" src="@[medielogin_host]/upload/footer/finans.jpg"/></div>
