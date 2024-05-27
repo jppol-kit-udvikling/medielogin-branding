@@ -1,0 +1,5 @@
+<div class="fi"><img  class="fi" src="https://test.medielogin.dk/content/svg/Jyllands-Posten.svg"></div>
+<div class="fi"><img  class="fi" src="https://test.medielogin.dk/content/svg/ekstra-bladet.svg"></div>
+<div class="fi"><img class="fi" src="https://test.medielogin.dk/content/svg/Politiken.svg"></div>
+<div class="fi"><img  class="fi" src="https://test.medielogin.dk/content/svg/bold_logo_black.svg"></div>	
+<div class="fi"><img  class="fi" src="https://test.medielogin.dk/content/svg/finansLogo.svg"></div>
