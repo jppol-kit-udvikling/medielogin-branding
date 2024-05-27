@@ -5,11 +5,11 @@ button.ml-button {align-content: center;background: #ccc;border: 0;border-radius
 a:hover{text-decoration: none}
 a:hover button.ml-button  {color: white; background-color: #000;}
 a{text-decoration: none}
-</style>
-</head>
+div.fi {  width: 180px;   height: 45px;  display: inline-block;   flex-direction: rows;  line-height: 45px;    text-align: center; }
+img.fi {  margin: auto;  vertical-align: middle;  max-height: 40px;   max-width: 140px;  display: inline-block; }
+</style></head>
 <body><p><img src="@[brand_logo]" alt="" style="max-width:680px; max-height: 120px" /></p>
 @[CUSTOM_MAIL_1_CONTENT]
-<p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>
-
+<p>@[footer_logos]</p>
 </body>
 </html>
