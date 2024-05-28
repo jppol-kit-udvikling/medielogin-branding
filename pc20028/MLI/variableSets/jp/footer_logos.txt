@@ -1,0 +1,9 @@
+<table>
+<tr>
+<td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/Jyllands-Posten.jpg"/></td>
+<td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/EB_logo_113x100.png"/></td>
+<td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/politiken-no-underline2.png"></td>
+<td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/bold_logo_black.png"/></td>
+<td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/footer/finans.jpg"/></td>
+</tr>
+</table>

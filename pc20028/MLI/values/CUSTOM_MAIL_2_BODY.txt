@@ -1,1 +1,9 @@
-CUSTOM_MAIL_2_BODY
+Kære $[Username:bruger]
+
+Du har bedt om at se de kontaktindstillinger der er gemt om din mailadresse hos JP/Politikens Hus
+
+Du kan se og rette dine kontaktindstillinger via dette link: @[medielogin_host]/mit/kontaktindstillinger/edit?email=Fn[encodeUriComponent][$[Username:]]&verification=$[permissionVerificationCode:]
+
+Venlig hilsen
+
+JP/Politikens Hus

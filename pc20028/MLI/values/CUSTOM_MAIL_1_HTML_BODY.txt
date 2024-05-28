@@ -1,1 +1,10 @@
-CUSTOM_MAIL_1_HTML_BODY
+<html>
+<head>
+<style>
+@[css]
+</style></head>
+<body><p><img src="@[brand_logo]" alt="" style="max-width:680px; max-height: 120px" /></p>
+@[CUSTOM_MAIL_1_CONTENT]
+<p>@[footer_logos]</p>
+</body>
+</html>

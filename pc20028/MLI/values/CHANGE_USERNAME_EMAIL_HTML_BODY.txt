@@ -1,1 +1,20 @@
-Du har bedt om at skifte brugernavn til din brugerkonto hos JyllandsPosten, Ekstra Bladet og Politiken. Benyt følgende link $[ACTIVATION_LINK] for at starte aktiveringen. Bemærk at du skal benytte din eksisterende email-adresse og brugernvan for at få lov til at skifte brugernavnet.      <br/>  Activation link: $[ACTIVATION_LINK]  <br/>  Activation code: $[ACTIVATION_CODE]  <br/>  Reset pwd link: $[RESET_PASSWORD_LINK]  <br/>  Change email: $[CHANGE_EMAIL_LINK]
+<html>
+<head>
+<style>
+@[css]
+</style>
+</head>
+<body>
+<p><img src="@[brand_logo]" alt="" style="max-width:680px; max-height: 120px" /></p>
+<p class="MsoNormal">Du har bedt om at skifte din e-mailadresse tilknyttet dit Medielogin. Klik på linket nedenfor for at bekræfte.</p>
+<p>Skift e-mailadresse her: <strong><a href="$[CHANGE_EMAIL_LINK]">$[CHANGE_EMAIL_LINK]</a></strong></p>
+<p></p>
+<p>Bemærk at linket kun er gyldigt i 24 timer.</p>
+<p class="MsoNormal">Med dit Medielogin kan du logge ind på JP/Politikens Hus’ digitale tilbud og tjenester f. eks. Politiken.dk, Jyllands-Posten.dk, Finans.dk og Ekstrabladet.dk.  I praksis betyder det at du skal huske færre brugernavne og adgangskoder. Læs mere om Medielogin her: <a href="@[medielogin_host]/faq">@[medielogin_host]/faq</a></p>
+<p> </p>
+<p>Med venlig hilsen</p>
+<p>Medielogin</p>
+<p>- en del af JP/Politikens Hus</p>
+<p>@[footer_logos]</p>
+</body>
+</html>

@@ -1,1 +1,1 @@
-CUSTOM_MAIL_1_SUBJECT
+Velkommen til @[brand_name] - du har nu fået adgang

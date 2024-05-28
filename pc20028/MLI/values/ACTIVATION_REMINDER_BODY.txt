@@ -1,13 +1,9 @@
+For en uge siden oprettede vi et Medelogin til dig. Men du mangler stadig at aktivere din konto og vælge adgangskode. Det gør du via dette link:
 
-        For en uge siden oprettede du en brugerkonto hos JP/Politikens Hus, men du mangler stadig at aktivere din konto og vælge adgangskode. Det gør du via dette link:
-
-        $[ACTIVATION_LINK]&activationcode=$[ACTIVATION_CODE]
-
+@[medielogin_host]/login/aktiver/?ac=$[ACTIVATION_CODE]&userid=$[USERID]&@[queryaddition]
 
 
-        Bemærk at hvis du ikke har aktiveret din brugerkonto indenfor en måned bliver den slettet og du skal så oprette dig igen
+Bemærk at hvis du ikke har aktiveret din brugerkonto indenfor en måned bliver den slettet og du skal så oprette dig igen
 
 
-
-        Rigtig god fornøjelse!
-      
+Rigtig god fornøjelse!
