@@ -7,8 +7,3 @@ a{text-decoration: none}
 div.fi {  scale: 1; width: 180px;   height: 60px;  display: inline-block;   flex-direction: rows;  line-height: 60px;    text-align: center; }
 img.fi {  scale: 1; margin: auto;  vertical-align: middle;  max-height: 40px;   max-width: 140px;  display: inline-block; }
 </style>
-<!--[if gte mso 9]>
-<style type="text/css">
-img.fi { width: 600px; } /* or something like that */
-</style>
-<![endif]-->
