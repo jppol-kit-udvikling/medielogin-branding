@@ -1,8 +1,6 @@
 <html>
 <head>
-<style>
 @[css]
-</style>
 </head>
 <body>
 <h1>Kære $[FirstName:bruger]</h1>
