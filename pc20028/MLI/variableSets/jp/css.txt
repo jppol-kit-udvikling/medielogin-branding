@@ -4,6 +4,6 @@ button.ml-button {align-content: center;background: #ccc;border: 0;border-radius
 a:hover{text-decoration: none}
 a:hover button.ml-button {color: white; background-color: #000;}
 a{text-decoration: none}
-div.fi { scale: 1; width: 180px; height: 60px; display: inline-block; flex-direction: rows; line-height: 60px; text-align: center; }
-img.fi { scale: 1; margin: auto; vertical-align: middle; max-height: 40px; max-width: 140px; display: inline-block; }
+div.fi { scale: 2; width: 180px; height: 60px; display: inline-block; flex-direction: rows; line-height: 60px; text-align: center; }
+img.fi { scale: 2; margin: auto; vertical-align: middle; max-height: 40px; max-width: 140px; display: inline-block; }
 </style>
