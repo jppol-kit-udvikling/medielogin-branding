@@ -1,8 +1,8 @@
 <table>
 <tr>
 <td width="120" height="60"><img height="45" src="@[medielogin_host]/upload/Jyllands-Posten.jpg"/></td>
-<td width="120" height="60"><img height="45" src="@[medielogin_host]/upload/EB_logo_113x100.png"/></td>
-<td width="120" height="60"><img height="45" src="@[medielogin_host]/upload/politiken-no-underline2.png"></td>
+<td width="120" height="60"><img height="45" src="@[medielogin_host]/upload/EB_logo.png"/></td>
+<td width="120" height="60"><img height="45" src="@[medielogin_host]/upload/politiken.png"></td>
 <td width="120" height="60"><img height="45" src="@[medielogin_host]/upload/bold_logo_black.png"/></td>
 <td width="120" height="60"><img height="45" src="@[medielogin_host]/upload/footer/finans.jpg"/></td>
 </tr>
