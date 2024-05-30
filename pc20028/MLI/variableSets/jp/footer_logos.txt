@@ -1,5 +1,5 @@
-<div class="fi"><img norescale="norescale" height="40px" class="fi" src="@[medielogin_host]/upload/footer/email/politiken.png"></div>
-<div class="fi"><img norescale="norescale" height="40px" class="fi" src="@[medielogin_host]/upload/footer/email/EB_logo.png"/></div>
-<div class="fi"><img norescale="norescale" height="40px" class="fi" src="@[medielogin_host]/upload/footer/email/Jyllands-Posten.jpg"/></div>
-<div class="fi"><img norescale="norescale" height="40px" class="fi" src="@[medielogin_host]/upload/footer/email/bold_logo_black.png"/></div>
-<div class="fi"><img norescale="norescale" height="40px" class="fi" src="@[medielogin_host]/upload/footer/email/finans.jpg"/></div>
+<div class="fi"><img norescale="norescale" class="fi" src="@[medielogin_host]/upload/footer/email/politiken.png"></div>
+<div class="fi"><img norescale="norescale" class="fi" src="@[medielogin_host]/upload/footer/email/EB_logo.png"/></div>
+<div class="fi"><img norescale="norescale" class="fi" src="@[medielogin_host]/upload/footer/email/Jyllands-Posten.jpg"/></div>
+<div class="fi"><img norescale="norescale" class="fi" src="@[medielogin_host]/upload/footer/email/bold_logo_black.png"/></div>
+<div class="fi"><img norescale="norescale" class="fi" src="@[medielogin_host]/upload/footer/email/finans.jpg"/></div>
