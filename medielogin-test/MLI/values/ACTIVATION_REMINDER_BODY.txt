@@ -1,5 +1,14 @@
-For en uge siden oprettede vi et Medelogin til dig. Men du mangler stadig at aktivere din konto og vælge adgangskode. Det gør du via dette link:
+Kære $[FirstName:Bruger]
 
-@[medielogin_host]/login/aktiver/?ac=$[ACTIVATION_CODE]&userid=$[USERID]&@[queryaddition]
+@[brand_activation_teaser]
 
-Rigtig god fornøjelse!
+Du aktiverer nemt dit Medielogin her: @[medielogin_host]/login/aktiver/?ac=$[ACTIVATION_CODE]&userid=$[USERID]&@[queryaddition]
+
+@[contact_support]
+
+Du kan også læse om Medielogin her: @[medielogin_host]/faq
+
+Med venlig hilsen
+@[greetings]
+- en del af JP/Politikens Hus
+
