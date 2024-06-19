@@ -3,7 +3,4 @@ For en uge siden oprettede vi et Medelogin til dig. Men du mangler stadig at akt
 @[medielogin_host]/login/aktiver/?ac=$[ACTIVATION_CODE]&userid=$[USERID]&@[queryaddition]
 
 
-Bemærk at hvis du ikke har aktiveret din brugerkonto indenfor en måned bliver den slettet og du skal så oprette dig igen
-
-
 Rigtig god fornøjelse!
