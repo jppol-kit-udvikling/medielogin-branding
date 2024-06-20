@@ -6,11 +6,11 @@
 </head>
 <body>
 <h1>Kære $[FirstName:bruger]</h1>
-<p class="MsoNormal">Du har bedt om at skifte din e-mailadresse tilknyttet dit Medielogin. Klik på linket nedenfor for at bekræfte.</p>
-<p>Skift e-mailadresse her: <strong><a href="$[CHANGE_EMAIL_LINK]">$[CHANGE_EMAIL_LINK]</a></strong></p>
+<p>Du har bedt om at skifte din e-mailadresse tilknyttet dit Medielogin. Klik på linket nedenfor for at bekræfte.</p>
+<p><strong><a href="$[CHANGE_EMAIL_LINK]">Skift e-mailadresse her.</a></strong></p>
 <p></p>
 <p>Bemærk at linket kun er gyldigt i 24 timer.</p>
-<p class="MsoNormal">Med dit Medielogin kan du logge ind på JP/Politikens Hus’ digitale tilbud og tjenester f. eks. Politiken.dk, Jyllands-Posten.dk, Finans.dk og Ekstrabladet.dk.  I praksis betyder det at du skal huske færre brugernavne og adgangskoder. Læs mere om Medielogin her: <a href="@[medielogin_host]/faq">@[medielogin_host]/faq</a></p>
+<p>Med dit Medielogin kan du logge ind på JP/Politikens Hus’ digitale tilbud og tjenester f. eks. Politiken.dk, Jyllands-Posten.dk, Finans.dk og Ekstrabladet.dk.  I praksis betyder det at du skal huske færre brugernavne og adgangskoder. <a href="@[medielogin_host]/faq">Læs mere om Medielogin her.</a></p>
 <p> </p>
 <p>Med venlig hilsen</p>
 <p>Medielogin</p>
