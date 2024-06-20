@@ -7,9 +7,9 @@
 <body>
 <h1>Kære $[FirstName:bruger]</h1>
 <p>@[branding_activation_teaser]</p>
-<p>Du aktiverer nemt <strong><a href="@[medielogin_host]/@[branding_path]/activate?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]">dit Medielogin her: @[medielogin_host]/@[branding_path]/activate?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]</a></strong></p>
+<p><a href="@[medielogin_host]/@[branding_path]/activate?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]"><strong>Du aktiverer nemt dit Medielogin her.</strong></a></p>
 @[contact_support]
-<p>Du kan også læse om Medielogin her: <a href="@[medielogin_host]/faq">@[medielogin_host]/faq</a></p>
+<p><a href="@[medielogin_host]/faq">Du kan også læse om Medielogin her.</a></p>
 <p>@[welcome_brand_specific]</p>
 <p>Venlig hilsen</p>
 <p>@[greetings]</p>
