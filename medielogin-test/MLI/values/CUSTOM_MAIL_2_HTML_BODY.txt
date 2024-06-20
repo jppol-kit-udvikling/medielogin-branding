@@ -5,7 +5,6 @@
 </style>
 </head>
 <body>
-<p><img src="@[brand_logo]" alt="" style="max-width:680px; max-height: 120px" /></p>
 <h4>Kære $[Username:bruger]</h4>
 <p>Du har bedt om at se de kontaktindstillinger der er gemt om din mailadresse hos JP/Politikens Hus</p>
 <p>Du kan se og rette dine kontaktindstillinger via dette link: <strong><a href="@[medielogin_host]/mit/kontaktindstillinger/edit?email=Fn[encodeUriComponent][$[Username:]]&verification=$[permissionVerificationCode:]">@[medielogin_host]/mit/kontaktindstillinger/edit?email=Fn[encodeUriComponent][$[Username:]]&verification=$[permissionVerificationCode:]</a></strong></p>

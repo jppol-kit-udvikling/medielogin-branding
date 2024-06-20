@@ -5,7 +5,7 @@
 </style>
 </head>
 <body>
-<p><img src="@[brand_logo]" alt="" style="max-width:680px; max-height: 120px" /></p>
+<h1>Kære $[FirstName:bruger]</h1>
 <p class="MsoNormal">Du har bedt om at skifte din e-mailadresse tilknyttet dit Medielogin. Klik på linket nedenfor for at bekræfte.</p>
 <p>Skift e-mailadresse her: <strong><a href="$[CHANGE_EMAIL_LINK]">$[CHANGE_EMAIL_LINK]</a></strong></p>
 <p></p>
