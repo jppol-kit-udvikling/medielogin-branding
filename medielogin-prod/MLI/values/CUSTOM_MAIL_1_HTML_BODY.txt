@@ -1,15 +1,10 @@
 <html>
 <head>
 <style>
-button.ml-button {align-content: center;background: #ccc;border: 0;border-radius: 5px;color: #000;cursor: pointer;display: -ms-flexbox;display: flex;font-weight: bold;line-height: 26px;-ms-flex-pack: center;justify-content: center;min-height: 40px; margin-left:30px;}
-a:hover{text-decoration: none}
-a:hover button.ml-button  {color: white; background-color: #000;}
-a{text-decoration: none}
-</style>
-</head>
-<body><p><img src="@[brand_logo]" alt="" style="max-width:680px; max-height: 120px" /></p>
+@[css]
+</style></head>
+<h1>Kære $[FirstName:bruger]</h1>
 @[CUSTOM_MAIL_1_CONTENT]
-<p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>
-
+<p>@[footer_logos]</p>
 </body>
 </html>
