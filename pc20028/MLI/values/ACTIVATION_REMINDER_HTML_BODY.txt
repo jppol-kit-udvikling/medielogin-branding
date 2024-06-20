@@ -1,14 +1,12 @@
 <html>
 <head>
 <style>
-<style>
 @[css]
-</style>
 </style>
 </head>
 <body>
 <h1>Kære $[FirstName:bruger]</h1>
-<p>Du har endnu ikke fået aktiveret dit Medielogin. Det er en skam, for der venter adgang til en masse spændende indhold på @[brand_website] og i vores apps på den anden side.</p>
+<p>@[branding_activation_teaser]</p>
 <p>Du aktiverer nemt <strong><a href="@[medielogin_host]/@[branding_path]/activate?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]">dit Medielogin her: @[medielogin_host]/@[branding_path]/activate?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]</a></strong></p>
 @[contact_support]
 <p>Du kan også læse om Medielogin her: <a href="@[medielogin_host]/faq">@[medielogin_host]/faq</a></p>

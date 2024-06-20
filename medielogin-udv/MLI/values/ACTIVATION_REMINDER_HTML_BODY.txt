@@ -1,23 +1,19 @@
 <html>
 <head>
 <style>
-button.ml-button {align-content: center;background: #ccc;border: 0;border-radius: 5px;color: #000;cursor: pointer;display: -ms-flexbox;display: flex;font-weight: bold;line-height: 26px;-ms-flex-pack: center;justify-content: center;min-height: 40px; margin-left:30px;}
-a:hover{text-decoration: none}
-a:hover button.ml-button  {color: white; background-color: #000;}
-a{text-decoration: none}
+@[css]
 </style>
 </head>
 <body>
-
-<p><img src="@[brand_logo]" alt="" /></p>
 <h1>Kære $[FirstName:bruger]</h1>
-<p>Du har nu oprettet et Medielogin, men du mangler at aktivere dit Medielogin.</p>
-<p>Aktiver dit Medielogin her: <strong><a href="@[medielogin_host]/@[branding_path]/activate?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]">@[medielogin_host]/@[branding_path]/activate?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]</a></strong></p>
-<p>Med dit Medielogin kan du logge ind på JP/Politikens Hus’ digitale tilbud og tjenester f. eks. Politiken.dk, Jyllands-Posten.dk, Finans.dk og Ekstrabladet.dk. I praksis betyder det at du skal huske færre brugernavne og adgangskoder. Læs mere om Medielogin her: <a href="@[medielogin_host]/faq">@[medielogin_host]/faq</a></p>
+<p>@[branding_activation_teaser]</p>
+<p>Du aktiverer nemt <strong><a href="@[medielogin_host]/@[branding_path]/activate?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]">dit Medielogin her: @[medielogin_host]/@[branding_path]/activate?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]</a></strong></p>
+@[contact_support]
+<p>Du kan også læse om Medielogin her: <a href="@[medielogin_host]/faq">@[medielogin_host]/faq</a></p>
 <p>@[welcome_brand_specific]</p>
 <p>Venlig hilsen</p>
 <p>@[greetings]</p>
 <p>-en del af JP/Politikens Hus</p>
-<p><img style="max-height: 79px;" src="@[medielogin_host]/content/img/mli-email-footer.png" alt="" /></p>
+<p>@[footer_logos]</p>
 </body>
 </html>

@@ -1,5 +1,9 @@
-<div class="fi"><img  class="fi" src="@[medielogin_host]/upload/email/footer/Jyllands-Posten_s.png"/></div>
-<div class="fi"><img  class="fi" src="@[medielogin_host]/upload/email/footer/EB_m.png"/></div>
-<div class="fi"><img  class="fi" src="@[medielogin_host]/upload/email/footer/politiken_s.png"></div>
-<div class="fi"><img  class="fi" src="@[medielogin_host]/upload/email/footer/bold_logo_black_s.png"/></div>
-<div class="fi"><img  class="fi" src="@[medielogin_host]/upload/email/footer/finans_s.png"/></div>
+<table>
+<tr>
+<td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/Jyllands-Posten_s.png"/></td>
+<td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/EB_s.png"/></td>
+<td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/politiken_s.png"></td>
+<td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/bold_logo_black_s.png"/></td>
+<td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/Finans_s.png"/></td>
+</tr>
+</table>
