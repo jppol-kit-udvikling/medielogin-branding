@@ -1,6 +1,6 @@
 
 <span class="fi"><img class="fi" src="@[medielogin_host]/upload/email/footer/Jyllands-Posten_s.png"/></span>
-<span class="fi"><img class="fi" src="@[medielogin_host]/upload/email/footer/EB_s.png"/></span>
+<span class="fi"><img class="fi" src="@[medielogin_host]/upload/email/footer/EB_m.png"/></span>
 <span class="fi"><img class="fi" src="@[medielogin_host]/upload/email/footer/politiken_s.png"></span>
 <span class="fi"><img class="fi" src="@[medielogin_host]/upload/email/footer/bold_logo_black_s.png"/></span>
 <span class="fi"><img class="fi" src="@[medielogin_host]/upload/email/footer/Finans_s.png"/></span>
