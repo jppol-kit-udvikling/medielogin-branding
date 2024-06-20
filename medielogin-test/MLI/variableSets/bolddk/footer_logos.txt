@@ -1,5 +1,9 @@
-<div class="fi"><img  class="fi" src="@[medielogin_host]/upload/Jyllands-Posten.jpg"/></div>
-<div class="fi"><img  class="fi" src="@[medielogin_host]/upload/EB_logo_113x100.png"/></div>
-<div class="fi"><img  class="fi" src="@[medielogin_host]/upload/politiken-no-underline2.png"></div>
-<div class="fi"><img  class="fi" src="@[medielogin_host]/upload/bold_logo_black.png"/></div>
-<div class="fi"><img  class="fi" src="@[medielogin_host]/upload/footer/finans.jpg"/></div>
+<table>
+<tr>
+<td style="text-align: center; width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/Jyllands-Posten_s.png"/></td>
+<td style="text-align: center; width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/EB_s.png"/></td>
+<td style="text-align: center; width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/politiken_s.png"></td>
+<td style="text-align: center; width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/bold_logo_black_s.png"/></td>
+<td style="text-align: center; width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/Finans_s.png"/></td>
+</tr>
+</table>
