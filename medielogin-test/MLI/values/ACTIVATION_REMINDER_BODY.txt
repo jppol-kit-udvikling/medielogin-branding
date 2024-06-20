@@ -1,6 +1,6 @@
 Kære $[FirstName:Bruger]
 
-@[brand_activation_teaser]
+@[branding_activation_teaser]
 
 Du aktiverer nemt dit Medielogin her: @[medielogin_host]/login/aktiver/?ac=$[ACTIVATION_CODE]&userid=$[USERID]&@[queryaddition]
 
