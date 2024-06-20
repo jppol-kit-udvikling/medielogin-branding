@@ -1,9 +1,12 @@
 <table>
+<tr><td colspan='5'>
+1
+</td></tr>
 <tr>
-<td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/Jyllands-Posten_s.png"/></td>
-<td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/EB_s.png"/></td>
-<td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/politiken_s.png"></td>
-<td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/bold_logo_black_s.png"/></td>
-<td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/Finans_s.png"/></td>
+<td style="text-align: center; width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/Jyllands-Posten_s.png"/></td>
+<td style="text-align: center; width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/EB_s.png"/></td>
+<td style="text-align: center; width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/politiken_s.png"></td>
+<td style="text-align: center; width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/bold_logo_black_s.png"/></td>
+<td style="text-align: center; width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/Finans_s.png"/></td>
 </tr>
 </table>
