@@ -4,6 +4,6 @@
 <td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/EB_s.png"/></td>
 <td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/politiken_s.png"></td>
 <td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/bold_logo_black_s.png"/></td>
-<td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/footer/Finans_s.jpg"/></td>
+<td style="width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/Finans_s.jpg"/></td>
 </tr>
 </table>
