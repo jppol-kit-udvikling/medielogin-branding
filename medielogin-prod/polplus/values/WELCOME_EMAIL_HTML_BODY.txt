@@ -1,6 +1,6 @@
 
-        <h1>Velkommen til medielogin</h1>
-        <p>Vi er glade for at du har oprettet et medielogin. Via medielogin f&aring;r du det samme login hos Politiken, Jyllands-Posten og Ekstra Bladet jf. den PDF, du har modtaget fra dit tilmeldte dagblad vedr&oslash;rende login til de forskellige applikationer i Nyhedsugen.</p>
+        <h1>Velkommen til Medielogin</h1>
+        <p>Vi er glade for at du har oprettet et Medielogin. Via Medielogin f&aring;r du det samme login hos Politiken, Jyllands-Posten og Ekstra Bladet jf. den PDF, du har modtaget fra dit tilmeldte dagblad vedr&oslash;rende login til de forskellige applikationer i Nyhedsugen.</p>
         <p>F&oslash;r du kan tage kontoen i brug skal du v&aelig;lge et password.&nbsp;<a href="@[medielogin_url]/login/aktiver/?ac=$[ACTIVATION_CODE]&amp;userid=$[USERID]">Du v&aelig;lger password via dette link.</a></p>
         <p>Du kan altid g&aring; ind p&aring;&nbsp;<a href="@[medielogin_url]">@[medielogin_url]</a>&nbsp;for at rette din email-adresse og se hvilke adgange du har.&nbsp;</p>
         <p>Mange hilsner&nbsp;</p>
