@@ -1,6 +1,6 @@
 
-        Velkommen til medielogin
-        Vi er glade for at du har oprettet et medielogin. Via medielogin får du det samme login hos Politiken, Jyllands-Posten og Ekstra Bladet jf. den PDF, du har modtaget fra dit tilmeldte dagblad vedrørende login til de forskellige applikationer i Nyhedsugen.
+        Velkommen til Medielogin
+        Vi er glade for at du har oprettet et Medielogin. Via Medielogin får du det samme login hos Politiken, Jyllands-Posten og Ekstra Bladet jf. den PDF, du har modtaget fra dit tilmeldte dagblad vedrørende login til de forskellige applikationer i Nyhedsugen.
         Før du kan tage kontoen i brug skal du vælge et password. 
         Du vælger password via dette link: @[medielogin_url]/login/aktiver/?ac=$[ACTIVATION_CODE]&userid=$[USERID]
         
