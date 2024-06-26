@@ -1,6 +1,6 @@
 Kære $[FirstName:bruger]
 
-Du har nu oprettet et Medielogin, men du mangler at aktivere dit Medielogin.
+Du har nu oprettet et Medielogin, som bare skal aktiveres, og så er du klar til at dykke ned i vores indhold.
 
 Aktiver dit Medielogin her: @[medielogin_host]/@[branding_path]/@[activateStem]?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]
 
