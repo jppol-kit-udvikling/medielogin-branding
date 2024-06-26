@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>Kære $[FirstName:bruger]</h1>
-<p>Du har nu oprettet et Medielogin, men du mangler at aktivere dit Medielogin.</p>
+<p>Du har nu oprettet et Medielogin, som bare skal aktiveres, og så er du klar til at dykke ned i vores indhold.</p>
 <p><a href="@[medielogin_host]/@[branding_path]/@[activateStem]?userid=$[USERID]&activationCode=$[ACTIVATION_CODE]&@[queryaddition]"><strong>Aktiver dit Medielogin her.</strong></a></p>
 <p>Med dit Medielogin kan du logge ind på JP/Politikens Hus’ digitale tilbud og tjenester f. eks. Politiken.dk, Jyllands-Posten.dk, Finans.dk og Ekstrabladet.dk. I praksis betyder det at du skal huske færre brugernavne og adgangskoder. Læs mere om Medielogin her: <a href="@[medielogin_host]/faq">@[medielogin_host]/faq</a></p>
 <p>@[welcome_brand_specific]</p>
