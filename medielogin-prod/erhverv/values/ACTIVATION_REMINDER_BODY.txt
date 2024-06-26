@@ -24,10 +24,10 @@ $IF[eBladet][
 - eBladet
 ]
 $IF[JP E-avis][
-- Jyllands Posten e-avis
+- Jyllands-Posten e-avis
 ]
 $IF[JP Premium][
-- Jyllands Posten Premium
+- Jyllands-Posten Premium
 ]
 
 ]

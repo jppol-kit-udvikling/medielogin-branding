@@ -38,10 +38,10 @@ $IF[eBladet][
 <li>eBladet</li>
 ]
 $IF[JP E-avis][
-<li>Jyllands Posten e-avis</li>
+<li>Jyllands-Posten e-avis</li>
 ]
 $IF[JP Premium][
-<li>Jyllands Posten Premium</li>
+<li>Jyllands-Posten Premium</li>
 ]
 
 </ul>
