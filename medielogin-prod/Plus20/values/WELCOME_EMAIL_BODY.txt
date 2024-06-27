@@ -7,7 +7,7 @@ Du kan få hjælp hos Politikens Kundecenter eller ved at sende en mail til plus
 
 For at du kan benytte dit Medielogin skal du indenfor 24 timer aktivere det ved at klikke på nedenstående link:
 
-$[ACTIVATION_LINK]&activationcode=$[ACTIVATION_CODE]&brand=Plus20&nopwd=true&redir=http%3A%2F%2Fplus.politiken.dk
+$[ACTIVATION_LINK]&activationcode=$[ACTIVATION_CODE]&brand=Plus20&nopwd=true&redir=http%3A%2F%2Fpolitikenplus.dk
 
 
 Med venlig hilsen
