@@ -10,7 +10,7 @@ Har du glemt din adgangskode, kan du nulstille den her: https://medielogin.dk/po
 Med dit Medielogin kan du logge ind på JP/Politikens Hus’ digitale tilbud og tjenester f.eks. Politiken.dk, Jyllands-Posten.dk, Finans.dk og Ekstrabladet.dk. I praksis betyder det, at du skal huske færre brugernavne og adgangskoder. Læs mere om Medielogin her: https://medielogin.dk/faq
 </p>
 <p>
-<p>Har du spørgsmål, er du velkommen til at kontakte os på kundeservice@monitormedier.dk eller på 7080 6125 (tast 2 for kundeservice).</p>
+Har du spørgsmål, er du velkommen til at kontakte Kundecenter Politiken på tlf. 7015 0101 eller via vores <a href="http://politiken.dk/kundecenter/sporgsmalogsvar/">kontaktside</a>.
 </p>
 <p>
 Med venlig hilsen
