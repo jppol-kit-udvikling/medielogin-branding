@@ -1,46 +1,40 @@
-<div style="font-size: 15px; font-family: Calibri, sans-serif;">
-<p><strong>K&aelig;re $[FirstName:ansatte i JP/Politikens Hus],</strong></p>
-<p>Medarbejdere i JP/Politikens Hus har adgang til koncernens digitale abonnementer:</p>
-<p><img src="@[medielogin_url]/upload/medielogin-logo.png" alt="medielogin_logo" /></p>
-<div>Via nyhedsmediernes fælles login har du som ansat adgang til:</div>
+<h1>Kære ansatte i JP/Politikens Hus</h1>
+
+<p>Medarbejdere i koncernen har adgang til koncernens digitale abonnementer:                            
+ 
+<p>Via Medielogin har du som ansat adgang til:</p>
 <ul>
-<li>Ekstra Bladet+. Det vil sige alle l&aring;ste artikler, som er markeret
-med en stjerne p&aring; ekstrabladet.dk. Se et overblik her:&nbsp;<a
-href="http://ekstrabladet.dk/plus"
-target="_blank"><span>http://ekstrabladet.dk/plus</span></a></li>
-
-<li>Alle artikler p&aring; <a
-href="https://jyllands-posten.dk">https://jyllands-posten.dk</a>
-</li>
-<li>Alle artikler p&aring; <a
-href="https://politiken.dk">https://politiken.dk</a>
-</li>
+<li>Ekstra Bladet+. Det vil sige alle låste artikler, som er markeret med et plus på <a href="https://ekstrabladet.dk">https://ekstrabladet.dk</a></li>
+<li>Bold+. Det vil sige alle låste artikler på <a href="https://bold.dk/plus">https://bold.dk/plus</a></li>
+<li>Alle artikler <a href="https://jyllands-posten.dk/">https://jyllands-posten.dk/</a></li>
+<li>Alle artikler på <a href="https://politiken.dk/">https://politiken.dk/</a></li>
+<li>Alle artikler <a href="https://finans.dk">https://finans.dk</a></li>
 </ul>
-<div>Adgangen giver ikke adgang til de tre e-aviser (de digitale udgaver af koncernens aviser). Men hvis du allerede har adgang til en eller flere e-aviser, forts&aelig;tter det u&aelig;ndret.</div>
-<div>&nbsp;</div>
-<div><strong>For at komme i gang skal du klikke p&aring; dette link:</strong></div>
-<p><a href="@[medielogin_url]/mli/setpassword?activationcode=$[ACTIVATION_CODE]&amp;userid=$[USERID]">@[medielogin_url]/mli/setpassword/?activationcode=$[ACTIVATION_CODE]&amp;userid=$[USERID]</a></p>
-<div>Du skal benytte din prim&aelig;re arbejdsmailadresse, n&aring;r du logger ind, for at f&aring; den s&aelig;rlige medarbejderadgang. Din prim&aelig;re arbejdsmailadresse er:</div>
-<div>&nbsp;</div>
-<div>$[Username:]</div>
-<div>&nbsp;</div>
-<p>Du kan ogs&aring; bruge dit login til at l&aelig;se 
-nyheder p&aring; <a
-href="https://monitormedier.dk">https://monitormedier.dk</a> og til at
-l&aelig;se Bold+ artikler p&aring; <a
-href="https://bold.dk">https://bold.dk</a>.
+<p>
+Adgangen giver ikke adgang til e-aviser (de digitale udgaver af koncernens aviser). Men hvis du allerede har adgang til en eller flere e-aviser, fortsætter det uændret.
+</p> 
+<p>
+For at komme i gang skal du klikke på nedenstående link: <br />
+<a href="@[medielogin_url]/mli/setpassword/?activationcode=$[ActivationCode]&userid=$[USER_ID]">@[medielogin_url]/mli/setpassword/?activationcode=$[ActivationCode]&userid=$[USER_ID]</a>
+</p>
 
-<p>Herudover har du mulighed for at l&aelig;se branchespecifikke nyheder fra
-Watch Medier p&aring;&nbsp;<a href="http://watchmedier.dk/"
-target="_blank">http://watchmedier.dk/</a>, n&aring;r du er logget ind
-p&aring; husets netv&aelig;rk.</p>
-<p>Du kan ogs&aring; oprette et personligt login, s&aring; l&aelig;nge du
-benytter din prim&aelig;re arbejdsmailadresse, s&aring; du kan l&aelig;se
-artikler fra Watch Medier p&aring; telefonen eller hjemmefra. Det kan du g&oslash;re her:&nbsp;<a href="https://secure.mediawatch.dk/user/create" target="_blank">https://secure.mediawatch.dk/user/create</a>.</p>
-<p>Har du problemer med at logge ind eller at f&aring; adgang til artiklerne,
-kan du f&aring; hj&aelig;lp hos Servicedesk. De kan kontaktes p&aring; telefon
-33 47 22 44, eller ved personlig henvendelse.</p>
-<p>Venlig hilsen</p>
-<p><strong>Mia Riedel Lentz</strong></p>
-<p>Koncernpersonalechef</p>
-</div>
+<p>
+Du skal benytte din primære arbejdsemailadresse, når du logger ind, for at få den særlige medarbejderadgang. Din primære arbejdsemailadresse er:
+</p>
+<p><b>
+$[Username:]
+</b>
+</p>
+
+<p>
+Herudover har du mulighed for at læse branchespecifikke nyheder fra <a href="https://watchmedier.dk/">https://watchmedier.dk/</a> og <a href="https://monitormedier.dk/">https://monitormedier.dk/</a>.
+</p>
+
+<p>
+Du skal være på Husets VPN for at læse artikler fra Watch Medier. Du kan også oprette et personligt login på https://secure.mediawatch.dk/user/create, så du kan læse artikler fra Watch Medier på din telefonen eller hjemmefra. Du skal blot huske at benytte din primære arbejdsemailadresse i oprettelsen.
+</p>
+
+<p>
+Venlig hilsen <br />
+JP/Politikens Hus
+</p>
