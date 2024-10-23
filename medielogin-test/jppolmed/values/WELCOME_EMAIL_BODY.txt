@@ -12,7 +12,7 @@ Via Medielogin har du som ansat adgang til:
 Adgangen giver ikke adgang til e-aviser (de digitale udgaver af koncernens aviser). Men hvis du allerede har adgang til en eller flere e-aviser, fortsætter det uændret.
  
 For at komme i gang skal du klikke på nedenstående link:
-@[medielogin_url]/mli/setpassword/?activationcode=$[ActivationCode]&userid=$[USERID]
+@[medielogin_url]/mli/setpassword/?activationcode=$[ActivationCode:]&userid=$[USERID]
 
 Du skal benytte din primære arbejdsemailadresse, når du logger ind, for at få den særlige medarbejderadgang. Din primære arbejdsemailadresse er:
  

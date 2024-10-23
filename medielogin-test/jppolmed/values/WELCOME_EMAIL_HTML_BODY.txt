@@ -15,7 +15,7 @@ Adgangen giver ikke adgang til e-aviser (de digitale udgaver af koncernens avise
 </p> 
 <p>
 For at komme i gang skal du klikke på nedenstående link: <br />
-<a href="@[medielogin_url]/mli/setpassword/?activationcode=$[ActivationCode]&userid=$[USERID]">@[medielogin_url]/mli/setpassword/?activationcode=$[ActivationCode]&userid=$[USERID]</a>
+<a href="@[medielogin_url]/mli/setpassword/?activationcode=$[ActivationCode:]&userid=$[USERID]">@[medielogin_url]/mli/setpassword/?activationcode=$[ActivationCode:]&userid=$[USERID]</a>
 </p>
 
 <p>
