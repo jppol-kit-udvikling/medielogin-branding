@@ -3,11 +3,11 @@ Kære ansatte i JP/Politikens Hus
 Medarbejdere i koncernen har adgang til koncernens digitale abonnementer:                            
  
 Via Medielogin har du som ansat adgang til: 
-•	Ekstra Bladet+. Det vil sige alle låste artikler, som er markeret med et plus på https://ekstrabladet.dk.
-•	Bold+. Det vil sige alle låste artikler på http://bold.dk/plus
-•	Alle artikler https://jyllands-posten.dk/
-•	Alle artikler på https://politiken.dk/
-•	Alle artikler https://finans.dk
+-	Ekstra Bladet+. Det vil sige alle låste artikler, som er markeret med et plus på https://ekstrabladet.dk.
+-	Bold+. Det vil sige alle låste artikler på http://bold.dk/plus
+-	Alle artikler https://jyllands-posten.dk/
+-	Alle artikler på https://politiken.dk/
+-	Alle artikler https://finans.dk
 
 Adgangen giver ikke adgang til e-aviser (de digitale udgaver af koncernens aviser). Men hvis du allerede har adgang til en eller flere e-aviser, fortsætter det uændret.
  
