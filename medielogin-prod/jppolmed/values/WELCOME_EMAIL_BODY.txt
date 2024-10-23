@@ -1,26 +1,30 @@
-Kære ansatte i JP/Politikens Hus
+Kære ansatte i JP/Politikens Hus,
 
 Medarbejdere i koncernen har adgang til koncernens digitale abonnementer:                            
- 
-Via Medielogin har du som ansat adgang til: 
-•	Ekstra Bladet+. Det vil sige alle låste artikler, som er markeret med et plus på https://ekstrabladet.dk.
-•	Bold+. Det vil sige alle låste artikler på http://bold.dk/plus
-•	Alle artikler https://jyllands-posten.dk/
-•	Alle artikler på https://politiken.dk/
-•	Alle artikler https://finans.dk
 
-Adgangen giver ikke adgang til e-aviser (de digitale udgaver af koncernens aviser). Men hvis du allerede har adgang til en eller flere e-aviser, fortsætter det uændret.
+Via medielogin har du som ansat adgang til: 
+- Ekstra Bladet+. Det vil sige alle låste artikler, som er markeret med en
+  stjerne på ekstrabladet.dk. Se et overblik her: https://ekstrabladet.dk/plus
+- Jyllands-Posten Premium. Det vil sige alle låste artikler, som er markeret med en nøgle på jyllands-posten.dk. Se et overblik her:   http://www.jyllands-posten.dk/premium/
+- Alle artikler på http://politiken.dk/
+
+Adgangen giver ikke adgang til de tre e-aviser (de digitale udgaver af koncernens aviser). Men hvis du allerede har adgang til en eller flere e-aviser, fortsætter det uændret.
  
 For at komme i gang skal du klikke på nedenstående link:
-@[medielogin_url]/mli/setpassword/?activationcode=$[ActivationCode]&userid=$[USER_ID]
+@[medielogin_url]/mli/setpassword/?activationcode=$[ACTIVATION_CODE]&userid=$[USERID]
 
-Du skal benytte din primære arbejdsemailadresse, når du logger ind, for at få den særlige medarbejderadgang. Din primære arbejdsemailadresse er:
+Du skal benytte din primære arbejdsmailadresse, når du logger ind, for at få den særlige medarbejderadgang. Din primære arbejdsmailadresse er:
  
 $[Username:]
  
-Herudover har du mulighed for at læse branchespecifikke nyheder fra https://watchmedier.dk/ og https://monitormedier.dk/.
+Mediawatch
 
-Du skal være på Husets VPN for at læse artikler fra Watch Medier. Du kan også oprette et personligt login på https://secure.mediawatch.dk/user/create, så du kan læse artikler fra Watch Medier på din telefonen eller hjemmefra. Du skal blot huske at benytte din primære arbejdsemailadresse i oprettelsen.
+Herudover har du mulighed for at læse nyheder fra mediebranchen på http://mediawatch.dk/, når du er logget ind på Husets systemer.
+
+Du kan også oprette et personligt login, så længe du benytter din primære arbejdsmailadresse, så du kan læse artikler på Mediawatch fra telefonen eller hjemmefra.  Det kan du gøre her: https://secure.mediawatch.dk/user/create.
 
 Venlig hilsen
-JP/Politikens Hus
+
+Mia Riedel Lentz
+
+Koncernpersonalechef
