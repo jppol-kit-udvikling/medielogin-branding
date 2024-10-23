@@ -1,25 +1,40 @@
-<div style="font-size: 15px; font-family: Calibri, sans-serif;">
-<p><strong>K&aelig;re ansatte i JP/Politikens Hus,</strong></p>
-<p>Medarbejdere i koncernen har adgang til koncernens digitale abonnementer:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p><img src="@[imagePath]/medieloginlogo.png" alt="medielogin_logo" /></p>
-<div>Via medielogin har du som ansat adgang til:&nbsp;</div>
+<h1>Kære ansatte i JP/Politikens Hus</h1>
+
+<p>Medarbejdere i koncernen har adgang til koncernens digitale abonnementer:                            
+ 
+<p>Via Medielogin har du som ansat adgang til:</p>
 <ul>
-<li>Ekstra Bladet+. Det vil sige alle l&aring;ste artikler, som er markeret med en stjerne p&aring;&nbsp;ekstrabladet.dk. Se et overblik her:&nbsp;<a id="LPlnk820573" href="https://ekstrabladet.dk/plus" target="_blank"><span id="LPlnk820573">https://ekstrabladet.dk/plus</span></a></li>
-<li>Jyllands-Posten Premium. Det vil sige alle l&aring;ste artikler, som er markeret med en n&oslash;gle p&aring;&nbsp;jyllands-posten.dk. Se et overblik her: &nbsp;&nbsp;<a id="LPlnk27152" href="http://www.jyllands-posten.dk/premium/" target="_blank"><span id="LPlnk27152">http://www.jyllands-posten.dk/premium/</span></a></li>
-<li>Alle artikler p&aring;&nbsp;<a id="LPlnk549774" href="http://politiken.dk/" target="_blank"><span id="LPlnk549774">http://politiken.dk/</span></a></li>
+<li>Ekstra Bladet+. Det vil sige alle låste artikler, som er markeret med et plus på <a href="https://ekstrabladet.dk">https://ekstrabladet.dk</a></li>
+<li>Bold+. Det vil sige alle låste artikler på <a href="https://bold.dk/plus">https://bold.dk/plus</a></li>
+<li>Alle artikler <a href="https://jyllands-posten.dk/">https://jyllands-posten.dk/</a></li>
+<li>Alle artikler på <a href="https://politiken.dk/">https://politiken.dk/</a></li>
+<li>Alle artikler <a href="https://finans.dk">https://finans.dk</a></li>
 </ul>
-<div>Adgangen giver ikke adgang til de tre e-aviser (de digitale udgaver af koncernens aviser). Men hvis du allerede har adgang til en eller flere e-aviser, forts&aelig;tter det u&aelig;ndret.</div>
-<div>&nbsp;</div>
-<div><strong>For at komme i gang skal du klikke p&aring; nedenst&aring;ende link:</strong></div>
-<p><a href="@[medielogin_url]/mli/setpassword?activationcode=$[ACTIVATION_CODE]&amp;userid=$[USERID]">@[medielogin_url]/mli/setpassword/?activationcode=$[ACTIVATION_CODE]&amp;userid=$[USERID]</a></p>
-<div>Du skal benytte din prim&aelig;re arbejdsmailadresse, n&aring;r du logger ind, for at f&aring; den s&aelig;rlige medarbejderadgang. Din prim&aelig;re arbejdsmailadresse er:</div>
-<div>&nbsp;</div>
-<div>$[Username:]</div>
-<div>&nbsp;</div>
-<p><img src="http://mediawatch.dk/mediawimg/header/mediaWLogoTop.png" alt="Mediawatch logo" width="247" height="30" /></p>
-<p>Herudover har du mulighed for at l&aelig;se nyheder fra mediebranchen p&aring;&nbsp;<a href="http://mediawatch.dk/" target="_blank">http://mediawatch.dk/</a>, n&aring;r du er logget ind p&aring; Husets systemer.</p>
-<p>Du kan ogs&aring; oprette et personligt login, s&aring; l&aelig;nge du benytter din prim&aelig;re arbejdsmailadresse, s&aring; du kan l&aelig;se artikler p&aring; Mediawatch fra telefonen eller hjemmefra. &nbsp;Det kan du g&oslash;re her:&nbsp;<a href="https://secure.mediawatch.dk/user/create" target="_blank">https://secure.mediawatch.dk/user/create</a>.</p>
-<p>Venlig hilsen</p>
-<p><strong>Mia Riedel Lentz</strong></p>
-<p>Koncernpersonalechef</p>
-</div>
+<p>
+Adgangen giver ikke adgang til e-aviser (de digitale udgaver af koncernens aviser). Men hvis du allerede har adgang til en eller flere e-aviser, fortsætter det uændret.
+</p> 
+<p>
+For at komme i gang skal du klikke på nedenstående link: <br />
+<a href="@[medielogin_url]/mli/setpassword/?activationcode=$[ActivationCode:]&userid=$[USERID]">@[medielogin_url]/mli/setpassword/?activationcode=$[ActivationCode:]&userid=$[USERID]</a>
+</p>
+
+<p>
+Du skal benytte din primære arbejdsemailadresse, når du logger ind, for at få den særlige medarbejderadgang. Din primære arbejdsemailadresse er:
+</p>
+<p><b>
+$[Username:]
+</b>
+</p>
+
+<p>
+Herudover har du mulighed for at læse branchespecifikke nyheder fra <a href="https://watchmedier.dk/">https://watchmedier.dk/</a> og <a href="https://monitormedier.dk/">https://monitormedier.dk/</a>.
+</p>
+
+<p>
+Du skal være på Husets VPN for at læse artikler fra Watch Medier. Du kan også oprette et personligt login på https://secure.mediawatch.dk/user/create, så du kan læse artikler fra Watch Medier på din telefonen eller hjemmefra. Du skal blot huske at benytte din primære arbejdsemailadresse i oprettelsen.
+</p>
+
+<p>
+Venlig hilsen <br />
+JP/Politikens Hus
+</p>
