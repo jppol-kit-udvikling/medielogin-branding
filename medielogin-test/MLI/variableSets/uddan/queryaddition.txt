@@ -1,1 +1,1 @@
-redirect=https%3A%2F%2Ftest.uddannelsesmonitor.dk%2Fauth%2Flogin%3FredirectTo%3Dtest.uddannelsesmonitor.dk%252Fprofile%252Fcreate%252Factivation%252Fconfirmation
+redirect=https%3A%2F%2Ftest.uddannelsesmonitor.dk%2Fauth%2Flogin%3FredirectTo%3Dhttps%253A%252F%252Ftest.uddannelsesmonitor.dk%252Fprofile%252Fcreate%252Factivation%252Fconfirmation
