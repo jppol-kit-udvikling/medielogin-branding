@@ -1,1 +1,1 @@
-redirect=https%3A%2F%2Fskoleliv.dk%2Fmedielogin%2Floginnow%3FforwardTo%3D%2Flandingpage%2F
+redirect=https%3A%2F%2Fskolemonitor.dk%2Fauth%2Flogin%3FredirectTo%3Dhttps%253A%252F%252Fskolemonitor.dk%252Fprofile%252Fcreate%252Factivation%252Fconfirmation
