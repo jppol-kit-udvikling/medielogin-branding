@@ -4,6 +4,6 @@
 <td style="text-align: center; width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/EB_s.png"/></td>
 <td style="text-align: center; width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/politiken_s.png"></td>
 <td style="text-align: center; width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/bold_logo_black_s.png"/></td>
-<td style="text-align: center; width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/finans-black.png"/></td>
+<td style="text-align: center; width: 120px; height: 60px"><img class="fi" src="@[medielogin_host]/upload/email/footer/finans-black.png"/></td>
 </tr>
 </table>
