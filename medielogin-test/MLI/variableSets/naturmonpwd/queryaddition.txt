@@ -1,0 +1,1 @@
+redirect=https%3A%2F%2Fnaturmonitor.dk%2Fauth%2Flogin%3FredirectTo%3Dhttps%253A%252F%252Fnaturmonitor.dk%252Fprofile%252Fcreate%252Factivation%252Fconfirmation
