@@ -1,1 +1,1 @@
-?redirect=https://www.dr.dk&redir=https://turistmonitor.dk
+?redirect=https%3A//monitormedier.dk/
